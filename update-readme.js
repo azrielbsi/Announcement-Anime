@@ -4,11 +4,14 @@ const data = fs.readFileSync('data.json');
 const animeData = JSON.parse(data);
 
 let readmeContent = `# Daftar Anime Terbaru\n\n`;
-readmeContent += `| Judul | Gambar | Episode | Hari | Tanggal | Link |\n`;
-readmeContent += `|-------|--------|---------|------|---------|------|\n`;
 
 animeData.result.forEach((anime) => {
-  readmeContent += `| ${anime.title} | ![${anime.title}](${anime.thumb}) | ${anime.eps} | ${anime.day} | ${anime.date} | [Link](${anime.link}) |\n`;
+  readmeContent += `## ${anime.title}\n`;
+  readmeContent += `![${anime.title}](${anime.thumb})\n\n`;
+  readmeContent += `**Episode**: ${anime.eps}\n\n`;
+  readmeContent += `**Hari**: ${anime.day}\n`;
+  readmeContent += `**Tanggal**: ${anime.date}\n`;
+  readmeContent += `[Link](${anime.link})\n\n`;
 });
 
 fs.writeFileSync('README.md', readmeContent);
