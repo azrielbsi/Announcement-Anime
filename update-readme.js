@@ -19,7 +19,7 @@ animeData.result.forEach((anime) => {
   readmeContent += `</tr>`;
   readmeContent += `<tr>`;
   readmeContent += `<td>`;
-  readmeContent += `<table>`;
+  readmeContent += `<table align="center">`;
   readmeContent += `<tr>`;
   readmeContent += `<td>Episode :</td>`;
   readmeContent += `<td align="center">${anime.eps}</td>`;
