@@ -9,8 +9,8 @@ animeData.result.forEach((anime) => {
   readmeContent += `## ${anime.title}\n`;
   readmeContent += `![${anime.title}](${anime.thumb})\n\n`;
   readmeContent += `**Episode**: ${anime.eps}\n\n`;
-  readmeContent += `**Hari**: ${anime.day}\n`;
-  readmeContent += `**Tanggal**: ${anime.date}\n`;
+  readmeContent += `**Hari**: ${anime.day}\n\n`;
+  readmeContent += `**Tanggal**: ${anime.date}\n\n`;
   readmeContent += `[Link](${anime.link})\n\n`;
 });
 
