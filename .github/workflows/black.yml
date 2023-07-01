@@ -1,1 +1,44 @@
+name: Update Readme
 
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Get latest anime data
+        run: |
+          curl -o data.json https://web.api-kyouka.my.id/api/anime/otakudesu/latest?apikey=${{ secrets.API_KEY }}
+
+      - name: Update Readme
+        run: node update-readme.js
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "Yuri-Neko"
+          git config --global user.email "mimin@api-kyouka.my.id"
+
+      - name: Commit and Push changes
+        run: |
+          git add README.md
+          git commit -m "Update Readme.md"
+          git remote set-url origin https://github.com/${{ github.repository }}.git
+          git push
+
+env:
+  GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
