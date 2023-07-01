@@ -3,7 +3,7 @@ const fs = require('fs');
 const data = fs.readFileSync('data.json');
 const animeData = JSON.parse(data);
 
-let readmeContent = `<h3 align="center">Daftar Anime Terbaru</h3>\n\n`;
+let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>\n\n`;
 
 animeData.result.forEach((anime) => {
   readmeContent += `<table align="center">`;
