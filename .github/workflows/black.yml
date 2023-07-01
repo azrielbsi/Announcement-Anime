@@ -36,7 +36,7 @@ jobs:
       - name: Commit and Push changes
         run: |
           git add README.md
-          git commit -m "Update Readme.md"
+          git commit -m "Anime Update"
           git remote set-url origin https://github.com/${{ github.repository }}.git
           git push
 
