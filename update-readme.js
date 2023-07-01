@@ -3,14 +3,14 @@ const fs = require('fs');
 const data = fs.readFileSync('data.json');
 const animeData = JSON.parse(data);
 
-let readmeContent = `# Daftar Anime Terbaru\n\n`;
+let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>\n\n`;
 
 animeData.result.forEach((anime) => {
-  readmeContent += `## ${anime.title}\n`;
-  readmeContent += `![${anime.title}](${anime.thumb})\n\n`;
-  readmeContent += `**Episode**: ${anime.eps}\n`;
-  readmeContent += `**Hari**: ${anime.day}\n`;
-  readmeContent += `**Tanggal**: ${anime.date}\n`;
+  readmeContent += `<h2 align="center">${anime.title}\n</h2>`;
+  readmeContent += `<img align="center" src="${anime.thumb}">\n\n`;
+  readmeContent += `<h3 align="center">Episode :</h3> ${anime.eps}\n`;
+  readmeContent += `<h3 align="center">Hari :</h3> ${anime.day}\n`;
+  readmeContent += `<h3 align="center">Tanggal :</h3> ${anime.date}\n`;
   readmeContent += `[Link](${anime.link})\n\n`;
 });
 
