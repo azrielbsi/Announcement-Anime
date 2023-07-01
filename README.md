@@ -6,7 +6,9 @@
 **Episode**: null
 
 **Hari**: Sabtu
+
 **Tanggal**: 01 Jul
+
 [Link](https://otakudesu.lol/anime/masle-sub-indo/)
 
 ## BanG Dream! It's MyGO!!!!!
@@ -15,7 +17,9 @@
 **Episode**: 1
 
 **Hari**: Jumat
+
 **Tanggal**: 30 Jun
+
 [Link](https://otakudesu.lol/anime/bg-dream-go-sub-indo/)
 
 ## Niehime to Kemono no Ou
@@ -24,7 +28,9 @@
 **Episode**: 11
 
 **Hari**: Kamis
+
 **Tanggal**: 29 Jun
+
 [Link](https://otakudesu.lol/anime/niehime-kemono-ou-sub-indo/)
 
 ## Kaminaki Sekai no Kamisama Katsudou
@@ -33,7 +39,9 @@
 **Episode**: 11
 
 **Hari**: Kamis
+
 **Tanggal**: 29 Jun
+
 [Link](https://otakudesu.lol/anime/kamisama-katsudou-sub-indo/)
 
 ## Isekai de Cheat Skill wo Te ni Shita Ore wa
@@ -42,7 +50,9 @@
 **Episode**: 13
 
 **Hari**: Selasa
+
 **Tanggal**: 29 Jun
+
 [Link](https://otakudesu.lol/anime/iseleve-sub-indo/)
 
 ## Oshi no Ko
@@ -51,7 +61,9 @@
 **Episode**: 11
 
 **Hari**: Kamis
+
 **Tanggal**: 29 Jun
+
 [Link](https://otakudesu.lol/anime/oshi-noko-sub-indo/)
 
 ## Majutsushi Orphen Hagure Tabi Season 4
@@ -60,7 +72,9 @@
 **Episode**: 12
 
 **Hari**: Rabu
+
 **Tanggal**: 28 Jun
+
 [Link](https://otakudesu.lol/anime/majutsushi-orphen-s4-sub-indo/)
 
 ## The Marginal Service
@@ -69,7 +83,9 @@
 **Episode**: 12
 
 **Hari**: Selasa
+
 **Tanggal**: 28 Jun
+
 [Link](https://otakudesu.lol/anime/marginal-service-sub-indo/)
 
 ## Dead Mount Death Play
@@ -78,7 +94,9 @@
 **Episode**: 12
 
 **Hari**: Selasa
+
 **Tanggal**: 27 Jun
+
 [Link](https://otakudesu.lol/anime/demount-play-sub-indo/)
 
 ## Kimi wa Houkago Insomnia
@@ -87,7 +105,9 @@
 **Episode**: 12
 
 **Hari**: Selasa
+
 **Tanggal**: 27 Jun
+
 [Link](https://otakudesu.lol/anime/kimi-houkago-insomnia-sub-indo/)
 
 ## Golden Kamuy Season 4
@@ -96,7 +116,9 @@
 **Episode**: 13
 
 **Hari**: Selasa
+
 **Tanggal**: 27 Jun
+
 [Link](https://otakudesu.lol/anime/kamuy-golden-season-4-sub-indo/)
 
 ## Kanojo ga Koushaku-tei ni Itta Riyuu
@@ -105,7 +127,9 @@
 **Episode**: 12
 
 **Hari**: Senin
+
 **Tanggal**: 26 Jun
+
 [Link](https://otakudesu.lol/anime/kanojo-koushaku-riyu-sub-indo/)
 
 ## Genjitsu no Yohane: Sunshine in the Mirror
@@ -114,7 +138,9 @@
 **Episode**: 1
 
 **Hari**: Senin
+
 **Tanggal**: 26 Jun
+
 [Link](https://otakudesu.lol/anime/genjitsu-sunshine-mirror-sub-indo/)
 
 ## World Dai Star
@@ -123,7 +149,9 @@
 **Episode**: 12
 
 **Hari**: Senin
+
 **Tanggal**: 26 Jun
+
 [Link](https://otakudesu.lol/anime/world-star-sub-indo/)
 
 ## Jijou wo Shiranai Tenkousei ga Guigui Kuru.
@@ -132,7 +160,9 @@
 **Episode**: 13
 
 **Hari**: Senin
+
 **Tanggal**: 26 Jun
+
 [Link](https://otakudesu.lol/anime/jijou-ga-kuru-sub-indo/)
 
 ## Ao no Orchestra
@@ -141,7 +171,9 @@
 **Episode**: 12
 
 **Hari**: Minggu
+
 **Tanggal**: 26 Jun
+
 [Link](https://otakudesu.lol/anime/orchestra-sub-indo/)
 
 ## Mobile Suit Gundam: The Witch from Mercury Season 2
@@ -150,7 +182,9 @@
 **Episode**: 11
 
 **Hari**: Minggu
+
 **Tanggal**: 25 Jun
+
 [Link](https://otakudesu.lol/anime/msg-from-mercury-s2-sub-indo/)
 
 ## One Piece
@@ -159,7 +193,9 @@
 **Episode**: 1066
 
 **Hari**: Minggu
+
 **Tanggal**: 25 Jun
+
 [Link](https://otakudesu.lol/anime/op-sub-indo/)
 
 ## Otonari ni Ginga
@@ -168,7 +204,9 @@
 **Episode**: 12
 
 **Hari**: Minggu
+
 **Tanggal**: 25 Jun
+
 [Link](https://otakudesu.lol/anime/otonari-ginga-sub-indo/)
 
 ## Isekai Shoukan wa Nidome desu
@@ -177,7 +215,9 @@
 **Episode**: 12
 
 **Hari**: Minggu
+
 **Tanggal**: 25 Jun
+
 [Link](https://otakudesu.lol/anime/isenido-sub-indo/)
 
 ## Yamada-kun to Lv999 no Koi wo Suru
@@ -186,7 +226,9 @@
 **Episode**: 13
 
 **Hari**: Minggu
+
 **Tanggal**: 25 Jun
+
 [Link](https://otakudesu.lol/anime/yamada-lv999-sub-indo/)
 
 ## Edens Zero Season 2
@@ -195,7 +237,9 @@
 **Episode**: 13
 
 **Hari**: Minggu
+
 **Tanggal**: 25 Jun
+
 [Link](https://otakudesu.lol/anime/ede-zero-s2-sub-indo/)
 
 ## Jigokuraku
@@ -204,7 +248,9 @@
 **Episode**: 12
 
 **Hari**: Minggu
+
 **Tanggal**: 25 Jun
+
 [Link](https://otakudesu.lol/anime/jigokuku-sub-indo/)
 
 ## Tengoku Daimakyou
@@ -213,7 +259,9 @@
 **Episode**: 13
 
 **Hari**: Minggu
+
 **Tanggal**: 24 Jun
+
 [Link](https://otakudesu.lol/anime/tegoku-daimau-sub-indo/)
 
 ## Mahou Shoujo Magical Destroyers
@@ -222,6 +270,8 @@
 **Episode**: 12
 
 **Hari**: Sabtu
+
 **Tanggal**: 24 Jun
+
 [Link](https://otakudesu.lol/anime/shoujo-destroyer-sub-indo/)
 
