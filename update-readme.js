@@ -3,9 +3,10 @@ const fs = require('fs');
 const data = fs.readFileSync('data.json');
 const animeData = JSON.parse(data);
 
-let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>\n\n`;
+let readmeContent = `<img align="center" src="./img/anime-update.jpeg">`;
 
 animeData.result.forEach((anime) => {
+  readmeContent += `<h3 align="center">Daftar Anime Terbaru</h3><br>`;
   readmeContent += `<table align="center">`;
   readmeContent += `<tr>`;
   readmeContent += `<th><h3 align="center">${anime.title}</h3></th>`;
