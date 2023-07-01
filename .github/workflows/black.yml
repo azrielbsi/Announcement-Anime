@@ -30,13 +30,13 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "Azriel"
+          git config --global user.name "Yuri-Neko"
           git config --global user.email "mimin@api-kyouka.my.id"
 
       - name: Commit and Push changes
         run: |
           git add README.md
-          git commit -m "Update Anime"
+          git commit -m "Update Readme.md"
           git remote set-url origin https://github.com/${{ github.repository }}.git
           git push
 
