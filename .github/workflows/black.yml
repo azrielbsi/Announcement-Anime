@@ -23,7 +23,7 @@ jobs:
 
       - name: Get latest anime data
         run: |
-          curl -o https://api.betabotz.org/api/webzone/anime?query=Sword%20Art%20Online&apikey=${{ secrets.API_KEY }}
+          curl -o https://api.betabotz.org/api/news/cnn?apikey=${{ secrets.API_KEY }}
 
       - name: Update Readme
         run: node update-readme.js
