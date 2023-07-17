@@ -1,30 +1,64 @@
+
+const fetch = require('node-fetch');
 const fs = require('fs');
 
-const data = fs.readFileSync('data.json');
-const animeData = JSON.parse(data);
+// Fungsi untuk mengambil berita dari API
+async function fetchNews() {
+  const apiKey = 'GbEGbwK7'; // Ganti dengan kunci API yang valid
+  const apiUrl = 'https://api.betabotz.org/api/news/cnn?apikey='; // Ganti dengan URL API yang sesuai
 
-let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>\n\n`;
+  try {
+    const response = await fetch(apiUrl, {
+      headers: {
+        'Authorization': `Bearer ${apiKey}`
+      }
+    });
+    
+    if (response.ok) {
+      const newsData = await response.json();
+      return newsData;
+    } else {
+      throw new Error('Gagal mengambil berita dari API.');
+    }
+  } catch (error) {
+    console.error(error);
+  }
+}
 
-animeData.result.forEach((anime) => {
-  readmeContent += `<table align="center">`;
-  readmeContent += `<tr>`;
-  readmeContent += `<th><h3 align="center">${anime.berita}</h3></th>`;
-  readmeContent += `</tr>`;
-  readmeContent += `<tr>`;
-  readmeContent += `<td>`;
-  readmeContent += `<p align="center">`;
-  readmeContent += `<img src="${anime.berita_thumb}", height="256">`;
-  readmeContent += `</p>`;
-  readmeContent += `</td>`;
-  readmeContent += `</tr>`;
-  readmeContent += `<tr>`;
-  readmeContent += `<td>Link :</td>`;
-  readmeContent += `<td align="center"><a href="${anime.berita_url}">Anime Information</a></td>`;
-  readmeContent += `</tr>`;
-  readmeContent += `</table>`;
-  readmeContent += `</td>`;
-  readmeContent += `</tr>`;
-  readmeContent += `</table>`;
-});
+// Fungsi untuk menulis hasil ke file README.md
+function writeResultToReadme(news) {
+  const readmeContent = `# Berita Terbaru\n\n${news}\n`;
+  const readmeContent += `<table align="center">`;
+  const readmeContent += `<tr>`;
+  const readmeContent += `<th><h3 align="center">${anime.berita}</h3></th>`;
+  const readmeContent += `</tr>`;
+  const readmeContent += `<tr>`;
+  const readmeContent += `<td>`;
+  const readmeContent += `<p align="center">`;
+  const readmeContent += `<img src="${anime.berita_thumb}", height="256">`;
+  const readmeContent += `</p>`;
+  const readmeContent += `</td>`;
+  const readmeContent += `</tr>`;
+  const readmeContent += `<tr>`;
+  const readmeContent += `<td>Link :</td>`;
+  const readmeContent += `<td align="center"><a href="${anime.berita_url}">Anime Information</a></td>`;
+  const readmeContent += `</tr>`;
+  const readmeContent += `</table>`;
+  const readmeContent += `</td>`;
+  const readmeContent += `</tr>`;
+  const readmeContent += `</table>`;
+  
+  fs.writeFile('README.md', readmeContent, (error) => {
+    if (error) {
+      console.error(error);
+    } else {
+      console.log('Hasil berhasil ditulis ke file README.md.');
+    }
+  });
+}
 
-fs.writeFileSync('README.md', readmeContent);
+// Panggil fungsi fetchNews dan tulis hasilnya ke README.md
+fetchNews()
+  .then((news) => {
+    writeResultToReadme(news);
+  });
