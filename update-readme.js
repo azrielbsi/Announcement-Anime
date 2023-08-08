@@ -3,7 +3,7 @@ const fs = require('fs');
 const data = fs.readFileSync('data.json');
 const animeData = JSON.parse(data);
 
-let readmeContent = `# Daftar Anime Terbaru\n\n`;
+let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>`;
 
 // Fungsi untuk menulis hasil ke file README.md
 animeData.result.forEach((anime) => {
