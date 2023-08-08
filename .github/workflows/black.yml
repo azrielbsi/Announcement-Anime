@@ -2,7 +2,7 @@ name: Update Readme
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,20 +23,20 @@ jobs:
 
       - name: Get latest anime data
         run: |
-          curl -o https://api.betabotz.org/api/news/cnn?apikey=${{ secrets.API_KEY }}
+          curl -o data.json https://web.api-kyouka.my.id/api/anime/otakudesu/latest?apikey=${{ secrets.API_KEY }}
 
       - name: Update Readme
         run: node update-readme.js
 
       - name: Configure Git
         run: |
-          git config --global user.name "Azriel"
-          git config --global user.email "actions@users.noreply.github.com"
+          git config --global user.name "azrielbsi"
+          git config --global user.email "juliusulee@gmail.com"
 
       - name: Commit and Push changes
         run: |
           git add README.md
-          git commit -m "Anime Update"
+          git commit -m "Update Readme.md"
           git remote set-url origin https://github.com/${{ github.repository }}.git
           git push
 
