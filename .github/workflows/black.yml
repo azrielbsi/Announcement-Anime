@@ -35,8 +35,6 @@ jobs:
 
       - name: Commit and Push changes
         run: |
-          git config user.name "azrielbsi"
-          git config user.email "juliusulee@gmail.com"
           git add README.md
           git commit -m "Update Readme.md"
           git remote set-url origin https://github.com/${{ github.repository }}.git
