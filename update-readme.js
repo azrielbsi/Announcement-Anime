@@ -24,9 +24,10 @@ async function getLatestAnimeData() {
       thumb: item.enclosure.url,
       eps: item['crunchyroll:episodeNumber'],
       date: new Date(item.isoDate).toLocaleDateString(),
+      time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'short' }),
       day: item['crunchyroll:dayOfWeek'],
       link: item.link,
-      description: splitDescription(item.contentSnippet) // Memanggil fungsi untuk membagi deskripsi
+      description: splitDescription(item.contentSnippet)
     }));
   } catch (error) {
     console.error('Error fetching feed:', error);
@@ -40,9 +41,13 @@ async function updateReadmeWithAnimeData() {
     const currentDate = new Date().toLocaleDateString('en-US', {
       timeZone: 'UTC'
     });
+    const currentTime = new Date().toLocaleTimeString('en-US', {
+      timeZone: 'UTC',
+      timeStyle: 'short'
+    });
 
     let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>\n\n`;
-    readmeContent += `<p align="center"><em>Updated on: ${currentDate}</em></p>\n\n`;
+    readmeContent += `<p align="center"><em>Updated on: ${currentDate} at ${currentTime}</em></p>\n\n`;
 
     animeData.forEach(anime => {
       readmeContent += `<table align="center">\n`;
