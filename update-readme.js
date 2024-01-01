@@ -8,10 +8,10 @@ async function getLatestAnimeData() {
     const feed = await parser.parseURL('https://feeds.feedburner.com/crunchyroll/rss/anime');
     return feed.items.map(item => ({
       title: item.title,
-      thumb: item.enclosure.url, // Mengambil URL gambar dari tag enclosure
-      eps: item['crunchyroll:episodeNumber'], // Mengambil nomor episode dari properti khusus crunchyroll:episodeNumber
-      date: new Date(item.isoDate).toLocaleDateString(), // Mengambil tanggal dari isoDate dan memformatnya
-      day: item['crunchyroll:dayOfWeek'], // Mengambil hari dari properti khusus crunchyroll:dayOfWeek
+      thumb: item.enclosure.url,
+      eps: item['crunchyroll:episodeNumber'],
+      date: new Date(item.isoDate).toLocaleDateString(),
+      day: item['crunchyroll:dayOfWeek'],
       link: item.link
     }));
   } catch (error) {
@@ -23,8 +23,12 @@ async function getLatestAnimeData() {
 async function updateReadmeWithAnimeData() {
   try {
     const animeData = await getLatestAnimeData();
+    const currentDate = new Date().toLocaleDateString('en-US', {
+      timeZone: 'UTC'
+    });
 
     let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>\n\n`;
+    readmeContent += `<p align="center"><em>Updated on: ${currentDate}</em></p>\n\n`;
 
     animeData.forEach(anime => {
       readmeContent += `<table align="center">\n`;
@@ -63,8 +67,8 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `</table>\n\n`;
     });
 
-    fs.writeFileSync('README.md', readmeContent);
-    console.log('README.md updated successfully with latest anime data!');
+     fs.writeFileSync('README.md', readmeContent);
+    console.log('README.md updated successfully with latest anime data and date!');
   } catch (error) {
     console.error('Error updating README.md:', error);
   }
