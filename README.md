@@ -1,5 +1,7 @@
 <h1 align="center">Daftar Anime Terbaru</h1>
 
+<p align="center"><em>Updated on: 1/1/2024</em></p>
+
 <table align="center">
 <tr>
 <th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Entertainment District Arc (Telugu Dub) - Episode 7 - Transformation</h3></th>
