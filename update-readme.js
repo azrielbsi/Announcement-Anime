@@ -12,7 +12,8 @@ async function getLatestAnimeData() {
       eps: item['crunchyroll:episodeNumber'],
       date: new Date(item.isoDate).toLocaleDateString(),
       day: item['crunchyroll:dayOfWeek'],
-      link: item.link
+      link: item.link,
+      description: item.contentSnippet
     }));
   } catch (error) {
     console.error('Error fetching feed:', error);
@@ -45,9 +46,11 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<tr>\n`;
       readmeContent += `<td>\n`;
       readmeContent += `<table align="center">\n`;
+      readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
-      readmeContent += `<td>Episode :</td>\n`;
-      readmeContent += `<td align="center">${anime.eps}</td>\n`;
+      readmeContent += `<td colspan="2">\n`;
+      readmeContent += `<p>${anime.description}</p>\n`;
+      readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td>Tanggal :</td>\n`;
