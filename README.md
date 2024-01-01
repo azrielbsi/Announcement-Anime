@@ -1,6 +1,6 @@
 <h1 align="center">Daftar Anime Terbaru</h1>
 
-<p align="center"><em>Updated on: 1/1/2024</em></p>
+<p align="center"><em>Updated on: 1/1/2024 at 10:55 PM</em></p>
 
 <table align="center">
 <tr>
