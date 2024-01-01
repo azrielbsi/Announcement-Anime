@@ -3,6 +3,7 @@ const Parser = require('rss-parser');
 
 const parser = new Parser();
 
+// Fungsi untuk membagi deskripsi setiap 10 kata
 function splitDescription(description) {
   const words = description.split(' ');
   const chunkSize = 10;
@@ -25,7 +26,7 @@ async function getLatestAnimeData() {
       date: new Date(item.isoDate).toLocaleDateString(),
       day: item['crunchyroll:dayOfWeek'],
       link: item.link,
-      description: item.contentSnippet
+      description: splitDescription(item.contentSnippet) // Memanggil fungsi untuk membagi deskripsi
     }));
   } catch (error) {
     console.error('Error fetching feed:', error);
@@ -58,11 +59,9 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<tr>\n`;
       readmeContent += `<td>\n`;
       readmeContent += `<table align="center">\n`;
-      readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
-      readmeContent += `<td colspan="2">\n`;
-      readmeContent += `<p>${anime.description}</p>\n`;
-      readmeContent += `</td>\n`;
+      readmeContent += `<td>Episode :</td>\n`;
+      readmeContent += `<td align="center">${anime.eps}</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td>Tanggal :</td>\n`;
@@ -76,13 +75,18 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<td>Link :</td>\n`;
       readmeContent += `<td align="center"><a href="${anime.link}">Anime Information</a></td>\n`;
       readmeContent += `</tr>\n`;
+      readmeContent += `<tr>\n`;
+      readmeContent += `<td colspan="2">\n`;
+      readmeContent += `<p>${anime.description}</p>\n`; // Menambahkan deskripsi anime di bagian bawah tabel
+      readmeContent += `</td>\n`;
+      readmeContent += `</tr>\n`;
       readmeContent += `</table>\n`;
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n\n`;
     });
 
-     fs.writeFileSync('README.md', readmeContent);
+    fs.writeFileSync('README.md', readmeContent);
     console.log('README.md updated successfully with latest anime data and date!');
   } catch (error) {
     console.error('Error updating README.md:', error);
