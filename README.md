@@ -4,6 +4,154 @@
 
 <table align="center">
 <tr>
+<th><h3 align="center">SHY (Portuguese Dub) - Episode 11 - What Is Conveyed and That Which Remains</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bf3c19a30cfad227b137dedea336a6a61702307979_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>Stigma's twisted endeavors have provided Pepesha and Letana the opportunity to finally say all the things they never could in the past. As their battle comes to a climax and close, much is revealed about their relationship and Stigma.</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/1/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/shy/episode-11-what-is-conveyed-and-that-which-remains-917865">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">VINLAND SAGA Season 2 (Tamil Dub) - Episode 22 - The King of Rebellion</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4933f9e3a591b56382e394cb4eff1abe1685981374_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>Thorfinn tries to prove to the thegns that he is worthy of speaking with Canute, even though he appears to be no more than a slave.</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/1/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/vinland-saga/episode-22-the-king-of-rebellion-917371">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">SHY (Spanish Dub) - Episode 11 - What Is Conveyed and That Which Remains</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bf3c19a30cfad227b137dedea336a6a61702307979_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>Stigma's twisted endeavors have provided Pepesha and Letana the opportunity to finally say all the things they never could in the past. As their battle comes to a climax and close, much is revealed about their relationship and Stigma.</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/1/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/shy/episode-11-what-is-conveyed-and-that-which-remains-917866">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far (French Dub) - Episode 4 - Debut in the Royal Capital</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/abb874a30897363aabdaf116178e71a21682226370_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>Cain visits the church, where the gods tell him there's no entertainment in this world and ask him to invent some. Then Cain runs into Parma, an old friend who's training at her uncle's shop. So Cain asks Parma's uncle to help him create a certain item...</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/1/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far/episode-4-debut-in-the-royal-capital-917863">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Entertainment District Arc (Telugu Dub) - Episode 7 - Transformation</h3></th>
 </tr>
 <tr>
@@ -16,9 +164,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>As Nezuko rushes to aid Tanjiro during a critical moment, her appearance begins to gradually take on a demon form as she sustains Daki's attacks. Nezuko is able to overpower Daki as her demon form accelerates; however, she turns her attention to innocent bystanders injured during the battle and charges towards them. While Tanjiro attempts to restrain Nezuko, Daki draws near...</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -51,9 +201,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>When an exhausted office worker drops dead at her doorstep from overwork, she has but one humble wish for her next life... To be able to pet all of the cuddly creatures she can find! Welcome to a paradise of fluff (that may be home to a few secrets)!</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -86,9 +238,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>At last, Kenshin faces off against Aoshi Shinomori, the head of the Oniwaban Group. In the Bakumatsu Era, the battle-obsessed "Oniwaban group" lost their meaning of existence after surrendering the castle they served without even being able to fight. Aoshi is unable to bear this regret and is in earnest pursuit of the title of the strongest warrior. As a former Revolutionary warrior, Kenshin cannot tolerate conflict without morality. Two men who made killing their profession in the Bakumatsu Era clash against one another, putting their pride on the line.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -121,9 +275,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Ren's mother discovers the secret to Kanata's prodigious talent and the two reminisce about his much-missed mother, Katherine. Meanwhile, Sawatari's monster lap has unsettled the drivers who are still yet to set a time.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -156,9 +312,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The Rentaro Family gears up to raid the Hanazono mansion to get Hakari out.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -191,9 +349,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p></p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -226,9 +386,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p></p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -261,9 +423,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>It’s Japan versus Italy in the opening game of the tournament, and tensions are running high. Team Japan’s tempers are flared over Italy’s previous comments about how they weren’t worth their time back before the practice match that never was. Still, having been handed the position of captain from Matsuyama, Tsubasa rises to the occasion. Italy may have Tsubasa marked, but he responds with some characteristic fighting spirit.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -284,41 +448,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Couple of Cuckoos (Telugu Dub) - Episode 10 - Don't treat me like your kid sister.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b0dc4955086037fe953ba853ce9326d1656165457_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/31/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917849">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">A Couple of Cuckoos (Tamil Dub) - Episode 10 - Don't treat me like your kid sister.</h3></th>
 </tr>
 <tr>
@@ -331,9 +460,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Sachi and Nagi go shopping together for a Mother’s Day gift, but they can’t think of anything their mother would appreciate.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -354,6 +485,43 @@
 
 <table align="center">
 <tr>
+<th><h3 align="center">A Couple of Cuckoos (Telugu Dub) - Episode 10 - Don't treat me like your kid sister.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b0dc4955086037fe953ba853ce9326d1656165457_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>Sachi and Nagi go shopping together for a Mother’s Day gift, but they can’t think of anything their mother would appreciate.</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/31/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917849">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <th><h3 align="center">The Daily Life of the Immortal King (Season 4) - Episode 4</h3></th>
 </tr>
 <tr>
@@ -366,9 +534,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p></p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -401,9 +571,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Kaoru opens a drugstore in a new country, the Kingdom of Jusral, in a return to her original goal of living an easy life in this new world with her OP ability. But once again, her potions draw attention in ways she didn't expect...</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -436,9 +608,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>An older acquaintance of Jinshi's dies while drinking at a party. A servant's body turns up in a moat. Both deaths are written off as self-inflicted, but Maomao's keen observations tell her that there's more to both stories.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -459,111 +633,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Spanish Dub) - Episode 10 - The Lord of the Rust Mountains</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8112e46ba602f81c4a8d20371164c7d1702119073_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/30/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917839">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (French Dub) - Episode 10 - The Lord of the Rust Mountains</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8112e46ba602f81c4a8d20371164c7d1702119073_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/30/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917838">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (German Dub) - Episode 10 - The Lord of the Rust Mountains</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8112e46ba602f81c4a8d20371164c7d1702119073_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/30/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917837">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Portuguese Dub) - Episode 10 - The Lord of the Rust Mountains</h3></th>
 </tr>
 <tr>
@@ -576,9 +645,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>When Will's party finally faces the overwhelming power of Valacirca, they prepare for a fight to the death... but then the dragon suddenly offers to become Will's servant. What is Valacirca thinking, and what choice is Will going to make?</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -599,6 +670,117 @@
 
 <table align="center">
 <tr>
+<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (German Dub) - Episode 10 - The Lord of the Rust Mountains</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8112e46ba602f81c4a8d20371164c7d1702119073_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>When Will's party finally faces the overwhelming power of Valacirca, they prepare for a fight to the death... but then the dragon suddenly offers to become Will's servant. What is Valacirca thinking, and what choice is Will going to make?</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/30/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917837">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (French Dub) - Episode 10 - The Lord of the Rust Mountains</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8112e46ba602f81c4a8d20371164c7d1702119073_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>When Will's party finally faces the overwhelming power of Valacirca, they prepare for a fight to the death... but then the dragon suddenly offers to become Will's servant. What is Valacirca thinking, and what choice is Will going to make?</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/30/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917838">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Faraway Paladin The Lord Of The Rust Mountains (Spanish Dub) - Episode 10 - The Lord of the Rust Mountains</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8112e46ba602f81c4a8d20371164c7d1702119073_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>When Will's party finally faces the overwhelming power of Valacirca, they prepare for a fight to the death... but then the dragon suddenly offers to become Will's servant. What is Valacirca thinking, and what choice is Will going to make?</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/30/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917839">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <th><h3 align="center">SPY x FAMILY (Eps 26+) (Portuguese Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
 </tr>
 <tr>
@@ -611,9 +793,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the bomb scare, the cruise ship arrives at the resort island. Loid and Anya meet up with Yor and the three enjoy a family vacation!</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -646,9 +830,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the bomb scare, the cruise ship arrives at the resort island. Loid and Anya meet up with Yor and the three enjoy a family vacation!</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -681,9 +867,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the bomb scare, the cruise ship arrives at the resort island. Loid and Anya meet up with Yor and the three enjoy a family vacation!</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -716,9 +904,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the bomb scare, the cruise ship arrives at the resort island. Loid and Anya meet up with Yor and the three enjoy a family vacation!</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -751,9 +941,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the bomb scare, the cruise ship arrives at the resort island. Loid and Anya meet up with Yor and the three enjoy a family vacation!</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -774,41 +966,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Arabic Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/645cf65401c2202992e4f8861b8653171702136733_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/30/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917825">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">SPY x FAMILY (Eps 26+) (Italian Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
 </tr>
 <tr>
@@ -821,9 +978,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the bomb scare, the cruise ship arrives at the resort island. Loid and Anya meet up with Yor and the three enjoy a family vacation!</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -856,9 +1015,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the bomb scare, the cruise ship arrives at the resort island. Loid and Anya meet up with Yor and the three enjoy a family vacation!</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -879,6 +1040,43 @@
 
 <table align="center">
 <tr>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Arabic Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/645cf65401c2202992e4f8861b8653171702136733_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the bomb scare, the cruise ship arrives at the resort island. Loid and Anya meet up with Yor and the three enjoy a family vacation!</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/30/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917825">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <th><h3 align="center">The Angel Next Door Spoils Me Rotten (Hindi Dub) - Episode 7 - A Promise with the Angel</h3></th>
 </tr>
 <tr>
@@ -891,9 +1089,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The day before spring break, Itsuki has a fight with his father and asks Amane to let him stay over. When Chitose finds out that her boyfriend will get to enjoy Mahiru's cooking, she demands to join them and stay at Mahiru's apartment. The four friends spend the next few lively days together. After Itsuki and Chitose leave, Amane returns home one day to find Mahiru confronted by her mother, Sayo. Noticing Mahiru's dark expression and sensing that something is wrong, Amane invites Mahiru in. The two sit together on Amane's sofa as Mahiru timidly explains her complicated history with her parents.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -926,9 +1126,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Yamada visits Akane’s apartment to help repair her laptop. After a certain experience he had, Yamada had been trying to get too close to women. However, for some reason, he just wasn’t able to take his eyes off of Akane taking an afternoon nap. He unthinkingly reaches out to touch her hair, but then he stops when he hears the doorbell ring. When Yamada goes to check the front door, he finds Akane’s ex-boyfriend, Takuma, standing there. Shocked to see Yamada coming out of Akane’s room, Takuma explains his reason for his visit…</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -961,9 +1163,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>A change in season dredges up bad memories for Kazuki, who's already feeling overworked and unappreciated at home.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -996,9 +1200,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Mirika has kidnapped Naoya and locked him in a room while Saki and the others try to find the key. Shino is taken aback by Mirika's resolve, and begins to question the way she's been hiding her own feelings.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1031,9 +1237,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Mirika has kidnapped Naoya and locked him in a room while Saki and the others try to find the key. Shino is taken aback by Mirika's resolve, and begins to question the way she's been hiding her own feelings.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1066,9 +1274,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The party arrives at the capital and splits ways. The girls go to a public bath and as they're about to leave, they find that Priestess's belongings have been stolen.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1101,9 +1311,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The party arrives at the capital and splits ways. The girls go to a public bath and as they're about to leave, they find that Priestess's belongings have been stolen.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1124,6 +1336,117 @@
 
 <table align="center">
 <tr>
+<th><h3 align="center">The Rising of the Shield Hero Season 3 (German Dub) - Episode 8 - Dragon's Den</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/34a186b54dc57c1469512521a54bce171700818693_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>Naofumi assembles a party to pursue Gaelion, who has consumed the Emperor Dragon's Core. Gaelion's transformation is profoundly sickening Filo, so Naofumi must return Gaelion to normal within the next two days.</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-8-dragons-den-917802">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Rising of the Shield Hero Season 3 (French Dub) - Episode 9 - Emperor Dragon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/920309663a8ef0c24d6d8a4b8721ebdd1701401720_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>Naofumi's party regroups and plans another assault on the Emperor Dragon. While their plan of attack comes together, Wyndia explains her connection to the dragon. This causes Wyndia to remember something very significant...</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-9-emperor-dragon-917805">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Rising of the Shield Hero Season 3 (Russian Dub) - Episode 10 - Perfect Hidden Justice</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a575404833514b84eb2531bce8bb2f771702040361_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+</tr>
+<tr>
+<td colspan="2">
+<p>Filo has recovered, but needs to gain experience to replace her lost levels. S'yne returns from the underground arena bearing a tale of a suspiciously familiar new fighter who uses a bow and goes by the alias Perfect Hidden Justice.</p>
+</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917807">Anime Information</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <th><h3 align="center">The Rising of the Shield Hero Season 3 (Portuguese Dub) - Episode 10 - Perfect Hidden Justice</h3></th>
 </tr>
 <tr>
@@ -1136,9 +1459,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Filo has recovered, but needs to gain experience to replace her lost levels. S'yne returns from the underground arena bearing a tale of a suspiciously familiar new fighter who uses a bow and goes by the alias Perfect Hidden Justice.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1171,9 +1496,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Filo has recovered, but needs to gain experience to replace her lost levels. S'yne returns from the underground arena bearing a tale of a suspiciously familiar new fighter who uses a bow and goes by the alias Perfect Hidden Justice.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1194,111 +1521,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (Russian Dub) - Episode 10 - Perfect Hidden Justice</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a575404833514b84eb2531bce8bb2f771702040361_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917807">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (French Dub) - Episode 9 - Emperor Dragon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/920309663a8ef0c24d6d8a4b8721ebdd1701401720_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-9-emperor-dragon-917805">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (German Dub) - Episode 8 - Dragon's Den</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/34a186b54dc57c1469512521a54bce171700818693_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-8-dragons-den-917802">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">Frieren: Beyond Journey's End (Tamil Dub) - Episode 13 - Aversion to One's Own Kind</h3></th>
 </tr>
 <tr>
@@ -1311,9 +1533,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>While passing by a village in the woods of the northern lands, Frieren and party meet Sein, a gifted priest who is nonetheless corrupt enough to give even Heiter a run for his money. But what happened in his past?</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1346,9 +1570,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p></p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1381,9 +1607,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p></p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1416,9 +1644,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Bojji and Kage run into Apeas, who tells them about Miranjo's dream. Domas and Hokuro finally reach the entrance to the underworld they were ordered to destroy. The Magic Mirror calls out to Ouken, who escapes Despa's custody to come to her aid.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1451,9 +1681,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>The Cursed Wombs: Death Paintings, Eso and Kechizu, face off against Itadori and Kugisaki, but the two begin to rot after they're bathed in the blood of Eso and Kechizu. Driven into a corner, Kugisaki hammers a nail into herself to activate Resonance and start a game of chicken with the brothers. Itadori refuses to stop and continues to attack Kechizu, but-- This whole mission began with one of Ryomen Sukuna's Fingers, so will Itadori, Kugisaki, and Fushiguro ultimately make it home to Jujutsu Tech safely?</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1486,9 +1718,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>In addition to the curse of Yasohachi Bridge, Itadori, Fushiguro, and Kugisaki face off against Kechizu, one of the special grade cursed objects: Cursed Wombs: Death Paintings. The three start fighting within the barrier of Yasohachi Bridge's curse, but something suddenly seizes Kugisaki's arm and drags her outside the barrier. Itadori and Kechizu chase after her, leaving the barrier. Left behind, Fushiguro quickly takes of the Yasohachi Bridge curse--until he witnesses a shocking sight. Meanwhile, Kugisaki faces off against Eso, another one of the Cursed Wombs: Death Paintings. Then Kechizu and Itadori catch up and join her--</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1521,9 +1755,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo and sees Hajime Saito. Hajime had introduced himself to Kaoru and Yahiko as Goro Fujita, the police officer, and they had invited him into the Dojo without any suspicion. Hajime criticizes Kenshin and the others for their naivety. Over the past ten years that Kenshin had washed his hands of manslaying, Hajime had honed his killing intent and skills as a hitman, and now Hajime's ferocity was aimed at them.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1556,9 +1792,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo and sees Hajime Saito. Hajime had introduced himself to Kaoru and Yahiko as Goro Fujita, the police officer, and they had invited him into the Dojo without any suspicion. Hajime criticizes Kenshin and the others for their naivety. Over the past ten years that Kenshin had washed his hands of manslaying, Hajime had honed his killing intent and skills as a hitman, and now Hajime's ferocity was aimed at them.</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1591,9 +1829,11 @@
 <tr>
 <td>
 <table align="center">
+</tr>
 <tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
+<td colspan="2">
+<p>Kenshin sees a dream recalling the Shinsengumi, who he faced off against back when he was a Revolutionary warrior. The Shinsengumi was a group of highly skilled swordsmen who he fought on equal footing back when he was the Hitokiri Battosai. He feels unsettled and ponders why he is suddenly remembering them. As the tension persists, a mysterious man with very unique-looking eyes pays a visit to the Kamiya Dojo while Kenshin, Kaoru, and Yahiko are not home. When he meets Sanosuke, who just happened to be at the Dojo, he claims that he is Goro Fujita, a medicine seller, but...</p>
+</td>
 </tr>
 <tr>
 <td>Tanggal :</td>
@@ -1606,146 +1846,6 @@
 <tr>
 <td>Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-22-resurrection-of-the-wolf-917778">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Portuguese Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/28/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917760">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (French Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/28/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917762">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Spanish Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/28/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917763">Anime Information</a></td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Russian Dub) - Episode 44 - Right and Wrong, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/30e1532a790bd18ed8df1a6a350de3b31701968643_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/28/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-44-right-and-wrong-part-3-917764">Anime Information</a></td>
 </tr>
 </table>
 </td>
