@@ -23,7 +23,7 @@ jobs:
 
       - name: Get latest anime data
         run: |
-          curl -o data.json https://web.api-kyouka.my.id/api/anime/otakudesu/latest?apikey=${{ secrets.API_KEY }}
+          curl -o data.json https://feeds.feedburner.com/crunchyroll/rss/anime
 
       - name: Update Readme
         run: node update-readme.js
