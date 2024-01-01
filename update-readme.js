@@ -3,6 +3,18 @@ const Parser = require('rss-parser');
 
 const parser = new Parser();
 
+function splitDescription(description) {
+  const words = description.split(' ');
+  const chunkSize = 10;
+  const chunks = [];
+
+  for (let i = 0; i < words.length; i += chunkSize) {
+    chunks.push(words.slice(i, i + chunkSize).join(' '));
+  }
+
+  return chunks.join('<br>');
+}
+
 async function getLatestAnimeData() {
   try {
     const feed = await parser.parseURL('https://feeds.feedburner.com/crunchyroll/rss/anime');
