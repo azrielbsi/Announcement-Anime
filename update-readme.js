@@ -24,7 +24,7 @@ async function getLatestAnimeData() {
       thumb: item.enclosure.url,
       eps: item['crunchyroll:episodeNumber'],
       date: new Date(item.isoDate).toLocaleDateString(),
-      time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'short' }),
+      time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'medium' }),
       day: item['crunchyroll:dayOfWeek'],
       link: item.link,
       description: splitDescription(item.contentSnippet)
@@ -43,12 +43,12 @@ async function updateReadmeWithAnimeData() {
     });
     const currentTime = new Date().toLocaleTimeString('en-US', {
       timeZone: 'UTC',
-      timeStyle: 'short'
+      timeStyle: 'medium'
     });
     const currentDateTime = new Date().toLocaleString('en-US', {
       timeZone: 'UTC',
       dateStyle: 'medium',
-      timeStyle: 'short'
+      timeStyle: 'medium'
     });
 
     let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>\n\n`;
