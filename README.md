@@ -1,6 +1,6 @@
 <h1 align="center">Daftar Anime Terbaru</h1>
 
-<p align="center"><em>Updated on: 1/2/2024 at Jan 2, 2024, 12:14:35 PM</em></p>
+<p align="center"><em>Updated on: 1/2/2024 at Jan 2, 2024, 12:27:40 PM</em></p>
 
 <table align="center">
 <tr>
@@ -25,7 +25,7 @@
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -65,7 +65,7 @@
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -225,7 +225,7 @@
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -265,7 +265,7 @@
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -305,7 +305,7 @@
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -345,7 +345,7 @@
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -385,7 +385,7 @@
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -425,7 +425,7 @@
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -465,7 +465,7 @@
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -505,7 +505,7 @@
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -545,7 +545,7 @@
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -585,7 +585,7 @@
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -625,7 +625,7 @@
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -665,7 +665,7 @@
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -705,7 +705,7 @@
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -745,7 +745,7 @@
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -785,7 +785,7 @@
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -825,7 +825,7 @@
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -865,7 +865,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -905,7 +905,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -945,7 +945,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -985,7 +985,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1025,7 +1025,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1065,7 +1065,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1105,7 +1105,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1145,7 +1145,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1185,7 +1185,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1225,7 +1225,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1265,7 +1265,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1305,7 +1305,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1345,7 +1345,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1385,7 +1385,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1425,7 +1425,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1465,7 +1465,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1505,7 +1505,7 @@
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1545,7 +1545,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1585,7 +1585,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1625,7 +1625,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1665,7 +1665,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1705,7 +1705,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1745,7 +1745,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1785,7 +1785,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1825,7 +1825,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1865,7 +1865,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1905,7 +1905,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1945,7 +1945,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
@@ -1985,7 +1985,7 @@
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Hari :</td>
+<td>Duration :</td>
 <td align="center">undefined</td>
 </tr>
 <tr>
