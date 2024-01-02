@@ -49,7 +49,7 @@ async function updateReadmeWithAnimeData() {
     });
 
     let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>\n\n`;
-    readmeContent += `<p align="center"><em>Updated on: ${currentDate} at ${currentDateTime}</em></p>\n\n`;
+    readmeContent += `<p align="center"><em>Updated on: ${currentDateTime}</em></p>\n\n`;
 
     animeData.forEach(anime => {
       readmeContent += `<table align="center">\n`;
