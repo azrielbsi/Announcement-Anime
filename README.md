@@ -1,6 +1,6 @@
-<h1 align="center">Daftar Anime Terbaru</h1>
+<h1 align="center">Latest Anime List</h1>
 
-<p align="center"><em>Updated on: Jan 2, 2024, 3:24:29 PM</em></p>
+<p align="center"><em>Updated on: Jan 2, 2024, 3:27:49 PM</em></p>
 
 <table align="center">
 <tr>
@@ -17,7 +17,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
@@ -113,7 +113,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -145,7 +145,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -305,7 +305,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -337,7 +337,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -369,7 +369,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -401,7 +401,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -433,7 +433,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -465,7 +465,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -497,7 +497,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -529,7 +529,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -561,7 +561,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -593,7 +593,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -625,7 +625,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -657,7 +657,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -689,7 +689,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -721,7 +721,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -753,7 +753,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -785,7 +785,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -817,7 +817,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -849,7 +849,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -881,7 +881,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -913,7 +913,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -945,7 +945,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -977,7 +977,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1009,7 +1009,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1041,7 +1041,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1073,7 +1073,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1105,7 +1105,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1137,7 +1137,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1169,7 +1169,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1201,7 +1201,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1233,7 +1233,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1265,7 +1265,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1297,7 +1297,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1329,7 +1329,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1361,7 +1361,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1393,7 +1393,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1425,7 +1425,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1457,7 +1457,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1489,7 +1489,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1521,7 +1521,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1553,7 +1553,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1585,7 +1585,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal Publish :</td>
+<td>Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
