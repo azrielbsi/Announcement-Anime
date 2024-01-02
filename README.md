@@ -1,6 +1,126 @@
 <h1 align="center">Daftar Anime Terbaru</h1>
 
-<p align="center"><em>Updated on: 1/1/2024 at Jan 1, 2024, 11:20 PM</em></p>
+<p align="center"><em>Updated on: 1/2/2024 at Jan 2, 2024, 12:42 AM</em></p>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dead Mount Death Play (German Dub) - Episode 22 - The Karma</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e045458f7fafb6b43721a9d073a219e21702307831_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/1/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/dead-mount-death-play/episode-22-the-karma-917871">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Civil confronts Solitaire, hoping to provoke a confrontation with the<br>Fire-Breathing Bug, but he may get his wish sooner than<br>he planned. Meanwhile, the Corpse God plots a rescue mission.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Dead Mount Death Play (French Dub) - Episode 22 - The Karma</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e045458f7fafb6b43721a9d073a219e21702307831_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/1/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/dead-mount-death-play/episode-22-the-karma-917872">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Civil confronts Solitaire, hoping to provoke a confrontation with the<br>Fire-Breathing Bug, but he may get his wish sooner than<br>he planned. Meanwhile, the Corpse God plots a rescue mission.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Migi&Dali (English Dub) - Episode 11 - Upside-Down Woman</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a157c28a8e389f1269d08aeca18de1311702275014_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/1/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/migidali/episode-11-upside-down-woman-917869">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Reiko, cornered by Migi and Dali, finally begins to speak<br>about Metry, the mother of Migi and Dali. It turns<br>out to be the story of their birth as well...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
 <table align="center">
 <tr>
@@ -31,6 +151,46 @@
 <tr>
 <td>Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/shy/episode-11-what-is-conveyed-and-that-which-remains-917865">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Stigma's twisted endeavors have provided Pepesha and Letana the opportunity<br>to finally say all the things they never could in<br>the past. As their battle comes to a climax and<br>close, much is revealed about their relationship and Stigma.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">SHY (Spanish Dub) - Episode 11 - What Is Conveyed and That Which Remains</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bf3c19a30cfad227b137dedea336a6a61702307979_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/1/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/shy/episode-11-what-is-conveyed-and-that-which-remains-917866">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -75,46 +235,6 @@
 <tr>
 <td colspan="2">
 <p>Thorfinn tries to prove to the thegns that he is<br>worthy of speaking with Canute, even though he appears to<br>be no more than a slave.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SHY (Spanish Dub) - Episode 11 - What Is Conveyed and That Which Remains</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bf3c19a30cfad227b137dedea336a6a61702307979_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">1/1/2024</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/shy/episode-11-what-is-conveyed-and-that-which-remains-917866">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Stigma's twisted endeavors have provided Pepesha and Letana the opportunity<br>to finally say all the things they never could in<br>the past. As their battle comes to a climax and<br>close, much is revealed about their relationship and Stigma.</p>
 </td>
 </tr>
 </table>
@@ -364,46 +484,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 9</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/067888bc57971f18fa5c925805bc65131703999430_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/31/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913752">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 9</h3></th>
 </tr>
 <tr>
@@ -431,6 +511,46 @@
 <tr>
 <td>Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913765">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 9</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/067888bc57971f18fa5c925805bc65131703999430_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/31/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913752">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -484,46 +604,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">A Couple of Cuckoos (Tamil Dub) - Episode 10 - Don't treat me like your kid sister.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b0dc4955086037fe953ba853ce9326d1656165457_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/31/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917850">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Sachi and Nagi go shopping together for a Mother’s Day<br>gift, but they can’t think of anything their mother would<br>appreciate.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">A Couple of Cuckoos (Telugu Dub) - Episode 10 - Don't treat me like your kid sister.</h3></th>
 </tr>
 <tr>
@@ -551,6 +631,46 @@
 <tr>
 <td>Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917849">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Sachi and Nagi go shopping together for a Mother’s Day<br>gift, but they can’t think of anything their mother would<br>appreciate.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">A Couple of Cuckoos (Tamil Dub) - Episode 10 - Don't treat me like your kid sister.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9b0dc4955086037fe953ba853ce9326d1656165457_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/31/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917850">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -924,46 +1044,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Spanish Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/645cf65401c2202992e4f8861b8653171702136733_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/30/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917822">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">SPY x FAMILY (Eps 26+) (Russian Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
 </tr>
 <tr>
@@ -1031,6 +1111,46 @@
 <tr>
 <td>Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917824">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Arabic Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/645cf65401c2202992e4f8861b8653171702136733_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/30/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917825">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1124,7 +1244,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Arabic Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Spanish Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
 </tr>
 <tr>
 <td>
@@ -1150,7 +1270,7 @@
 </tr>
 <tr>
 <td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917825">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917822">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1364,46 +1484,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">GOBLIN SLAYER II (Portuguese Dub) - Episode 10 - City Adventure</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3a6ebd14f2c499d3f759dd9d44bd7f331702040429_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/goblin-slayer/episode-10-city-adventure-917811">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">GOBLIN SLAYER II (Spanish Dub) - Episode 10 - City Adventure</h3></th>
 </tr>
 <tr>
@@ -1444,12 +1524,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (German Dub) - Episode 8 - Dragon's Den</h3></th>
+<th><h3 align="center">GOBLIN SLAYER II (Portuguese Dub) - Episode 10 - City Adventure</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/34a186b54dc57c1469512521a54bce171700818693_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/3a6ebd14f2c499d3f759dd9d44bd7f331702040429_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -1470,91 +1550,11 @@
 </tr>
 <tr>
 <td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-8-dragons-den-917802">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/goblin-slayer/episode-10-city-adventure-917811">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
-<p>Naofumi assembles a party to pursue Gaelion, who has consumed<br>the Emperor Dragon's Core. Gaelion's transformation is profoundly sickening Filo,<br>so Naofumi must return Gaelion to normal within the next<br>two days.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (French Dub) - Episode 9 - Emperor Dragon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/920309663a8ef0c24d6d8a4b8721ebdd1701401720_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-9-emperor-dragon-917805">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Naofumi's party regroups and plans another assault on the Emperor<br>Dragon. While their plan of attack comes together, Wyndia explains<br>her connection to the dragon. This causes Wyndia to remember<br>something very significant...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Rising of the Shield Hero Season 3 (Russian Dub) - Episode 10 - Perfect Hidden Justice</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a575404833514b84eb2531bce8bb2f771702040361_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917807">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
+<p>The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
 </td>
 </tr>
 </table>
@@ -1635,6 +1635,126 @@
 <tr>
 <td colspan="2">
 <p>Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Rising of the Shield Hero Season 3 (Russian Dub) - Episode 10 - Perfect Hidden Justice</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a575404833514b84eb2531bce8bb2f771702040361_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917807">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Rising of the Shield Hero Season 3 (French Dub) - Episode 9 - Emperor Dragon</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/920309663a8ef0c24d6d8a4b8721ebdd1701401720_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-9-emperor-dragon-917805">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Naofumi's party regroups and plans another assault on the Emperor<br>Dragon. While their plan of attack comes together, Wyndia explains<br>her connection to the dragon. This causes Wyndia to remember<br>something very significant...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Rising of the Shield Hero Season 3 (German Dub) - Episode 8 - Dragon's Den</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/34a186b54dc57c1469512521a54bce171700818693_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-8-dragons-den-917802">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Naofumi assembles a party to pursue Gaelion, who has consumed<br>the Emperor Dragon's Core. Gaelion's transformation is profoundly sickening Filo,<br>so Naofumi must return Gaelion to normal within the next<br>two days.</p>
 </td>
 </tr>
 </table>
@@ -1875,126 +1995,6 @@
 <tr>
 <td colspan="2">
 <p>In addition to the curse of Yasohachi Bridge, Itadori, Fushiguro,<br>and Kugisaki face off against Kechizu, one of the special<br>grade cursed objects: Cursed Wombs: Death Paintings. The three start<br>fighting within the barrier of Yasohachi Bridge's curse, but something<br>suddenly seizes Kugisaki's arm and drags her outside the barrier.<br>Itadori and Kechizu chase after her, leaving the barrier. Left<br>behind, Fushiguro quickly takes of the Yasohachi Bridge curse--until he<br>witnesses a shocking sight. Meanwhile, Kugisaki faces off against Eso,<br>another one of the Cursed Wombs: Death Paintings. Then Kechizu<br>and Itadori catch up and join her--</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin (Portuguese Dub) - Episode 23 - The Wolf's Fangs</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc4e80856829a13904a44c4a994a0f0c1701971121_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/28/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-23-the-wolfs-fangs-917776">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo<br>and sees Hajime Saito. Hajime had introduced himself to Kaoru<br>and Yahiko as Goro Fujita, the police officer, and they<br>had invited him into the Dojo without any suspicion. Hajime<br>criticizes Kenshin and the others for their naivety. Over the<br>past ten years that Kenshin had washed his hands of<br>manslaying, Hajime had honed his killing intent and skills as<br>a hitman, and now Hajime's ferocity was aimed at them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin (Spanish Dub) - Episode 23 - The Wolf's Fangs</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc4e80856829a13904a44c4a994a0f0c1701971121_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/28/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-23-the-wolfs-fangs-917777">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo<br>and sees Hajime Saito. Hajime had introduced himself to Kaoru<br>and Yahiko as Goro Fujita, the police officer, and they<br>had invited him into the Dojo without any suspicion. Hajime<br>criticizes Kenshin and the others for their naivety. Over the<br>past ten years that Kenshin had washed his hands of<br>manslaying, Hajime had honed his killing intent and skills as<br>a hitman, and now Hajime's ferocity was aimed at them.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Rurouni Kenshin (Hindi Dub) - Episode 22 - Resurrection of the Wolf</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a8ddef79139220fe812587804919d3001701366227_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/28/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-22-resurrection-of-the-wolf-917778">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Kenshin sees a dream recalling the Shinsengumi, who he faced<br>off against back when he was a Revolutionary warrior. The<br>Shinsengumi was a group of highly skilled swordsmen who he<br>fought on equal footing back when he was the Hitokiri<br>Battosai. He feels unsettled and ponders why he is suddenly<br>remembering them. As the tension persists, a mysterious man with<br>very unique-looking eyes pays a visit to the Kamiya Dojo<br>while Kenshin, Kaoru, and Yahiko are not home. When he<br>meets Sanosuke, who just happened to be at the Dojo,<br>he claims that he is Goro Fujita, a medicine seller,<br>but...</p>
 </td>
 </tr>
 </table>
