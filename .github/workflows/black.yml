@@ -23,12 +23,10 @@ jobs:
 
       - name: Get latest anime data
         run: |
-          curl -o data.json https://www.crunchyroll.com/videos/new
+          curl -o data.json https://feeds.feedburner.com/crunchyroll/rss/anime
 
       - name: Update Readme
-        run: |
-          node update-readme.js
-          git diff --exit-code || git commit -am "Update Readme.md" && git push
+        run: node update-readme.js
 
       - name: Configure Git
         run: |
