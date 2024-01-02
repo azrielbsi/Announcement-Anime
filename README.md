@@ -1,6 +1,6 @@
-<h1 align="center">Latest Anime List</h1>
+<p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 2, 2024, 3:27:49 PM</em></p>
+<p align="center"><em>Updated on: Jan 2, 2024, 3:32:29 PM</em></p>
 
 <table align="center">
 <tr>
@@ -17,11 +17,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/log-horizon/episode-8-villain-in-glasses-917469">Anime Information</a></td>
 </tr>
 <tr>
@@ -49,11 +49,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/tomo-chan-is-a-girl/episode-8-the-night-of-the-summer-festival-the-distance-between-them-917368">Anime Information</a></td>
 </tr>
 <tr>
@@ -81,11 +81,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/ranking-of-kings/episode-8-the-sacrifice-of-dreams-917468">Anime Information</a></td>
 </tr>
 <tr>
@@ -113,11 +113,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/dead-mount-death-play/episode-22-the-karma-917871">Anime Information</a></td>
 </tr>
 <tr>
@@ -145,11 +145,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/dead-mount-death-play/episode-22-the-karma-917872">Anime Information</a></td>
 </tr>
 <tr>
@@ -177,11 +177,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/migidali/episode-11-upside-down-woman-917869">Anime Information</a></td>
 </tr>
 <tr>
@@ -209,11 +209,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/shy/episode-11-what-is-conveyed-and-that-which-remains-917865">Anime Information</a></td>
 </tr>
 <tr>
@@ -241,11 +241,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/shy/episode-11-what-is-conveyed-and-that-which-remains-917866">Anime Information</a></td>
 </tr>
 <tr>
@@ -273,11 +273,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/vinland-saga/episode-22-the-king-of-rebellion-917371">Anime Information</a></td>
 </tr>
 <tr>
@@ -305,11 +305,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far/episode-4-debut-in-the-royal-capital-917863">Anime Information</a></td>
 </tr>
 <tr>
@@ -337,11 +337,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/demon-slayer-kimetsu-no-yaiba/episode-7-transformation-917366">Anime Information</a></td>
 </tr>
 <tr>
@@ -369,11 +369,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/fluffy-paradise/episode-1-nobody-told-me-this-would-happen-917848">Anime Information</a></td>
 </tr>
 <tr>
@@ -401,11 +401,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-12-okashira-aoshi-shinomori-917860">Anime Information</a></td>
 </tr>
 <tr>
@@ -433,11 +433,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/mf-ghost/episode-12-inherited-perception-917857">Anime Information</a></td>
 </tr>
 <tr>
@@ -465,11 +465,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-100-girlfriends-who-really-really-really-really-really-love-you/episode-10-love-mission-impossible-917856">Anime Information</a></td>
 </tr>
 <tr>
@@ -497,11 +497,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913752">Anime Information</a></td>
 </tr>
 <tr>
@@ -529,11 +529,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913765">Anime Information</a></td>
 </tr>
 <tr>
@@ -561,11 +561,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-a-great-journey-913778">Anime Information</a></td>
 </tr>
 <tr>
@@ -593,11 +593,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917849">Anime Information</a></td>
 </tr>
 <tr>
@@ -625,11 +625,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/a-couple-of-cuckoos/episode-10-dont-treat-me-like-your-kid-sister-917850">Anime Information</a></td>
 </tr>
 <tr>
@@ -657,11 +657,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-daily-life-of-the-immortal-king/episode-4-917167">Anime Information</a></td>
 </tr>
 <tr>
@@ -689,11 +689,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/i-shall-survive-using-potions/episode-10-going-back-to-my-original-goal-in-a-new-country-917846">Anime Information</a></td>
 </tr>
 <tr>
@@ -721,11 +721,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-apothecary-diaries/episode-9-suicide-or-murder-917844">Anime Information</a></td>
 </tr>
 <tr>
@@ -753,11 +753,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917836">Anime Information</a></td>
 </tr>
 <tr>
@@ -785,11 +785,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917837">Anime Information</a></td>
 </tr>
 <tr>
@@ -817,11 +817,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917838">Anime Information</a></td>
 </tr>
 <tr>
@@ -849,11 +849,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-faraway-paladin/episode-10-the-lord-of-the-rust-mountains-917839">Anime Information</a></td>
 </tr>
 <tr>
@@ -881,11 +881,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917820">Anime Information</a></td>
 </tr>
 <tr>
@@ -913,11 +913,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917821">Anime Information</a></td>
 </tr>
 <tr>
@@ -945,11 +945,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917822">Anime Information</a></td>
 </tr>
 <tr>
@@ -977,11 +977,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917823">Anime Information</a></td>
 </tr>
 <tr>
@@ -1009,11 +1009,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917824">Anime Information</a></td>
 </tr>
 <tr>
@@ -1041,11 +1041,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917825">Anime Information</a></td>
 </tr>
 <tr>
@@ -1073,11 +1073,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917828">Anime Information</a></td>
 </tr>
 <tr>
@@ -1105,11 +1105,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917829">Anime Information</a></td>
 </tr>
 <tr>
@@ -1137,11 +1137,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-angel-next-door-spoils-me-rotten/episode-7-a-promise-with-the-angel-917463">Anime Information</a></td>
 </tr>
 <tr>
@@ -1169,11 +1169,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/my-love-story-with-yamada-kun-at-lv999/episode-7-you-want-to-feel-at-ease-917461">Anime Information</a></td>
 </tr>
 <tr>
@@ -1201,11 +1201,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/buddy-daddies/episode-7-after-rain-comes-fair-weather-917480">Anime Information</a></td>
 </tr>
 <tr>
@@ -1233,11 +1233,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/girlfriend-girlfriend/episode-10-her-resolve-917817">Anime Information</a></td>
 </tr>
 <tr>
@@ -1265,11 +1265,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/girlfriend-girlfriend/episode-10-her-resolve-917816">Anime Information</a></td>
 </tr>
 <tr>
@@ -1297,11 +1297,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/goblin-slayer/episode-10-city-adventure-917814">Anime Information</a></td>
 </tr>
 <tr>
@@ -1329,11 +1329,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/goblin-slayer/episode-10-city-adventure-917811">Anime Information</a></td>
 </tr>
 <tr>
@@ -1361,11 +1361,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917801">Anime Information</a></td>
 </tr>
 <tr>
@@ -1393,11 +1393,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917806">Anime Information</a></td>
 </tr>
 <tr>
@@ -1425,11 +1425,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-10-perfect-hidden-justice-917807">Anime Information</a></td>
 </tr>
 <tr>
@@ -1457,11 +1457,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-9-emperor-dragon-917805">Anime Information</a></td>
 </tr>
 <tr>
@@ -1489,11 +1489,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/the-rising-of-the-shield-hero/episode-8-dragons-den-917802">Anime Information</a></td>
 </tr>
 <tr>
@@ -1521,11 +1521,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/frieren-beyond-journeys-end/episode-13-aversion-to-ones-own-kind-917799">Anime Information</a></td>
 </tr>
 <tr>
@@ -1553,11 +1553,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/hypnosismic-division-rap-battle-rhyme-anima/episode-13-where-theres-hope-theres-life-it-fills-us-with-fresh-courage-and-makes-us-strong-again-911661">Anime Information</a></td>
 </tr>
 <tr>
@@ -1585,11 +1585,11 @@
 <td>
 <table align="center">
 <tr>
-<td>Publish Date :</td>
+<td>📔 Publish Date :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
-<td>Link :</td>
+<td>📕 Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/burn-the-witch/burn-the-witch-08-dont-judge-a-book-by-its-cover-917782">Anime Information</a></td>
 </tr>
 <tr>
