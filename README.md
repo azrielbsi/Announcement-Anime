@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 2, 2024, 11:27:02 PM</em></p>
+<p align="center"><em>Updated on: Jan 2, 2024, 11:36:57 PM</em></p>
 
 <table align="center">
 <tr>
@@ -114,7 +114,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
+<td align="center">1/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -146,7 +146,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
+<td align="center">1/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -178,7 +178,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
+<td align="center">1/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -210,7 +210,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
+<td align="center">1/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -242,7 +242,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
+<td align="center">1/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -274,7 +274,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
+<td align="center">1/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -306,7 +306,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
+<td align="center">1/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -338,7 +338,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
+<td align="center">1/1/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -402,7 +402,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/1/2024</td>
+<td align="center">12/31/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -434,7 +434,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/1/2024</td>
+<td align="center">12/31/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -466,7 +466,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/1/2024</td>
+<td align="center">12/31/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -690,7 +690,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -722,7 +722,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -754,7 +754,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -786,7 +786,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -818,7 +818,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -850,7 +850,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -882,7 +882,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -914,7 +914,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -946,7 +946,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -978,7 +978,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1010,7 +1010,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1042,7 +1042,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1074,7 +1074,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1106,7 +1106,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/31/2023</td>
+<td align="center">12/30/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1234,7 +1234,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1266,7 +1266,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1298,7 +1298,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1330,7 +1330,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1362,7 +1362,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1394,7 +1394,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1426,7 +1426,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1458,7 +1458,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1490,7 +1490,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1522,7 +1522,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
@@ -1554,7 +1554,7 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/30/2023</td>
+<td align="center">12/29/2023</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
