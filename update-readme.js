@@ -21,8 +21,8 @@ async function getLatestAnimeData() {
     return feed.items.map(item => ({
       title: item.title,
       thumb: item.enclosure.url,
-      date: new Date(item.isoDate).toLocaleDateString('en-US', { timeZone: 'Asia/Jakarta' }),
-      time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'Asia/Jakarta', timeStyle: 'medium' }),
+      date: new Date(item.isoDate).toLocaleDateString(),
+      time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'medium' }),
       link: item.link,
       description: splitDescription(item.contentSnippet),
     }));
