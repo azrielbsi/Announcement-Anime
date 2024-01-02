@@ -73,6 +73,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<td align="center"><a href="${anime.link}">Anime Information</a></td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
+      readmeContent += `<td colspan="2">📙 Description :</td>`;
       readmeContent += `<td colspan="2">\n`;
       readmeContent += `<p align="center">${anime.description}</p>\n`; 
       readmeContent += `</td>\n`;
