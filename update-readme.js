@@ -63,7 +63,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<td>\n`;
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
-      readmeContent += `<td>Tanggal :</td>\n`;
+      readmeContent += `<td>Tanggal Publish :</td>\n`;
       readmeContent += `<td align="center">${anime.date}</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
@@ -72,7 +72,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td colspan="2">\n`;
-      readmeContent += `<p>${anime.description}</p>\n`; // Menambahkan deskripsi anime di bagian bawah tabel
+      readmeContent += `<p align="center">${anime.description}</p>\n`; // Menambahkan deskripsi anime di bagian bawah tabel
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n`;
