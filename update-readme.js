@@ -22,14 +22,13 @@ async function getLatestAnimeData() {
     return feed.items.map(item => ({
       title: item.title,
       thumb: item.enclosure.url,
-      eps: item['crunchyroll:episodeNumber'],
       date: new Date(item.isoDate).toLocaleDateString(),
       time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'medium' }),
       day: item['crunchyroll:dayOfWeek'],
       link: item.link,
       description: splitDescription(item.contentSnippet),
-      episodeNumber: item['crunchyroll:episodeNumber'],
-      duration: item['crunchyroll:duration'],
+      episodeNumber: item.episodeNumber,
+      duration: item.duration,
     }));
   } catch (error) {
     console.error('Error fetching feed:', error);
