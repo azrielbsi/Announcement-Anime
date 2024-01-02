@@ -1,6 +1,6 @@
 <h1 align="center">Daftar Anime Terbaru</h1>
 
-<p align="center"><em>Updated on: Jan 2, 2024, 3:10:31 PM</em></p>
+<p align="center"><em>Updated on: Jan 2, 2024, 3:24:29 PM</em></p>
 
 <table align="center">
 <tr>
@@ -17,7 +17,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>After the success of their Crescent Burger, Marielle and Henrietta<br>meet with the members of the major crafting guilds of<br>Elder Tale: Karashin of Shopping Street 8, Michikata of the<br>Marine Agency ,and Roderic of the Roderic Merchant Association. <br>They use Shiroe's plan to dangle the secret recipe of<br>the Crescent Burger in front of them, and the talented<br>account Henrietta opens negotiations.  What she wants is...</p>
+<p align="center">After the success of their Crescent Burger, Marielle and Henrietta<br>meet with the members of the major crafting guilds of<br>Elder Tale: Karashin of Shopping Street 8, Michikata of the<br>Marine Agency ,and Roderic of the Roderic Merchant Association. <br>They use Shiroe's plan to dangle the secret recipe of<br>the Crescent Burger in front of them, and the talented<br>account Henrietta opens negotiations.  What she wants is...</p>
 </td>
 </tr>
 </table>
@@ -49,7 +49,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Tomo has noticed that Junichiro is starting to act differently<br>around her. They both try to sort out their feelings<br>while seeing the summer festival fireworks together.</p>
+<p align="center">Tomo has noticed that Junichiro is starting to act differently<br>around her. They both try to sort out their feelings<br>while seeing the summer festival fireworks together.</p>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/2/2024</td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The story of Bosse's rise to power and Bojji's birth<br>is revealed. Domas cautions Hokuro about returning to the castle,<br>and the fate which likely awaits him there, before deciding<br>to walk away himself. A plot to kill one of<br>the royal court takes shape.</p>
+<p align="center">The story of Bosse's rise to power and Bojji's birth<br>is revealed. Domas cautions Hokuro about returning to the castle,<br>and the fate which likely awaits him there, before deciding<br>to walk away himself. A plot to kill one of<br>the royal court takes shape.</p>
 </td>
 </tr>
 </table>
@@ -113,7 +113,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Civil confronts Solitaire, hoping to provoke a confrontation with the<br>Fire-Breathing Bug, but he may get his wish sooner than<br>he planned. Meanwhile, the Corpse God plots a rescue mission.</p>
+<p align="center">Civil confronts Solitaire, hoping to provoke a confrontation with the<br>Fire-Breathing Bug, but he may get his wish sooner than<br>he planned. Meanwhile, the Corpse God plots a rescue mission.</p>
 </td>
 </tr>
 </table>
@@ -145,7 +145,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Civil confronts Solitaire, hoping to provoke a confrontation with the<br>Fire-Breathing Bug, but he may get his wish sooner than<br>he planned. Meanwhile, the Corpse God plots a rescue mission.</p>
+<p align="center">Civil confronts Solitaire, hoping to provoke a confrontation with the<br>Fire-Breathing Bug, but he may get his wish sooner than<br>he planned. Meanwhile, the Corpse God plots a rescue mission.</p>
 </td>
 </tr>
 </table>
@@ -177,7 +177,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -186,7 +186,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Reiko, cornered by Migi and Dali, finally begins to speak<br>about Metry, the mother of Migi and Dali. It turns<br>out to be the story of their birth as well...</p>
+<p align="center">Reiko, cornered by Migi and Dali, finally begins to speak<br>about Metry, the mother of Migi and Dali. It turns<br>out to be the story of their birth as well...</p>
 </td>
 </tr>
 </table>
@@ -209,7 +209,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Stigma's twisted endeavors have provided Pepesha and Letana the opportunity<br>to finally say all the things they never could in<br>the past. As their battle comes to a climax and<br>close, much is revealed about their relationship and Stigma.</p>
+<p align="center">Stigma's twisted endeavors have provided Pepesha and Letana the opportunity<br>to finally say all the things they never could in<br>the past. As their battle comes to a climax and<br>close, much is revealed about their relationship and Stigma.</p>
 </td>
 </tr>
 </table>
@@ -241,7 +241,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -250,7 +250,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Stigma's twisted endeavors have provided Pepesha and Letana the opportunity<br>to finally say all the things they never could in<br>the past. As their battle comes to a climax and<br>close, much is revealed about their relationship and Stigma.</p>
+<p align="center">Stigma's twisted endeavors have provided Pepesha and Letana the opportunity<br>to finally say all the things they never could in<br>the past. As their battle comes to a climax and<br>close, much is revealed about their relationship and Stigma.</p>
 </td>
 </tr>
 </table>
@@ -273,7 +273,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -282,7 +282,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Thorfinn tries to prove to the thegns that he is<br>worthy of speaking with Canute, even though he appears to<br>be no more than a slave.</p>
+<p align="center">Thorfinn tries to prove to the thegns that he is<br>worthy of speaking with Canute, even though he appears to<br>be no more than a slave.</p>
 </td>
 </tr>
 </table>
@@ -305,7 +305,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -314,7 +314,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Cain visits the church, where the gods tell him there's<br>no entertainment in this world and ask him to invent<br>some. Then Cain runs into Parma, an old friend who's<br>training at her uncle's shop. So Cain asks Parma's uncle<br>to help him create a certain item...</p>
+<p align="center">Cain visits the church, where the gods tell him there's<br>no entertainment in this world and ask him to invent<br>some. Then Cain runs into Parma, an old friend who's<br>training at her uncle's shop. So Cain asks Parma's uncle<br>to help him create a certain item...</p>
 </td>
 </tr>
 </table>
@@ -337,7 +337,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -346,7 +346,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>As Nezuko rushes to aid Tanjiro during a critical moment,<br>her appearance begins to gradually take on a demon form<br>as she sustains Daki's attacks. Nezuko is able to overpower<br>Daki as her demon form accelerates; however, she turns her<br>attention to innocent bystanders injured during the battle and charges<br>towards them. While Tanjiro attempts to restrain Nezuko, Daki draws<br>near...</p>
+<p align="center">As Nezuko rushes to aid Tanjiro during a critical moment,<br>her appearance begins to gradually take on a demon form<br>as she sustains Daki's attacks. Nezuko is able to overpower<br>Daki as her demon form accelerates; however, she turns her<br>attention to innocent bystanders injured during the battle and charges<br>towards them. While Tanjiro attempts to restrain Nezuko, Daki draws<br>near...</p>
 </td>
 </tr>
 </table>
@@ -369,7 +369,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">1/1/2024</td>
 </tr>
 <tr>
@@ -378,7 +378,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>When an exhausted office worker drops dead at her doorstep<br>from overwork, she has but one humble wish for her<br>next life... To be able to pet all of the<br>cuddly creatures she can find! Welcome to a paradise of<br>fluff (that may be home to a few secrets)!</p>
+<p align="center">When an exhausted office worker drops dead at her doorstep<br>from overwork, she has but one humble wish for her<br>next life... To be able to pet all of the<br>cuddly creatures she can find! Welcome to a paradise of<br>fluff (that may be home to a few secrets)!</p>
 </td>
 </tr>
 </table>
@@ -401,7 +401,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -410,7 +410,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>At last, Kenshin faces off against Aoshi Shinomori, the head<br>of the Oniwaban Group. In the Bakumatsu Era, the battle-obsessed<br>"Oniwaban group" lost their meaning of existence after surrendering the<br>castle they served without even being able to fight. Aoshi<br>is unable to bear this regret and is in earnest<br>pursuit of the title of the strongest warrior. As a<br>former Revolutionary warrior, Kenshin cannot tolerate conflict without morality. Two<br>men who made killing their profession in the Bakumatsu Era<br>clash against one another, putting their pride on the line.</p>
+<p align="center">At last, Kenshin faces off against Aoshi Shinomori, the head<br>of the Oniwaban Group. In the Bakumatsu Era, the battle-obsessed<br>"Oniwaban group" lost their meaning of existence after surrendering the<br>castle they served without even being able to fight. Aoshi<br>is unable to bear this regret and is in earnest<br>pursuit of the title of the strongest warrior. As a<br>former Revolutionary warrior, Kenshin cannot tolerate conflict without morality. Two<br>men who made killing their profession in the Bakumatsu Era<br>clash against one another, putting their pride on the line.</p>
 </td>
 </tr>
 </table>
@@ -433,7 +433,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -442,7 +442,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Ren's mother discovers the secret to Kanata's prodigious talent and<br>the two reminisce about his much-missed mother, Katherine. Meanwhile, Sawatari's<br>monster lap has unsettled the drivers who are still yet<br>to set a time.</p>
+<p align="center">Ren's mother discovers the secret to Kanata's prodigious talent and<br>the two reminisce about his much-missed mother, Katherine. Meanwhile, Sawatari's<br>monster lap has unsettled the drivers who are still yet<br>to set a time.</p>
 </td>
 </tr>
 </table>
@@ -465,7 +465,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -474,7 +474,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The Rentaro Family gears up to raid the Hanazono mansion<br>to get Hakari out.</p>
+<p align="center">The Rentaro Family gears up to raid the Hanazono mansion<br>to get Hakari out.</p>
 </td>
 </tr>
 </table>
@@ -497,7 +497,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -506,7 +506,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p></p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -529,7 +529,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -538,7 +538,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p></p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -561,7 +561,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -570,7 +570,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>It’s Japan versus Italy in the opening game of the<br>tournament, and tensions are running high. Team Japan’s tempers are<br>flared over Italy’s previous comments about how they weren’t worth<br>their time back before the practice match that never was.<br>Still, having been handed the position of captain from Matsuyama,<br>Tsubasa rises to the occasion. Italy may have Tsubasa marked,<br>but he responds with some characteristic fighting spirit.</p>
+<p align="center">It’s Japan versus Italy in the opening game of the<br>tournament, and tensions are running high. Team Japan’s tempers are<br>flared over Italy’s previous comments about how they weren’t worth<br>their time back before the practice match that never was.<br>Still, having been handed the position of captain from Matsuyama,<br>Tsubasa rises to the occasion. Italy may have Tsubasa marked,<br>but he responds with some characteristic fighting spirit.</p>
 </td>
 </tr>
 </table>
@@ -593,7 +593,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -602,7 +602,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Sachi and Nagi go shopping together for a Mother’s Day<br>gift, but they can’t think of anything their mother would<br>appreciate.</p>
+<p align="center">Sachi and Nagi go shopping together for a Mother’s Day<br>gift, but they can’t think of anything their mother would<br>appreciate.</p>
 </td>
 </tr>
 </table>
@@ -625,7 +625,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -634,7 +634,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Sachi and Nagi go shopping together for a Mother’s Day<br>gift, but they can’t think of anything their mother would<br>appreciate.</p>
+<p align="center">Sachi and Nagi go shopping together for a Mother’s Day<br>gift, but they can’t think of anything their mother would<br>appreciate.</p>
 </td>
 </tr>
 </table>
@@ -657,7 +657,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/31/2023</td>
 </tr>
 <tr>
@@ -666,7 +666,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p></p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -689,7 +689,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -698,7 +698,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Kaoru opens a drugstore in a new country, the Kingdom<br>of Jusral, in a return to her original goal of<br>living an easy life in this new world with her<br>OP ability. But once again, her potions draw attention in<br>ways she didn't expect...</p>
+<p align="center">Kaoru opens a drugstore in a new country, the Kingdom<br>of Jusral, in a return to her original goal of<br>living an easy life in this new world with her<br>OP ability. But once again, her potions draw attention in<br>ways she didn't expect...</p>
 </td>
 </tr>
 </table>
@@ -721,7 +721,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -730,7 +730,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>An older acquaintance of Jinshi's dies while drinking at a<br>party. A servant's body turns up in a moat. Both<br>deaths are written off as self-inflicted, but Maomao's keen observations<br>tell her that there's more to both stories.</p>
+<p align="center">An older acquaintance of Jinshi's dies while drinking at a<br>party. A servant's body turns up in a moat. Both<br>deaths are written off as self-inflicted, but Maomao's keen observations<br>tell her that there's more to both stories.</p>
 </td>
 </tr>
 </table>
@@ -753,7 +753,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -762,7 +762,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>When Will's party finally faces the overwhelming power of Valacirca,<br>they prepare for a fight to the death... but then<br>the dragon suddenly offers to become Will's servant. What is<br>Valacirca thinking, and what choice is Will going to make?</p>
+<p align="center">When Will's party finally faces the overwhelming power of Valacirca,<br>they prepare for a fight to the death... but then<br>the dragon suddenly offers to become Will's servant. What is<br>Valacirca thinking, and what choice is Will going to make?</p>
 </td>
 </tr>
 </table>
@@ -785,7 +785,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -794,7 +794,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>When Will's party finally faces the overwhelming power of Valacirca,<br>they prepare for a fight to the death... but then<br>the dragon suddenly offers to become Will's servant. What is<br>Valacirca thinking, and what choice is Will going to make?</p>
+<p align="center">When Will's party finally faces the overwhelming power of Valacirca,<br>they prepare for a fight to the death... but then<br>the dragon suddenly offers to become Will's servant. What is<br>Valacirca thinking, and what choice is Will going to make?</p>
 </td>
 </tr>
 </table>
@@ -817,7 +817,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -826,7 +826,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>When Will's party finally faces the overwhelming power of Valacirca,<br>they prepare for a fight to the death... but then<br>the dragon suddenly offers to become Will's servant. What is<br>Valacirca thinking, and what choice is Will going to make?</p>
+<p align="center">When Will's party finally faces the overwhelming power of Valacirca,<br>they prepare for a fight to the death... but then<br>the dragon suddenly offers to become Will's servant. What is<br>Valacirca thinking, and what choice is Will going to make?</p>
 </td>
 </tr>
 </table>
@@ -849,7 +849,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -858,7 +858,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>When Will's party finally faces the overwhelming power of Valacirca,<br>they prepare for a fight to the death... but then<br>the dragon suddenly offers to become Will's servant. What is<br>Valacirca thinking, and what choice is Will going to make?</p>
+<p align="center">When Will's party finally faces the overwhelming power of Valacirca,<br>they prepare for a fight to the death... but then<br>the dragon suddenly offers to become Will's servant. What is<br>Valacirca thinking, and what choice is Will going to make?</p>
 </td>
 </tr>
 </table>
@@ -881,7 +881,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -890,7 +890,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+<p align="center">The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
 </td>
 </tr>
 </table>
@@ -913,7 +913,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -922,7 +922,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+<p align="center">The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
 </td>
 </tr>
 </table>
@@ -945,7 +945,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -954,7 +954,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+<p align="center">The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
 </td>
 </tr>
 </table>
@@ -977,7 +977,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -986,7 +986,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+<p align="center">The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
 </td>
 </tr>
 </table>
@@ -1009,7 +1009,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1018,7 +1018,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+<p align="center">The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
 </td>
 </tr>
 </table>
@@ -1041,7 +1041,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1050,7 +1050,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+<p align="center">The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
 </td>
 </tr>
 </table>
@@ -1073,7 +1073,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1082,7 +1082,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+<p align="center">The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
 </td>
 </tr>
 </table>
@@ -1105,7 +1105,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1114,7 +1114,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+<p align="center">The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
 </td>
 </tr>
 </table>
@@ -1137,7 +1137,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1146,7 +1146,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The day before spring break, Itsuki has a fight with<br>his father and asks Amane to let him stay over.<br>When Chitose finds out that her boyfriend will get to<br>enjoy Mahiru's cooking, she demands to join them and stay<br>at Mahiru's apartment. The four friends spend the next few<br>lively days together. After Itsuki and Chitose leave, Amane returns<br>home one day to find Mahiru confronted by her mother,<br>Sayo. Noticing Mahiru's dark expression and sensing that something is<br>wrong, Amane invites Mahiru in. The two sit together on<br>Amane's sofa as Mahiru timidly explains her complicated history with<br>her parents.</p>
+<p align="center">The day before spring break, Itsuki has a fight with<br>his father and asks Amane to let him stay over.<br>When Chitose finds out that her boyfriend will get to<br>enjoy Mahiru's cooking, she demands to join them and stay<br>at Mahiru's apartment. The four friends spend the next few<br>lively days together. After Itsuki and Chitose leave, Amane returns<br>home one day to find Mahiru confronted by her mother,<br>Sayo. Noticing Mahiru's dark expression and sensing that something is<br>wrong, Amane invites Mahiru in. The two sit together on<br>Amane's sofa as Mahiru timidly explains her complicated history with<br>her parents.</p>
 </td>
 </tr>
 </table>
@@ -1169,7 +1169,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1178,7 +1178,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Yamada visits Akane’s apartment to help repair her laptop. After<br>a certain experience he had, Yamada had been trying to<br>get too close to women. However, for some reason, he<br>just wasn’t able to take his eyes off of Akane<br>taking an afternoon nap. He unthinkingly reaches out to touch<br>her hair, but then he stops when he hears the<br>doorbell ring. When Yamada goes to check the front door,<br>he finds Akane’s ex-boyfriend, Takuma, standing there. Shocked to see<br>Yamada coming out of Akane’s room, Takuma explains his reason<br>for his visit…</p>
+<p align="center">Yamada visits Akane’s apartment to help repair her laptop. After<br>a certain experience he had, Yamada had been trying to<br>get too close to women. However, for some reason, he<br>just wasn’t able to take his eyes off of Akane<br>taking an afternoon nap. He unthinkingly reaches out to touch<br>her hair, but then he stops when he hears the<br>doorbell ring. When Yamada goes to check the front door,<br>he finds Akane’s ex-boyfriend, Takuma, standing there. Shocked to see<br>Yamada coming out of Akane’s room, Takuma explains his reason<br>for his visit…</p>
 </td>
 </tr>
 </table>
@@ -1201,7 +1201,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/30/2023</td>
 </tr>
 <tr>
@@ -1210,7 +1210,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>A change in season dredges up bad memories for Kazuki,<br>who's already feeling overworked and unappreciated at home.</p>
+<p align="center">A change in season dredges up bad memories for Kazuki,<br>who's already feeling overworked and unappreciated at home.</p>
 </td>
 </tr>
 </table>
@@ -1233,7 +1233,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1242,7 +1242,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Mirika has kidnapped Naoya and locked him in a room<br>while Saki and the others try to find the key.<br>Shino is taken aback by Mirika's resolve, and begins to<br>question the way she's been hiding her own feelings.</p>
+<p align="center">Mirika has kidnapped Naoya and locked him in a room<br>while Saki and the others try to find the key.<br>Shino is taken aback by Mirika's resolve, and begins to<br>question the way she's been hiding her own feelings.</p>
 </td>
 </tr>
 </table>
@@ -1265,7 +1265,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1274,7 +1274,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Mirika has kidnapped Naoya and locked him in a room<br>while Saki and the others try to find the key.<br>Shino is taken aback by Mirika's resolve, and begins to<br>question the way she's been hiding her own feelings.</p>
+<p align="center">Mirika has kidnapped Naoya and locked him in a room<br>while Saki and the others try to find the key.<br>Shino is taken aback by Mirika's resolve, and begins to<br>question the way she's been hiding her own feelings.</p>
 </td>
 </tr>
 </table>
@@ -1297,7 +1297,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1306,7 +1306,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
+<p align="center">The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
 </td>
 </tr>
 </table>
@@ -1329,7 +1329,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1338,7 +1338,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
+<p align="center">The party arrives at the capital and splits ways. The<br>girls go to a public bath and as they're about<br>to leave, they find that Priestess's belongings have been stolen.</p>
 </td>
 </tr>
 </table>
@@ -1361,7 +1361,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1370,7 +1370,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
+<p align="center">Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
 </td>
 </tr>
 </table>
@@ -1393,7 +1393,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1402,7 +1402,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
+<p align="center">Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
 </td>
 </tr>
 </table>
@@ -1425,7 +1425,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1434,7 +1434,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
+<p align="center">Filo has recovered, but needs to gain experience to replace<br>her lost levels. S'yne returns from the underground arena bearing<br>a tale of a suspiciously familiar new fighter who uses<br>a bow and goes by the alias Perfect Hidden Justice.</p>
 </td>
 </tr>
 </table>
@@ -1457,7 +1457,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1466,7 +1466,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Naofumi's party regroups and plans another assault on the Emperor<br>Dragon. While their plan of attack comes together, Wyndia explains<br>her connection to the dragon. This causes Wyndia to remember<br>something very significant...</p>
+<p align="center">Naofumi's party regroups and plans another assault on the Emperor<br>Dragon. While their plan of attack comes together, Wyndia explains<br>her connection to the dragon. This causes Wyndia to remember<br>something very significant...</p>
 </td>
 </tr>
 </table>
@@ -1489,7 +1489,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1498,7 +1498,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>Naofumi assembles a party to pursue Gaelion, who has consumed<br>the Emperor Dragon's Core. Gaelion's transformation is profoundly sickening Filo,<br>so Naofumi must return Gaelion to normal within the next<br>two days.</p>
+<p align="center">Naofumi assembles a party to pursue Gaelion, who has consumed<br>the Emperor Dragon's Core. Gaelion's transformation is profoundly sickening Filo,<br>so Naofumi must return Gaelion to normal within the next<br>two days.</p>
 </td>
 </tr>
 </table>
@@ -1521,7 +1521,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1530,7 +1530,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>While passing by a village in the woods of the<br>northern lands, Frieren and party meet Sein, a gifted priest<br>who is nonetheless corrupt enough to give even Heiter a<br>run for his money. But what happened in his past?</p>
+<p align="center">While passing by a village in the woods of the<br>northern lands, Frieren and party meet Sein, a gifted priest<br>who is nonetheless corrupt enough to give even Heiter a<br>run for his money. But what happened in his past?</p>
 </td>
 </tr>
 </table>
@@ -1553,7 +1553,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1562,7 +1562,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p></p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1585,7 +1585,7 @@
 <td>
 <table align="center">
 <tr>
-<td>Tanggal :</td>
+<td>Tanggal Publish :</td>
 <td align="center">12/29/2023</td>
 </tr>
 <tr>
@@ -1594,7 +1594,7 @@
 </tr>
 <tr>
 <td colspan="2">
-<p></p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
