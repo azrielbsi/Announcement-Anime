@@ -16,16 +16,31 @@ function splitDescription(description) {
   return chunks.join('<br>');
 }
 
+const { Translate } = require('@google-cloud/translate').v2;
+
+const translate = new Translate();
+
+async function translateToIndonesian(text) {
+  try {
+    const [translation] = await translate.translate(text, 'id');
+    return translation;
+  } catch (error) {
+    console.error('Error translating text:', error);
+    return text; 
+  }
+}
+
 async function getLatestAnimeData() {
   try {
     const feed = await parser.parseURL('https://feeds.feedburner.com/crunchyroll/rss/anime');
+    const descriptionIndonesian = await translateToIndonesian(item.contentSnippet);
     return feed.items.map(item => ({
       title: item.title,
       thumb: item.enclosure.url,
       date: new Date(item.isoDate).toLocaleDateString(),
       time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'medium' }),
       link: item.link,
-      description: splitDescription(item.contentSnippet),
+      description: splitDescription(descriptionIndonesian),
       category: item.category || 'Unknown',
     }));
   } catch (error) {
