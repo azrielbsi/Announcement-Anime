@@ -3,7 +3,6 @@ const Parser = require('rss-parser');
 
 const parser = new Parser();
 
-// Fungsi untuk membagi deskripsi setiap 10 kata
 function splitDescription(description) {
   const words = description.split(' ');
   const chunkSize = 10;
@@ -16,32 +15,16 @@ function splitDescription(description) {
   return chunks.join('<br>');
 }
 
-const { Translate } = require('@google-cloud/translate').v2;
-
-const translate = new Translate();
-
-async function translateToIndonesian(text) {
-  try {
-    const [translation] = await translate.translate(text, 'id');
-    return translation;
-  } catch (error) {
-    console.error('Error translating text:', error);
-    return text; 
-  }
-}
-
 async function getLatestAnimeData() {
   try {
     const feed = await parser.parseURL('https://feeds.feedburner.com/crunchyroll/rss/anime');
-    const descriptionIndonesian = await translateToIndonesian(item.contentSnippet);
     return feed.items.map(item => ({
       title: item.title,
       thumb: item.enclosure.url,
       date: new Date(item.isoDate).toLocaleDateString(),
       time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'medium' }),
       link: item.link,
-      description: splitDescription(descriptionIndonesian),
-      category: item.category || 'Unknown',
+      description: splitDescription(item.splitDescription),
     }));
   } catch (error) {
     console.error('Error fetching feed:', error);
@@ -84,16 +67,8 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<td>\n`;
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
-      readmeContent += `<td>Category :</td>\n`;
-      readmeContent += `<td align="center">${anime.category}</td>\n`;
-      readmeContent += `</tr>\n`;
-      readmeContent += `<tr>\n`;
       readmeContent += `<td>Tanggal :</td>\n`;
       readmeContent += `<td align="center">${anime.date}</td>\n`;
-      readmeContent += `</tr>\n`;
-      readmeContent += `<tr>\n`;
-      readmeContent += `<td>Duration :</td>\n`;
-      readmeContent += `<td align="center">${anime.duration}</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td>Link :</td>\n`;
