@@ -27,8 +27,8 @@ async function getLatestAnimeData() {
       day: item['crunchyroll:dayOfWeek'],
       link: item.link,
       description: splitDescription(item.contentSnippet),
-      episodeNumber: item.episodeNumber,
-      duration: item.duration,
+      episodeNumber: episodeNumber,
+      duration: duration,
     }));
   } catch (error) {
     console.error('Error fetching feed:', error);
