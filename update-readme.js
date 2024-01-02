@@ -44,7 +44,7 @@ async function updateReadmeWithAnimeData() {
       timeStyle: 'medium'
     });
 
-    let readmeContent = `<h1 align="center">Daftar Anime Terbaru</h1>\n\n`;
+    let readmeContent = `<h1 align="center">Latest Anime List</h1>\n\n`;
     readmeContent += `<p align="center"><em>Updated on: ${currentDateTime}</em></p>\n\n`;
 
     animeData.forEach(anime => {
@@ -63,7 +63,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<td>\n`;
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
-      readmeContent += `<td>Tanggal Publish :</td>\n`;
+      readmeContent += `<td>Publish Date :</td>\n`;
       readmeContent += `<td align="center">${anime.date}</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
@@ -72,7 +72,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td colspan="2">\n`;
-      readmeContent += `<p align="center">${anime.description}</p>\n`; // Menambahkan deskripsi anime di bagian bawah tabel
+      readmeContent += `<p align="center">${anime.description}</p>\n`; 
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n`;
