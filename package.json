@@ -1,15 +1,14 @@
 {
-  "name": "crunchyroll-scraping",
+  "name": "update-anime-readme",
   "version": "1.0.0",
-  "description": "Scraping Crunchyroll for anime announcements",
-  "main": "index.js",
+  "description": "Script to update README.md with latest anime information",
+  "main": "update_readme.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node update_readme.js"
   },
+  "author": "Ulee",
+  "license": "MIT",
   "dependencies": {
-    "axios": "^0.24.0",
-    "cheerio": "^1.0.0-rc.10",
-    "fs": "0.0.1-security",
-    "html-entities": "^2.4.0"
+    "rss-parser": "^3.13.0"
   }
 }
