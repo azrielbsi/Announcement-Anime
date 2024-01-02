@@ -24,7 +24,7 @@ async function getLatestAnimeData() {
       date: new Date(item.isoDate).toLocaleDateString(),
       time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'medium' }),
       link: item.link,
-      description: splitDescription(item.splitDescription),
+      description: splitDescription(item.contentSnippet),
     }));
   } catch (error) {
     console.error('Error fetching feed:', error);
