@@ -1,56 +1,43 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
+const fs = require('fs');
+const Parser = require('rss-parser');
 
-async function fetchAnimeAnnouncements() {
+const parser = new Parser();
+
+// Fungsi untuk membagi deskripsi setiap 10 kata
+function splitDescription(description) {
+  const words = description.split(' ');
+  const chunkSize = 10;
+  const chunks = [];
+
+  for (let i = 0; i < words.length; i += chunkSize) {
+    chunks.push(words.slice(i, i + chunkSize).join(' '));
+  }
+
+  return chunks.join('<br>');
+}
+
+async function getLatestAnimeData() {
   try {
-    const response = await axios.get('https://www.crunchyroll.com/videos/new');
-    const $ = cheerio.load(response.data);
-
-    const announcements = [];
-    $('.portrait-element').each((index, element) => {
-      const title = $(element).find('.series-title').text().trim();
-      const episode = $(element).find('.series-data').text().trim();
-      const thumbnail = $(element).find('.portrait-element').attr('src');
-      const link = 'https://www.crunchyroll.com' + $(element).find('a').attr('href');
-
-      announcements.push({
-        title,
-        episode,
-        thumbnail,
-        link
-      });
-    });
-
-    return announcements;
+    const feed = await parser.parseURL('https://feeds.feedburner.com/crunchyroll/rss/anime');
+    return feed.items.map(item => ({
+      title: item.title,
+      thumb: item.enclosure.url,
+      eps: item['crunchyroll:episodeNumber'],
+      date: new Date(item.isoDate).toLocaleDateString(),
+      time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'medium' }),
+      day: item['crunchyroll:dayOfWeek'],
+      link: item.link,
+      description: splitDescription(item.contentSnippet)
+    }));
   } catch (error) {
-    console.error('Error fetching data:', error);
+    console.error('Error fetching feed:', error);
     return [];
   }
 }
 
-async function displayAnimeAnnouncements() {
-  try {
-    const animeData = await fetchAnimeAnnouncements();
-
-    animeData.forEach(anime => {
-      console.log('Title:', anime.title);
-      console.log('Episode:', anime.episode);
-      console.log('Thumbnail:', anime.thumbnail);
-      console.log('Link:', anime.link);
-      console.log('-----------------------');
-    });
-
-    console.log('Total Announcements:', animeData.length);
-  } catch (error) {
-    console.error('Error displaying data:', error);
-  }
-}
-
-displayAnimeAnnouncements();
-
 async function updateReadmeWithAnimeData() {
   try {
-    const animeData = await fetchAnimeAnnouncements();
+    const animeData = await getLatestAnimeData();
     const currentDate = new Date().toLocaleDateString('en-US', {
       timeZone: 'UTC'
     });
@@ -75,7 +62,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<tr>\n`;
       readmeContent += `<td>\n`;
       readmeContent += `<p align="center">\n`;
-      readmeContent += `<img src="${anime.thumbnail}" height="256">\n`;
+      readmeContent += `<img src="${anime.thumb}" height="256">\n`;
       readmeContent += `</p>\n`;
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
@@ -84,11 +71,24 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td>Episode :</td>\n`;
-      readmeContent += `<td align="center">${anime.episode}</td>\n`;
+      readmeContent += `<td align="center">${anime.eps}</td>\n`;
+      readmeContent += `</tr>\n`;
+      readmeContent += `<tr>\n`;
+      readmeContent += `<td>Tanggal :</td>\n`;
+      readmeContent += `<td align="center">${anime.date}</td>\n`;
+      readmeContent += `</tr>\n`;
+      readmeContent += `<tr>\n`;
+      readmeContent += `<td>Hari :</td>\n`;
+      readmeContent += `<td align="center">${anime.day}</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td>Link :</td>\n`;
       readmeContent += `<td align="center"><a href="${anime.link}">Anime Information</a></td>\n`;
+      readmeContent += `</tr>\n`;
+      readmeContent += `<tr>\n`;
+      readmeContent += `<td colspan="2">\n`;
+      readmeContent += `<p>${anime.description}</p>\n`; // Menambahkan deskripsi anime di bagian bawah tabel
+      readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n`;
       readmeContent += `</td>\n`;
