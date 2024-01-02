@@ -1,6 +1,126 @@
 <h1 align="center">Daftar Anime Terbaru</h1>
 
-<p align="center"><em>Updated on: 1/2/2024 at Jan 2, 2024, 12:42 AM</em></p>
+<p align="center"><em>Updated on: 1/2/2024 at Jan 2, 2024, 9:46 AM</em></p>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Log Horizon (Hindi Dub) - Episode 8 - Villain in Glasses</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cb4048d9cccbf7c3a040b35f1dcf88361385205973_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/log-horizon/episode-8-villain-in-glasses-917469">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>After the success of their Crescent Burger, Marielle and Henrietta<br>meet with the members of the major crafting guilds of<br>Elder Tale: Karashin of Shopping Street 8, Michikata of the<br>Marine Agency ,and Roderic of the Roderic Merchant Association. <br>They use Shiroe's plan to dangle the secret recipe of<br>the Crescent Burger in front of them, and the talented<br>account Henrietta opens negotiations.  What she wants is...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Tomo-chan Is a Girl! (Hindi Dub) - Episode 8 - The Night of the Summer Festival / The Distance Between Them</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d6f7ede1e49d53635cabddfc334dd6ab1677076655_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/tomo-chan-is-a-girl/episode-8-the-night-of-the-summer-festival-the-distance-between-them-917368">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Tomo has noticed that Junichiro is starting to act differently<br>around her. They both try to sort out their feelings<br>while seeing the summer festival fireworks together.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Ranking of Kings (Telugu Dub) - Episode 8 - The Sacrifice of Dreams</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c8c64daac87d74914c77203a9a3a882a1641093125_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">1/2/2024</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/ranking-of-kings/episode-8-the-sacrifice-of-dreams-917468">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>The story of Bosse's rise to power and Bojji's birth<br>is revealed. Domas cautions Hokuro about returning to the castle,<br>and the fate which likely awaits him there, before deciding<br>to walk away himself. A plot to kill one of<br>the royal court takes shape.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
 <table align="center">
 <tr>
@@ -484,46 +604,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 9</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/067888bc57971f18fa5c925805bc65131703999443_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/31/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913765">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Spanish Dub) - Episode 9</h3></th>
 </tr>
 <tr>
@@ -551,6 +631,46 @@
 <tr>
 <td>Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913752">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Captain Tsubasa: Junior Youth Arc (Portuguese Dub) - Episode 9</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/067888bc57971f18fa5c925805bc65131703999443_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/31/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/captain-tsubasa-junior-youth-arc/episode-9-913765">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1044,6 +1164,46 @@
 
 <table align="center">
 <tr>
+<th><h3 align="center">SPY x FAMILY (Eps 26+) (Spanish Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/645cf65401c2202992e4f8861b8653171702136733_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/30/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917822">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <th><h3 align="center">SPY x FAMILY (Eps 26+) (Russian Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
 </tr>
 <tr>
@@ -1244,46 +1404,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SPY x FAMILY (Eps 26+) (Spanish Dub) - Episode 35 - Enjoy the Resort to the Fullest / Bragging About Vacation</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/645cf65401c2202992e4f8861b8653171702136733_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/30/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/spy-x-family/episode-35-enjoy-the-resort-to-the-fullest-bragging-about-vacation-917822">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>The morning after the attack from the assassins and the<br>bomb scare, the cruise ship arrives at the resort island.<br>Loid and Anya meet up with Yor and the three<br>enjoy a family vacation!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">The Angel Next Door Spoils Me Rotten (Hindi Dub) - Episode 7 - A Promise with the Angel</h3></th>
 </tr>
 <tr>
@@ -1404,46 +1524,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Girlfriend, Girlfriend Season 2 (Portuguese Dub) - Episode 10 - Her Resolve</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/73e30318e9c86d21b674ed96584191611702060448_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/girlfriend-girlfriend/episode-10-her-resolve-917816">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Mirika has kidnapped Naoya and locked him in a room<br>while Saki and the others try to find the key.<br>Shino is taken aback by Mirika's resolve, and begins to<br>question the way she's been hiding her own feelings.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">Girlfriend, Girlfriend Season 2 (Spanish Dub) - Episode 10 - Her Resolve</h3></th>
 </tr>
 <tr>
@@ -1471,6 +1551,46 @@
 <tr>
 <td>Link :</td>
 <td align="center"><a href="http://www.crunchyroll.com/fr/girlfriend-girlfriend/episode-10-her-resolve-917817">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Mirika has kidnapped Naoya and locked him in a room<br>while Saki and the others try to find the key.<br>Shino is taken aback by Mirika's resolve, and begins to<br>question the way she's been hiding her own feelings.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Girlfriend, Girlfriend Season 2 (Portuguese Dub) - Episode 10 - Her Resolve</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/73e30318e9c86d21b674ed96584191611702060448_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>Episode :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Tanggal :</td>
+<td align="center">12/29/2023</td>
+</tr>
+<tr>
+<td>Hari :</td>
+<td align="center">undefined</td>
+</tr>
+<tr>
+<td>Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/girlfriend-girlfriend/episode-10-her-resolve-917816">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -1875,126 +1995,6 @@
 <tr>
 <td colspan="2">
 <p></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Ranking of Kings (Tamil Dub) - Episode 17 - The Curse of Immortality</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e4e7838d1c9baf16db29c5dfb0674cbc1644507303_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/ranking-of-kings/episode-17-the-curse-of-immortality-917447">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>Bojji and Kage run into Apeas, who tells them about<br>Miranjo's dream. Domas and Hokuro finally reach the entrance to<br>the underworld they were ordered to destroy. The Magic Mirror<br>calls out to Ouken, who escapes Despa's custody to come<br>to her aid.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN (Telugu Dub) - Episode 24 - Accomplices</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5113c68f804c011158c81464998830d41616743285_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-24-accomplices-917445">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>The Cursed Wombs: Death Paintings, Eso and Kechizu, face off<br>against Itadori and Kugisaki, but the two begin to rot<br>after they're bathed in the blood of Eso and Kechizu.<br>Driven into a corner, Kugisaki hammers a nail into herself<br>to activate Resonance and start a game of chicken with<br>the brothers. Itadori refuses to stop and continues to attack<br>Kechizu, but-- This whole mission began with one of Ryomen<br>Sukuna's Fingers, so will Itadori, Kugisaki, and Fushiguro ultimately make<br>it home to Jujutsu Tech safely?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN (Telugu Dub) - Episode 23 - The Origin of Blind Obedience - 2 -</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/d38842a34b6c976f756c321716d66eea1616144707_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>Episode :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Tanggal :</td>
-<td align="center">12/29/2023</td>
-</tr>
-<tr>
-<td>Hari :</td>
-<td align="center">undefined</td>
-</tr>
-<tr>
-<td>Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-23-the-origin-of-blind-obedience-2-917444">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">
-<p>In addition to the curse of Yasohachi Bridge, Itadori, Fushiguro,<br>and Kugisaki face off against Kechizu, one of the special<br>grade cursed objects: Cursed Wombs: Death Paintings. The three start<br>fighting within the barrier of Yasohachi Bridge's curse, but something<br>suddenly seizes Kugisaki's arm and drags her outside the barrier.<br>Itadori and Kechizu chase after her, leaving the barrier. Left<br>behind, Fushiguro quickly takes of the Yasohachi Bridge curse--until he<br>witnesses a shocking sight. Meanwhile, Kugisaki faces off against Eso,<br>another one of the Cursed Wombs: Death Paintings. Then Kechizu<br>and Itadori catch up and join her--</p>
 </td>
 </tr>
 </table>
