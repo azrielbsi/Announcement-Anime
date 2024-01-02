@@ -1,6 +1,5 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
-const fs = require('fs');
 
 async function fetchAnimeAnnouncements() {
   try {
@@ -22,13 +21,32 @@ async function fetchAnimeAnnouncements() {
       });
     });
 
-    console.log(announcements);
     return announcements;
   } catch (error) {
     console.error('Error fetching data:', error);
     return [];
   }
 }
+
+async function displayAnimeAnnouncements() {
+  try {
+    const animeData = await fetchAnimeAnnouncements();
+
+    animeData.forEach(anime => {
+      console.log('Title:', anime.title);
+      console.log('Episode:', anime.episode);
+      console.log('Thumbnail:', anime.thumbnail);
+      console.log('Link:', anime.link);
+      console.log('-----------------------');
+    });
+
+    console.log('Total Announcements:', animeData.length);
+  } catch (error) {
+    console.error('Error displaying data:', error);
+  }
+}
+
+displayAnimeAnnouncements();
 
 async function updateReadmeWithAnimeData() {
   try {
