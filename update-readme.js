@@ -44,7 +44,7 @@ async function updateReadmeWithAnimeData() {
       timeStyle: 'medium'
     });
 
-    let readmeContent = `<h1 align="center">Latest Anime List</h1>\n\n`;
+    let readmeContent = `<p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>\n\n`;
     readmeContent += `<p align="center"><em>Updated on: ${currentDateTime}</em></p>\n\n`;
 
     animeData.forEach(anime => {
@@ -63,11 +63,11 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<td>\n`;
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
-      readmeContent += `<td>Publish Date :</td>\n`;
+      readmeContent += `<td>📔 Publish Date :</td>\n`;
       readmeContent += `<td align="center">${anime.date}</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
-      readmeContent += `<td>Link :</td>\n`;
+      readmeContent += `<td>📕 Link :</td>\n`;
       readmeContent += `<td align="center"><a href="${anime.link}">Anime Information</a></td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
