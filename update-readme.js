@@ -27,7 +27,9 @@ async function getLatestAnimeData() {
       time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'medium' }),
       day: item['crunchyroll:dayOfWeek'],
       link: item.link,
-      description: splitDescription(item.contentSnippet)
+      description: splitDescription(item.contentSnippet),
+      episodeNumber: item['crunchyroll:episodeNumber'],
+      duration: item['crunchyroll:duration'],
     }));
   } catch (error) {
     console.error('Error fetching feed:', error);
@@ -71,15 +73,15 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td>Episode :</td>\n`;
-      readmeContent += `<td align="center">${anime.eps}</td>\n`;
+      readmeContent += `<td align="center">${anime.episodeNumber}</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td>Tanggal :</td>\n`;
       readmeContent += `<td align="center">${anime.date}</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
-      readmeContent += `<td>Hari :</td>\n`;
-      readmeContent += `<td align="center">${anime.day}</td>\n`;
+      readmeContent += `<td>Duration :</td>\n`;
+      readmeContent += `<td align="center">${anime.duration}</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td>Link :</td>\n`;
