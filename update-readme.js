@@ -21,8 +21,8 @@ async function getLatestAnimeData() {
     return feed.items.map(item => ({
       title: item.title,
       thumb: item.enclosure.url,
-      date: new Date(item.isoDate).toLocaleDateString(),
-      time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'UTC', timeStyle: 'medium' }),
+      date: new Date(item.isoDate).toLocaleDateString('en-US', { timeZone: 'Asia/Jakarta' }),
+      time: new Date(item.isoDate).toLocaleTimeString('en-US', { timeZone: 'Asia/Jakarta', timeStyle: 'medium' }),
       link: item.link,
       description: splitDescription(item.contentSnippet),
     }));
@@ -36,10 +36,10 @@ async function updateReadmeWithAnimeData() {
   try {
     const animeData = await getLatestAnimeData();
     const currentDate = new Date().toLocaleDateString('en-US', {
-      timeZone: 'UTC'
+      timeZone: 'Asia/Jakarta'
     });
     const currentDateTime = new Date().toLocaleString('en-US', {
-      timeZone: 'UTC',
+      timeZone: 'Asia/Jakarta',
       dateStyle: 'medium',
       timeStyle: 'medium'
     });
