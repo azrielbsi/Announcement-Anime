@@ -55,40 +55,17 @@ async function updateReadmeWithAnimeData() {
     for (let i = 0; i < tablesToShow; i++) {
       const anime = animeData[i];
     
-      readmeContent += `<table align="center">\n`;
-      readmeContent += `<tr>\n`;
-      readmeContent += `<th><h3 align="center">${anime.title}</h3></th>\n`;
-      readmeContent += `</tr>\n`;
-      readmeContent += `<tr>\n`;
-      readmeContent += `<td>\n`;
-      readmeContent += `<p align="center">\n`;
-      readmeContent += `<img src="${anime.thumb}" height="256">\n`;
-      readmeContent += `</p>\n`;
-      readmeContent += `</td>\n`;
-      readmeContent += `</tr>\n`;
-      readmeContent += `<tr>\n`;
-      readmeContent += `<td>\n`;
-      readmeContent += `<table align="center">\n`;
-      readmeContent += `<tr>\n`;
-      readmeContent += `<td>📔 Publish Date :</td>\n`;
-      readmeContent += `<td align="center">${anime.date}</td>\n`;
-      readmeContent += `</tr>\n`;
-      readmeContent += `<tr>\n`;
-      readmeContent += `<td>📕 Link :</td>\n`;
-      readmeContent += `<td align="center"><a href="${anime.link}">Anime Information</a></td>\n`;
-      readmeContent += `</tr>\n`;
-      readmeContent += `<tr>\n`;
-      readmeContent += `<td colspan="2">📙 Description :</td>`;
-      readmeContent += `</tr>\n`;
-      readmeContent += `<tr>\n`;
-      readmeContent += `<td colspan="2">\n`;
-      readmeContent += `<p align="center">${anime.description}</p>\n`; 
-      readmeContent += `</td>\n`;
-      readmeContent += `</tr>\n`;
-      readmeContent += `</table>\n`;
-      readmeContent += `</td>\n`;
-      readmeContent += `</tr>\n`;
-      readmeContent += `</table>\n\n`;
+      readmeContent += `
+        <table align="center">
+          <tr><th><h3 align="center">${anime.title}</h3></th></tr>
+          <tr><td><p align="center"><img src="${anime.thumb}" height="256"></p></td></tr>
+          <tr><td><table align="center">
+            <tr><td>📔 Publish Date :</td><td align="center">${anime.date}</td></tr>
+            <tr><td>📕 Link :</td><td align="center"><a href="${anime.link}">Anime Information</a></td></tr>
+            <tr><td colspan="2">📙 Description :</td></tr>
+            <tr><td colspan="2"><p align="center">${anime.description}</p></td></tr>
+          </table></td></tr>
+        </table>\n\n`;
     }
 
     fs.writeFileSync('README.md', readmeContent);
