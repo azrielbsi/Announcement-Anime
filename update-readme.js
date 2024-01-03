@@ -38,9 +38,6 @@ async function updateReadmeWithAnimeData() {
     const animeData = await getLatestAnimeData();
     const maxTables = 20;
     const tablesToShow = Math.min(animeData.length, maxTables);
-    for (let i = 0; i < tablesToShow; i++) {
-      const anime = animeData[i];
-    };
     const currentDate = new Date().toLocaleDateString('en-US', {
       timeZone: 'Asia/Jakarta'
     });
@@ -55,7 +52,9 @@ async function updateReadmeWithAnimeData() {
     readmeContent += `<p align="center"><img src="img/anime-update.jpeg" height="100"></p>`;
     readmeContent += `<p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p>`;
 
-    animeData.forEach(anime => {
+    for (let i = 0; i < tablesToShow; i++) {
+      const anime = animeData[i];
+    
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<th><h3 align="center">${anime.title}</h3></th>\n`;
@@ -90,7 +89,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n\n`;
-    });
+    }
 
     fs.writeFileSync('README.md', readmeContent);
     console.log('README.md updated successfully with latest anime data and date!');
