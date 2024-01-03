@@ -26,6 +26,10 @@ async function getLatestAnimeData() {
       link: item.link,
       description: splitDescription(item.contentSnippet),
     }));
+
+    const limitedAnimeData = animeData.slice(0, 20);
+    
+    return limitedAnimeData;
   } catch (error) {
     console.error('Error fetching feed:', error);
     return [];
