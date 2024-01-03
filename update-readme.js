@@ -89,7 +89,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n\n`;
-    }
+    };
 
     fs.writeFileSync('README.md', readmeContent);
     console.log('README.md updated successfully with latest anime data and date!');
