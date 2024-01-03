@@ -27,9 +27,6 @@ async function getLatestAnimeData() {
       description: splitDescription(item.contentSnippet),
     }));
 
-    const limitedAnimeData = animeData.slice(0, 20);
-    
-    return limitedAnimeData;
   } catch (error) {
     console.error('Error fetching feed:', error);
     return [];
@@ -39,6 +36,10 @@ async function getLatestAnimeData() {
 async function updateReadmeWithAnimeData() {
   try {
     const animeData = await getLatestAnimeData();
+    for (let i = 0; i < Math.min(animeData.length, 20); i++) {
+      const anime = animeData[i];
+    }
+    
     const currentDate = new Date().toLocaleDateString('en-US', {
       timeZone: 'Asia/Jakarta'
     });
