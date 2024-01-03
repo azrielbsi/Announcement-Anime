@@ -36,8 +36,6 @@ async function getLatestAnimeData() {
 async function updateReadmeWithAnimeData() {
   try {
     const animeData = await getLatestAnimeData();
-    const maxTables = 20;
-    const tablesToShow = Math.min(animeData.length, maxTables);
     const currentDate = new Date().toLocaleDateString('en-US', {
       timeZone: 'Asia/Jakarta'
     });
@@ -46,6 +44,8 @@ async function updateReadmeWithAnimeData() {
       dateStyle: 'medium',
       timeStyle: 'medium'
     });
+    const maxTables = 20;
+    const tablesToShow = Math.min(animeData.length, maxTables);
 
     let readmeContent = `<p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>\n\n`;
     readmeContent += `<p align="center"><em>Updated on: ${currentDateTime}</em></p>\n\n`;
@@ -89,7 +89,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n\n`;
-    };
+    }
 
     fs.writeFileSync('README.md', readmeContent);
     console.log('README.md updated successfully with latest anime data and date!');
