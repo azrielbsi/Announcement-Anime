@@ -36,6 +36,11 @@ async function getLatestAnimeData() {
 async function updateReadmeWithAnimeData() {
   try {
     const animeData = await getLatestAnimeData();
+    const maxTables = 20;
+    const tablesToShow = Math.min(animeData.length, maxTables);
+    for (let i = 0; i < tablesToShow; i++) {
+      const anime = animeData[i];
+    };
     const currentDate = new Date().toLocaleDateString('en-US', {
       timeZone: 'Asia/Jakarta'
     });
