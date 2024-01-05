@@ -1,10 +1,10 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 5, 2024, 11:43:53 AM</em></p>
+<p align="center"><em>Updated on: Jan 5, 2024, 11:53:46 AM</em></p>
 
-<p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><table align="center">
+<p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p># 📄 License- Powered by: [Announcement-Anime](https://github.com/azrielbsi/Announcement-Anime)- <a href="https://github.com/azrielbsi/Announcement-Anime/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a><table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 11 - Final Announcement</h3></th>
+<th><h3 align="center">Mina - Episode 11 - Final Announcement</h3></th>
 </tr>
 <tr>
 <td>
@@ -38,7 +38,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 1 - First Jujitsu</h3></th>
+<th><h3 align="center">Mina - Episode 1 - First Jujitsu</h3></th>
 </tr>
 <tr>
 <td>
@@ -72,7 +72,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 2 - I Love Pro Wrestling</h3></th>
+<th><h3 align="center">Mina - Episode 2 - I Love Pro Wrestling</h3></th>
 </tr>
 <tr>
 <td>
@@ -106,7 +106,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 3 - The Promised Dirty Pitch</h3></th>
+<th><h3 align="center">Mina - Episode 3 - The Promised Dirty Pitch</h3></th>
 </tr>
 <tr>
 <td>
@@ -140,7 +140,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 4 - Mutsumune's Big Break</h3></th>
+<th><h3 align="center">Mina - Episode 4 - Mutsumune's Big Break</h3></th>
 </tr>
 <tr>
 <td>
@@ -174,7 +174,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 5 - Red Card for Mina?</h3></th>
+<th><h3 align="center">Mina - Episode 5 - Red Card for Mina?</h3></th>
 </tr>
 <tr>
 <td>
@@ -208,7 +208,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 10 - I Came From Space</h3></th>
+<th><h3 align="center">Mina - Episode 10 - I Came From Space</h3></th>
 </tr>
 <tr>
 <td>
@@ -242,7 +242,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 7 - Suiren-senpai's Affair</h3></th>
+<th><h3 align="center">Mina - Episode 7 - Suiren-senpai's Affair</h3></th>
 </tr>
 <tr>
 <td>
@@ -276,7 +276,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 8 - Grumpy Nakoru</h3></th>
+<th><h3 align="center">Mina - Episode 8 - Grumpy Nakoru</h3></th>
 </tr>
 <tr>
 <td>
@@ -310,7 +310,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 9 - Thousand Kilometers</h3></th>
+<th><h3 align="center">Mina - Episode 9 - Thousand Kilometers</h3></th>
 </tr>
 <tr>
 <td>
@@ -344,7 +344,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Mina - Episode 6 - In the Open-Air Bath</h3></th>
+<th><h3 align="center">Mina - Episode 6 - In the Open-Air Bath</h3></th>
 </tr>
 <tr>
 <td>
@@ -378,7 +378,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Rurouni Kenshin (Spanish Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
+<th><h3 align="center">Rurouni Kenshin (Spanish Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
 </tr>
 <tr>
 <td>
@@ -412,7 +412,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Rurouni Kenshin (Hindi Dub) - Episode 23 - The Wolf's Fangs</h3></th>
+<th><h3 align="center">Rurouni Kenshin (Hindi Dub) - Episode 23 - The Wolf's Fangs</h3></th>
 </tr>
 <tr>
 <td>
@@ -446,7 +446,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Rurouni Kenshin (Portuguese Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
+<th><h3 align="center">Rurouni Kenshin (Portuguese Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
 </tr>
 <tr>
 <td>
@@ -480,7 +480,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Portuguese Dub) - Episode 45 - Metamorphosis</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Portuguese Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
@@ -514,7 +514,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Spanish Dub) - Episode 45 - Metamorphosis</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Spanish Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
@@ -548,7 +548,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Italian Dub) - Episode 45 - Metamorphosis</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Italian Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
@@ -582,7 +582,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Castilian Dub) - Episode 45 - Metamorphosis</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Castilian Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
@@ -616,7 +616,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (English Dub) - Episode 45 - Metamorphosis</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (English Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
@@ -650,7 +650,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (German Dub) - Episode 42 - Right and Wrong</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (German Dub) - Episode 42 - Right and Wrong</h3></th>
 </tr>
 <tr>
 <td>
@@ -684,7 +684,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Tamil Dub) - Episode 40 - Thunderclap</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Tamil Dub) - Episode 40 - Thunderclap</h3></th>
 </tr>
 <tr>
 <td>
@@ -718,7 +718,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Hindi Dub) - Episode 40 - Thunderclap</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Hindi Dub) - Episode 40 - Thunderclap</h3></th>
 </tr>
 <tr>
 <td>
@@ -752,7 +752,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 25 - Hidden Inventory</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 25 - Hidden Inventory</h3></th>
 </tr>
 <tr>
 <td>
@@ -786,7 +786,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Russian Dub) - Episode 45 - Metamorphosis</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Russian Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
@@ -820,7 +820,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">The Ancient Magus' Bride Season 2 (Portuguese Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th><h3 align="center">The Ancient Magus' Bride Season 2 (Portuguese Dub) - Episode 23 - Of two evils choose the less.</h3></th>
 </tr>
 <tr>
 <td>
@@ -854,7 +854,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">The Ancient Magus' Bride Season 2 (Spanish Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th><h3 align="center">The Ancient Magus' Bride Season 2 (Spanish Dub) - Episode 23 - Of two evils choose the less.</h3></th>
 </tr>
 <tr>
 <td>
@@ -888,7 +888,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">The Ancient Magus' Bride Season 2 (Hindi Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th><h3 align="center">The Ancient Magus' Bride Season 2 (Hindi Dub) - Episode 23 - Of two evils choose the less.</h3></th>
 </tr>
 <tr>
 <td>
@@ -922,7 +922,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">The Ancient Magus' Bride Season 2 (Italian Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th><h3 align="center">The Ancient Magus' Bride Season 2 (Italian Dub) - Episode 23 - Of two evils choose the less.</h3></th>
 </tr>
 <tr>
 <td>
@@ -956,7 +956,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Hindi Dub) - Episode 8 - Off-Campus Study Trip</h3></th>
+<th><h3 align="center">I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Hindi Dub) - Episode 8 - Off-Campus Study Trip</h3></th>
 </tr>
 <tr>
 <td>
@@ -990,7 +990,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">VINLAND SAGA Season 2 (Telugu Dub) - Episode 14 - Freedom</h3></th>
+<th><h3 align="center">VINLAND SAGA Season 2 (Telugu Dub) - Episode 14 - Freedom</h3></th>
 </tr>
 <tr>
 <td>
@@ -1024,7 +1024,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">The Reincarnation Of The Strongest Exorcist In Another World (Hindi Dub) - Episode 5 - Mabel Crane</h3></th>
+<th><h3 align="center">The Reincarnation Of The Strongest Exorcist In Another World (Hindi Dub) - Episode 5 - Mabel Crane</h3></th>
 </tr>
 <tr>
 <td>
@@ -1058,7 +1058,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">My Dress-Up Darling (Telugu Dub) - Episode 9 - A Lot Happened After I Saw That Photo</h3></th>
+<th><h3 align="center">My Dress-Up Darling (Telugu Dub) - Episode 9 - A Lot Happened After I Saw That Photo</h3></th>
 </tr>
 <tr>
 <td>
@@ -1092,7 +1092,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Code Geass: Lelouch of the Rebellion (Hindi Dub) - Episode 18 - Stage 18 - I Order you, Suzaku Kururugi</h3></th>
+<th><h3 align="center">Code Geass: Lelouch of the Rebellion (Hindi Dub) - Episode 18 - Stage 18 - I Order you, Suzaku Kururugi</h3></th>
 </tr>
 <tr>
 <td>
@@ -1126,7 +1126,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">More than a Married Couple, but Not Lovers. (Hindi Dub) - Episode 8 - An Entreaty, but No Reassurance.</h3></th>
+<th><h3 align="center">More than a Married Couple, but Not Lovers. (Hindi Dub) - Episode 8 - An Entreaty, but No Reassurance.</h3></th>
 </tr>
 <tr>
 <td>
@@ -1160,7 +1160,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Classroom of the Elite Season 3 - Episode 1 - The strongest principle of growth lies in the human choice.</h3></th>
+<th><h3 align="center">Classroom of the Elite Season 3 - Episode 1 - The strongest principle of growth lies in the human choice.</h3></th>
 </tr>
 <tr>
 <td>
@@ -1194,7 +1194,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Bottom-Tier Character Tomozaki 2nd STAGE - Episode 1 - The best games make reconnaissance fun</h3></th>
+<th><h3 align="center">Bottom-Tier Character Tomozaki 2nd STAGE - Episode 1 - The best games make reconnaissance fun</h3></th>
 </tr>
 <tr>
 <td>
@@ -1228,7 +1228,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Heaven Official's Blessing 2 - Episode 10 - Untitled</h3></th>
+<th><h3 align="center">Heaven Official's Blessing 2 - Episode 10 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
@@ -1262,7 +1262,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Fire Force (Telugu Dub) - Episode 15 - The Blacksmith's Dream</h3></th>
+<th><h3 align="center">Fire Force (Telugu Dub) - Episode 15 - The Blacksmith's Dream</h3></th>
 </tr>
 <tr>
 <td>
@@ -1296,7 +1296,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Fire Force (Telugu Dub) - Episode 16 - We Are Family</h3></th>
+<th><h3 align="center">Fire Force (Telugu Dub) - Episode 16 - We Are Family</h3></th>
 </tr>
 <tr>
 <td>
@@ -1330,7 +1330,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Fire Force (Tamil Dub) - Episode 16 - We Are Family</h3></th>
+<th><h3 align="center">Fire Force (Tamil Dub) - Episode 16 - We Are Family</h3></th>
 </tr>
 <tr>
 <td>
@@ -1364,7 +1364,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Fire Force (Tamil Dub) - Episode 15 - The Blacksmith's Dream</h3></th>
+<th><h3 align="center">Fire Force (Tamil Dub) - Episode 15 - The Blacksmith's Dream</h3></th>
 </tr>
 <tr>
 <td>
@@ -1398,7 +1398,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Tamil Dub) - Episode 4 - Mind If I Go Easy on You?</h3></th>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Tamil Dub) - Episode 4 - Mind If I Go Easy on You?</h3></th>
 </tr>
 <tr>
 <td>
@@ -1432,7 +1432,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Telugu Dub) - Episode 4 - Mind If I Go Easy on You?</h3></th>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Telugu Dub) - Episode 4 - Mind If I Go Easy on You?</h3></th>
 </tr>
 <tr>
 <td>
@@ -1466,7 +1466,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 12 - The Garden Where It All Began</h3></th>
+<th><h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 12 - The Garden Where It All Began</h3></th>
 </tr>
 <tr>
 <td>
@@ -1500,7 +1500,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 12 - The Garden Where It All Began</h3></th>
+<th><h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 12 - The Garden Where It All Began</h3></th>
 </tr>
 <tr>
 <td>
@@ -1534,7 +1534,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 11 - Partner Shuffle</h3></th>
+<th><h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 11 - Partner Shuffle</h3></th>
 </tr>
 <tr>
 <td>
@@ -1568,7 +1568,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 11 - Partner Shuffle</h3></th>
+<th><h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 11 - Partner Shuffle</h3></th>
 </tr>
 <tr>
 <td>
@@ -1602,7 +1602,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">RADIANT (Tamil Dub) - Episode 11 - The City That Roars Like Thunder -Rumble Town-</h3></th>
+<th><h3 align="center">RADIANT (Tamil Dub) - Episode 11 - The City That Roars Like Thunder -Rumble Town-</h3></th>
 </tr>
 <tr>
 <td>
@@ -1636,7 +1636,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">RADIANT (Telugu Dub) - Episode 11 - The City That Roars Like Thunder -Rumble Town-</h3></th>
+<th><h3 align="center">RADIANT (Telugu Dub) - Episode 11 - The City That Roars Like Thunder -Rumble Town-</h3></th>
 </tr>
 <tr>
 <td>
@@ -1670,7 +1670,7 @@
 
 <table align="center">
 <tr>
-<th># <h3 align="center">The Iceblade Sorcerer Shall Rule the World (Hindi Dub) - Episode 3 - The Boy Who Became the World's Strongest Sorcerer Enjoys a Day Off</h3></th>
+<th><h3 align="center">The Iceblade Sorcerer Shall Rule the World (Hindi Dub) - Episode 3 - The Boy Who Became the World's Strongest Sorcerer Enjoys a Day Off</h3></th>
 </tr>
 <tr>
 <td>
