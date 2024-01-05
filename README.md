@@ -1,15 +1,15 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 5, 2024, 11:59:22 AM</em></p>
+<p align="center"><em>Updated on: Jan 5, 2024, 12:02:14 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><h2>📄 License</h2><li>Powered by: <a href="https://github.com/azrielbsi/Announcement-Anime">Announcement-Anime</a></li><li><a href="https://github.com/azrielbsi/Announcement-Anime/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a></li><table align="center">
 <tr>
-<th><h3 align="center">Mina - Episode 11 - Final Announcement</h3></th>
+<th><h3 align="center">Ranking of Kings (Tamil Dub) - Episode 18 - Battle with the Gods</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3a8c253b48ca502a9daa3c9dbba807a81704327605_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3a2420cbe32926f20cf5ae7dd4cf02741645081513_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -22,13 +22,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-11-final-announcement-918026">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/ranking-of-kings/episode-18-battle-with-the-gods-918101">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">From his cell, Bosse relates to Bebin the story of<br>how he first met Miranjo when she was a little<br>girl. Domas and Hokuro make their apologies to Hiling, then<br>head off to assist Bojji. Bojji has his hands full<br>with Ouken, but receives help from Despa.</p>
 </td>
 </tr>
 </table>
@@ -208,12 +208,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Mina - Episode 10 - I Came From Space</h3></th>
+<th><h3 align="center">Mina - Episode 11 - Final Announcement</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4b767c47c013124030937aabc8e631f61704327185_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3a8c253b48ca502a9daa3c9dbba807a81704327605_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -226,7 +226,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-10-i-came-from-space-918024">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-11-final-announcement-918026">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -344,6 +344,40 @@
 
 <table align="center">
 <tr>
+<th><h3 align="center">Mina - Episode 10 - I Came From Space</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4b767c47c013124030937aabc8e631f61704327185_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-10-i-came-from-space-918024">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
 <th><h3 align="center">Mina - Episode 6 - In the Open-Air Bath</h3></th>
 </tr>
 <tr>
@@ -378,40 +412,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin (Spanish Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cfe214f127d7061f4f6d365c22d3aa191702578144_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-24-meiji-11-may-14th-918127">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The person who had sent Hajime to face Kenshin was<br>none other than the Head of the Home Ministry, former<br>Satsuma Domain Revolutionary warrior, Toshimichi Okubo. He asks Kenshin to<br>go to Kyoto to stop the secret plans of a<br>man who claims to be the legitimate successor of the<br>Hitokiri Battosai. However, that man was supposed to have been<br>killed 10 years ago by his own comrades in the<br>government, as they regarded him as a threat. Receiving this<br>request to conduct an assassination, what will Kenshin's answer be...?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">Rurouni Kenshin (Hindi Dub) - Episode 23 - The Wolf's Fangs</h3></th>
 </tr>
 <tr>
@@ -437,6 +437,40 @@
 <tr>
 <td colspan="2">
 <p align="center">After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo<br>and sees Hajime Saito. Hajime had introduced himself to Kaoru<br>and Yahiko as Goro Fujita, the police officer, and they<br>had invited him into the Dojo without any suspicion. Hajime<br>criticizes Kenshin and the others for their naivety. Over the<br>past ten years that Kenshin had washed his hands of<br>manslaying, Hajime had honed his killing intent and skills as<br>a hitman, and now Hajime's ferocity was aimed at them.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Rurouni Kenshin (Spanish Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cfe214f127d7061f4f6d365c22d3aa191702578144_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-24-meiji-11-may-14th-918127">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The person who had sent Hajime to face Kenshin was<br>none other than the Head of the Home Ministry, former<br>Satsuma Domain Revolutionary warrior, Toshimichi Okubo. He asks Kenshin to<br>go to Kyoto to stop the secret plans of a<br>man who claims to be the legitimate successor of the<br>Hitokiri Battosai. However, that man was supposed to have been<br>killed 10 years ago by his own comrades in the<br>government, as they regarded him as a threat. Receiving this<br>request to conduct an assassination, what will Kenshin's answer be...?</p>
 </td>
 </tr>
 </table>
@@ -514,7 +548,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Spanish Dub) - Episode 45 - Metamorphosis</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Russian Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
@@ -532,7 +566,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918104">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918105">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -786,7 +820,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Russian Dub) - Episode 45 - Metamorphosis</h3></th>
+<th><h3 align="center">JUJUTSU KAISEN Season 2 (Spanish Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
@@ -804,7 +838,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918105">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918104">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -854,7 +888,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride Season 2 (Spanish Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th><h3 align="center">The Ancient Magus' Bride Season 2 (Italian Dub) - Episode 23 - Of two evils choose the less.</h3></th>
 </tr>
 <tr>
 <td>
@@ -872,7 +906,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918098">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918099">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -922,7 +956,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride Season 2 (Italian Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th><h3 align="center">The Ancient Magus' Bride Season 2 (Spanish Dub) - Episode 23 - Of two evils choose the less.</h3></th>
 </tr>
 <tr>
 <td>
@@ -940,7 +974,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918099">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918098">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -1330,40 +1364,6 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force (Tamil Dub) - Episode 16 - We Are Family</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c111e206554b9272574525580344eec41573211605_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/fire-force/episode-16-we-are-family-917942">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Vulcan teaches Yu a lesson in the importance of forging<br>things that cannot be broken, and his hope to create<br>similarly unbreakable family ties. Sensing a threat to Vulcan, the<br>members of Company 8 take up positions to keep him<br>safe.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
 <th><h3 align="center">Fire Force (Tamil Dub) - Episode 15 - The Blacksmith's Dream</h3></th>
 </tr>
 <tr>
@@ -1389,6 +1389,40 @@
 <tr>
 <td colspan="2">
 <p align="center">Viktor Licht is assigned to Company 8 as its forensic<br>scientist, but he is viewed with suspicion, since the assignment<br>came from Haijima. Obi sends Shinra, Arthur and Iris to<br>speak to a man named Vulcan about joining the 8th<br>as its engineer.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force (Tamil Dub) - Episode 16 - We Are Family</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c111e206554b9272574525580344eec41573211605_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/3/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/fire-force/episode-16-we-are-family-917942">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Vulcan teaches Yu a lesson in the importance of forging<br>things that cannot be broken, and his hope to create<br>similarly unbreakable family ties. Sensing a threat to Vulcan, the<br>members of Company 8 take up positions to keep him<br>safe.</p>
 </td>
 </tr>
 </table>
@@ -1661,46 +1695,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Doc has received a request to handle a job involving<br>a Nemesis. He rejects it at first, but Seth is<br>determined to go after the Nemesis and accepts the job<br>for him. Thus Seth, Melie, and Doc depart for Rumble<br>Town, the city that roars like thunder. Sorcerers are treated<br>very coldly in this town due to the harsh policies<br>of Captain Konrad of the Inquisition. When Seth encounters the<br>Nemesis, he tries to capture it, but a mysterious sorcerer<br>wrapped in bandages stands in his way...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Iceblade Sorcerer Shall Rule the World (Hindi Dub) - Episode 3 - The Boy Who Became the World's Strongest Sorcerer Enjoys a Day Off</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5c3b62b09daa1eb99c2c1b0b85b5b14a1674108412_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-iceblade-sorcerer-shall-rule-the-world/episode-3-the-boy-who-became-the-worlds-strongest-sorcerer-enjoys-a-day-off-917954">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">"Ray defeats the giant monster that attacked
-them during the practical<br>exercise in the Kafka Forest. However, a mysterious sorcerer
-revives it<br>in an even more ferocious state. With the combined support<br>from
-Amelia, Elisa, and Evi Armstrong, Ray manages to defeat it<br>for good. Their
-efforts were not in vain, as their group<br>finishes first. Later, Ray visits his
-master and the previous holder<br>of the title of Iceblade Sorceror, Lydia
-Ainsworth, to discuss certain<br>matters..."</p>
 </td>
 </tr>
 </table>
