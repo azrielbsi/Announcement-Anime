@@ -1,15 +1,15 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 5, 2024, 7:26:59 AM</em></p>
+<p align="center"><em>Updated on: Jan 5, 2024, 11:43:53 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin (Portuguese Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
+<th># <h3 align="center">Mina - Episode 11 - Final Announcement</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cfe214f127d7061f4f6d365c22d3aa191702578144_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/3a8c253b48ca502a9daa3c9dbba807a81704327605_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -18,17 +18,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
+<td align="center">1/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-24-meiji-11-may-14th-918126">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-11-final-announcement-918026">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The person who had sent Hajime to face Kenshin was<br>none other than the Head of the Home Ministry, former<br>Satsuma Domain Revolutionary warrior, Toshimichi Okubo. He asks Kenshin to<br>go to Kyoto to stop the secret plans of a<br>man who claims to be the legitimate successor of the<br>Hitokiri Battosai. However, that man was supposed to have been<br>killed 10 years ago by his own comrades in the<br>government, as they regarded him as a threat. Receiving this<br>request to conduct an assassination, what will Kenshin's answer be...?</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -38,12 +38,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin (Hindi Dub) - Episode 23 - The Wolf's Fangs</h3></th>
+<th># <h3 align="center">Mina - Episode 1 - First Jujitsu</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc4e80856829a13904a44c4a994a0f0c1701971121_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/66ed03ae2f66cee1df045db9c6f2ef721704323827_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -52,17 +52,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
+<td align="center">1/5/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-23-the-wolfs-fangs-918128">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-1-first-jujitsu-918005">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo<br>and sees Hajime Saito. Hajime had introduced himself to Kaoru<br>and Yahiko as Goro Fujita, the police officer, and they<br>had invited him into the Dojo without any suspicion. Hajime<br>criticizes Kenshin and the others for their naivety. Over the<br>past ten years that Kenshin had washed his hands of<br>manslaying, Hajime had honed his killing intent and skills as<br>a hitman, and now Hajime's ferocity was aimed at them.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -72,7 +72,313 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Rurouni Kenshin (Spanish Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
+<th># <h3 align="center">Mina - Episode 2 - I Love Pro Wrestling</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/0bdd28534baae881aeba7989b299ade31704324304_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-2-i-love-pro-wrestling-918008">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">Mina - Episode 3 - The Promised Dirty Pitch</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/74bab3f6abf49eeeaa4647420721137f1704324606_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-3-the-promised-dirty-pitch-918010">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">Mina - Episode 4 - Mutsumune's Big Break</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8c053598ac9c0bd73e6830f9e02ee71a1704324971_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-4-mutsumunes-big-break-918012">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">Mina - Episode 5 - Red Card for Mina?</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b371047b13295094c0525d0bfc83ed5a1704325325_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-5-red-card-for-mina-918014">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">Mina - Episode 10 - I Came From Space</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4b767c47c013124030937aabc8e631f61704327185_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-10-i-came-from-space-918024">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">Mina - Episode 7 - Suiren-senpai's Affair</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f338971182e7483e75be24bdbc029fd61704326060_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-7-suiren-senpais-affair-918018">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">Mina - Episode 8 - Grumpy Nakoru</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21fa47212c454aa45881e76688b142c11704326421_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-8-grumpy-nakoru-918020">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">Mina - Episode 9 - Thousand Kilometers</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f4e7511a4c237c608ef0962df0da5cab1704326766_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-9-thousand-kilometers-918022">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">Mina - Episode 6 - In the Open-Air Bath</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/66a2be8a03ed863bed5532f937a9e7e31704325686_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/5/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/mina/episode-6-in-the-open-air-bath-918016">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">Rurouni Kenshin (Spanish Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
 </tr>
 <tr>
 <td>
@@ -106,12 +412,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Spanish Dub) - Episode 45 - Metamorphosis</h3></th>
+<th># <h3 align="center">Rurouni Kenshin (Hindi Dub) - Episode 23 - The Wolf's Fangs</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dc4e80856829a13904a44c4a994a0f0c1701971121_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -124,13 +430,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918104">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-23-the-wolfs-fangs-918128">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
+<p align="center">After defeating Arundo Akamatsu, Kenshin returns to the Kamiya Dojo<br>and sees Hajime Saito. Hajime had introduced himself to Kaoru<br>and Yahiko as Goro Fujita, the police officer, and they<br>had invited him into the Dojo without any suspicion. Hajime<br>criticizes Kenshin and the others for their naivety. Over the<br>past ten years that Kenshin had washed his hands of<br>manslaying, Hajime had honed his killing intent and skills as<br>a hitman, and now Hajime's ferocity was aimed at them.</p>
 </td>
 </tr>
 </table>
@@ -140,12 +446,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Russian Dub) - Episode 45 - Metamorphosis</h3></th>
+<th># <h3 align="center">Rurouni Kenshin (Portuguese Dub) - Episode 24 - Meiji 11, May 14th</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/cfe214f127d7061f4f6d365c22d3aa191702578144_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -158,13 +464,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918105">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/rurouni-kenshin/episode-24-meiji-11-may-14th-918126">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
+<p align="center">The person who had sent Hajime to face Kenshin was<br>none other than the Head of the Home Ministry, former<br>Satsuma Domain Revolutionary warrior, Toshimichi Okubo. He asks Kenshin to<br>go to Kyoto to stop the secret plans of a<br>man who claims to be the legitimate successor of the<br>Hitokiri Battosai. However, that man was supposed to have been<br>killed 10 years ago by his own comrades in the<br>government, as they regarded him as a threat. Receiving this<br>request to conduct an assassination, what will Kenshin's answer be...?</p>
 </td>
 </tr>
 </table>
@@ -174,245 +480,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Italian Dub) - Episode 45 - Metamorphosis</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918106">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Castilian Dub) - Episode 45 - Metamorphosis</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918107">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (English Dub) - Episode 45 - Metamorphosis</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918110">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (German Dub) - Episode 42 - Right and Wrong</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/60409b15ede3df68d0781d1f3f0775601700711508_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-42-right-and-wrong-918103">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Itadori reawakens with grievous resolve as he bears witness to<br>the aftermath Sukuna has wrought upon Shibuya. Meanwhile, Nanami continues<br>to fight through packs of transfigured humans in an exhausted<br>haze until Mahito appears before him.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Tamil Dub) - Episode 40 - Thunderclap</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7ffef2ae2236e511b3f4b575e3ec88901699547213_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-40-thunderclap-918108">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sukuna refuses to heed Jogo's advice after waking up, instead<br>displaying his overwhelming strength against the Special-Grade Cursed Spirit, Jogo.<br>Meanwhile, Fushiguro faces off against the rampant Toji with neither<br>being aware of the other's identity.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Hindi Dub) - Episode 40 - Thunderclap</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7ffef2ae2236e511b3f4b575e3ec88901699547213_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-40-thunderclap-918109">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Sukuna refuses to heed Jogo's advice after waking up, instead<br>displaying his overwhelming strength against the Special-Grade Cursed Spirit, Jogo.<br>Meanwhile, Fushiguro faces off against the rampant Toji with neither<br>being aware of the other's identity.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 25 - Hidden Inventory</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cf62a54eb63cc376a41d363ff69eeb991688659348_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/4/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-25-hidden-inventory-918111">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The jujutsu sorcerers, Utahime Iori and Mei Mei, are dispatched<br>to an ominous manor where several people have gone missing.<br>They infiltrate the manor and attempt to destroy the cursed<br>spirit's barrier, but suddenly the building starts to crumble.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">JUJUTSU KAISEN Season 2 (Portuguese Dub) - Episode 45 - Metamorphosis</h3></th>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Portuguese Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
@@ -446,12 +514,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride Season 2 (Hindi Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Spanish Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cae97537cfacbbb493e8ad12705d4851702560546_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -464,13 +532,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918100">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918104">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fight begins in earnest as Lizbeth starts to gain<br>the upper hand, but Chise and company receive some unexpected<br>assistance.</p>
+<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
 </td>
 </tr>
 </table>
@@ -480,12 +548,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride Season 2 (Italian Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Italian Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cae97537cfacbbb493e8ad12705d4851702560546_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -498,13 +566,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918099">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918106">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fight begins in earnest as Lizbeth starts to gain<br>the upper hand, but Chise and company receive some unexpected<br>assistance.</p>
+<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
 </td>
 </tr>
 </table>
@@ -514,12 +582,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride Season 2 (Spanish Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Castilian Dub) - Episode 45 - Metamorphosis</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cae97537cfacbbb493e8ad12705d4851702560546_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -532,13 +600,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918098">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918107">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fight begins in earnest as Lizbeth starts to gain<br>the upper hand, but Chise and company receive some unexpected<br>assistance.</p>
+<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
 </td>
 </tr>
 </table>
@@ -548,7 +616,211 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Ancient Magus' Bride Season 2 (Portuguese Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (English Dub) - Episode 45 - Metamorphosis</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918110">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (German Dub) - Episode 42 - Right and Wrong</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/60409b15ede3df68d0781d1f3f0775601700711508_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-42-right-and-wrong-918103">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Itadori reawakens with grievous resolve as he bears witness to<br>the aftermath Sukuna has wrought upon Shibuya. Meanwhile, Nanami continues<br>to fight through packs of transfigured humans in an exhausted<br>haze until Mahito appears before him.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Tamil Dub) - Episode 40 - Thunderclap</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7ffef2ae2236e511b3f4b575e3ec88901699547213_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-40-thunderclap-918108">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sukuna refuses to heed Jogo's advice after waking up, instead<br>displaying his overwhelming strength against the Special-Grade Cursed Spirit, Jogo.<br>Meanwhile, Fushiguro faces off against the rampant Toji with neither<br>being aware of the other's identity.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Hindi Dub) - Episode 40 - Thunderclap</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7ffef2ae2236e511b3f4b575e3ec88901699547213_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-40-thunderclap-918109">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sukuna refuses to heed Jogo's advice after waking up, instead<br>displaying his overwhelming strength against the Special-Grade Cursed Spirit, Jogo.<br>Meanwhile, Fushiguro faces off against the rampant Toji with neither<br>being aware of the other's identity.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Telugu Dub) - Episode 25 - Hidden Inventory</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/cf62a54eb63cc376a41d363ff69eeb991688659348_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-25-hidden-inventory-918111">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The jujutsu sorcerers, Utahime Iori and Mei Mei, are dispatched<br>to an ominous manor where several people have gone missing.<br>They infiltrate the manor and attempt to destroy the cursed<br>spirit's barrier, but suddenly the building starts to crumble.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">JUJUTSU KAISEN Season 2 (Russian Dub) - Episode 45 - Metamorphosis</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/59c459a78727fa888ab65b04173543a31702575969_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/jujutsu-kaisen/episode-45-metamorphosis-918105">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">The Ancient Magus' Bride Season 2 (Portuguese Dub) - Episode 23 - Of two evils choose the less.</h3></th>
 </tr>
 <tr>
 <td>
@@ -582,7 +854,109 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Hindi Dub) - Episode 8 - Off-Campus Study Trip</h3></th>
+<th># <h3 align="center">The Ancient Magus' Bride Season 2 (Spanish Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cae97537cfacbbb493e8ad12705d4851702560546_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918098">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The fight begins in earnest as Lizbeth starts to gain<br>the upper hand, but Chise and company receive some unexpected<br>assistance.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">The Ancient Magus' Bride Season 2 (Hindi Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cae97537cfacbbb493e8ad12705d4851702560546_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918100">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The fight begins in earnest as Lizbeth starts to gain<br>the upper hand, but Chise and company receive some unexpected<br>assistance.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">The Ancient Magus' Bride Season 2 (Italian Dub) - Episode 23 - Of two evils choose the less.</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9cae97537cfacbbb493e8ad12705d4851702560546_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/4/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fr/the-ancient-magus-bride/episode-23-of-two-evils-choose-the-less-918099">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The fight begins in earnest as Lizbeth starts to gain<br>the upper hand, but Chise and company receive some unexpected<br>assistance.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th># <h3 align="center">I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too (Hindi Dub) - Episode 8 - Off-Campus Study Trip</h3></th>
 </tr>
 <tr>
 <td>
@@ -616,7 +990,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">VINLAND SAGA Season 2 (Telugu Dub) - Episode 14 - Freedom</h3></th>
+<th># <h3 align="center">VINLAND SAGA Season 2 (Telugu Dub) - Episode 14 - Freedom</h3></th>
 </tr>
 <tr>
 <td>
@@ -650,7 +1024,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Reincarnation Of The Strongest Exorcist In Another World (Hindi Dub) - Episode 5 - Mabel Crane</h3></th>
+<th># <h3 align="center">The Reincarnation Of The Strongest Exorcist In Another World (Hindi Dub) - Episode 5 - Mabel Crane</h3></th>
 </tr>
 <tr>
 <td>
@@ -684,7 +1058,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Dress-Up Darling (Telugu Dub) - Episode 9 - A Lot Happened After I Saw That Photo</h3></th>
+<th># <h3 align="center">My Dress-Up Darling (Telugu Dub) - Episode 9 - A Lot Happened After I Saw That Photo</h3></th>
 </tr>
 <tr>
 <td>
@@ -718,7 +1092,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Code Geass: Lelouch of the Rebellion (Hindi Dub) - Episode 18 - Stage 18 - I Order you, Suzaku Kururugi</h3></th>
+<th># <h3 align="center">Code Geass: Lelouch of the Rebellion (Hindi Dub) - Episode 18 - Stage 18 - I Order you, Suzaku Kururugi</h3></th>
 </tr>
 <tr>
 <td>
@@ -752,7 +1126,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">More than a Married Couple, but Not Lovers. (Hindi Dub) - Episode 8 - An Entreaty, but No Reassurance.</h3></th>
+<th># <h3 align="center">More than a Married Couple, but Not Lovers. (Hindi Dub) - Episode 8 - An Entreaty, but No Reassurance.</h3></th>
 </tr>
 <tr>
 <td>
@@ -786,7 +1160,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Classroom of the Elite Season 3 - Episode 1 - The strongest principle of growth lies in the human choice.</h3></th>
+<th># <h3 align="center">Classroom of the Elite Season 3 - Episode 1 - The strongest principle of growth lies in the human choice.</h3></th>
 </tr>
 <tr>
 <td>
@@ -820,7 +1194,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Bottom-Tier Character Tomozaki 2nd STAGE - Episode 1 - The best games make reconnaissance fun</h3></th>
+<th># <h3 align="center">Bottom-Tier Character Tomozaki 2nd STAGE - Episode 1 - The best games make reconnaissance fun</h3></th>
 </tr>
 <tr>
 <td>
@@ -854,7 +1228,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Heaven Official's Blessing 2 - Episode 10 - Untitled</h3></th>
+<th># <h3 align="center">Heaven Official's Blessing 2 - Episode 10 - Untitled</h3></th>
 </tr>
 <tr>
 <td>
@@ -888,7 +1262,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force (Telugu Dub) - Episode 15 - The Blacksmith's Dream</h3></th>
+<th># <h3 align="center">Fire Force (Telugu Dub) - Episode 15 - The Blacksmith's Dream</h3></th>
 </tr>
 <tr>
 <td>
@@ -922,7 +1296,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force (Telugu Dub) - Episode 16 - We Are Family</h3></th>
+<th># <h3 align="center">Fire Force (Telugu Dub) - Episode 16 - We Are Family</h3></th>
 </tr>
 <tr>
 <td>
@@ -956,7 +1330,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force (Tamil Dub) - Episode 16 - We Are Family</h3></th>
+<th># <h3 align="center">Fire Force (Tamil Dub) - Episode 16 - We Are Family</h3></th>
 </tr>
 <tr>
 <td>
@@ -990,7 +1364,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force (Tamil Dub) - Episode 15 - The Blacksmith's Dream</h3></th>
+<th># <h3 align="center">Fire Force (Tamil Dub) - Episode 15 - The Blacksmith's Dream</h3></th>
 </tr>
 <tr>
 <td>
@@ -1024,7 +1398,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Tamil Dub) - Episode 4 - Mind If I Go Easy on You?</h3></th>
+<th># <h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Tamil Dub) - Episode 4 - Mind If I Go Easy on You?</h3></th>
 </tr>
 <tr>
 <td>
@@ -1058,7 +1432,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Telugu Dub) - Episode 4 - Mind If I Go Easy on You?</h3></th>
+<th># <h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Telugu Dub) - Episode 4 - Mind If I Go Easy on You?</h3></th>
 </tr>
 <tr>
 <td>
@@ -1092,7 +1466,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 12 - The Garden Where It All Began</h3></th>
+<th># <h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 12 - The Garden Where It All Began</h3></th>
 </tr>
 <tr>
 <td>
@@ -1126,7 +1500,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 12 - The Garden Where It All Began</h3></th>
+<th># <h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 12 - The Garden Where It All Began</h3></th>
 </tr>
 <tr>
 <td>
@@ -1160,7 +1534,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 11 - Partner Shuffle</h3></th>
+<th># <h3 align="center">DARLING in the FRANXX (Tamil Dub) - Episode 11 - Partner Shuffle</h3></th>
 </tr>
 <tr>
 <td>
@@ -1194,7 +1568,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 11 - Partner Shuffle</h3></th>
+<th># <h3 align="center">DARLING in the FRANXX (Telugu Dub) - Episode 11 - Partner Shuffle</h3></th>
 </tr>
 <tr>
 <td>
@@ -1228,7 +1602,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">RADIANT (Tamil Dub) - Episode 11 - The City That Roars Like Thunder -Rumble Town-</h3></th>
+<th># <h3 align="center">RADIANT (Tamil Dub) - Episode 11 - The City That Roars Like Thunder -Rumble Town-</h3></th>
 </tr>
 <tr>
 <td>
@@ -1262,7 +1636,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">RADIANT (Telugu Dub) - Episode 11 - The City That Roars Like Thunder -Rumble Town-</h3></th>
+<th># <h3 align="center">RADIANT (Telugu Dub) - Episode 11 - The City That Roars Like Thunder -Rumble Town-</h3></th>
 </tr>
 <tr>
 <td>
@@ -1296,41 +1670,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Akebi's Sailor Uniform (Telugu Dub) - Episode 8 - I Want to Win Next Time</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c4b4dd957cbcc7ce5985d497b6ac46cd1645890122_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/akebis-sailor-uniform/episode-8-i-want-to-win-next-time-917950">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Midterm exams are finally over, leaving some students overjoyed and<br>others depressed, and now it's time to decide who will<br>participate in which events at the school's upcoming athletic festival.<br>Riri is selected as the anchor for the swimming event,<br>but Erika nominates Komichi for the same position, so the<br>two girls compete to determine who will be the anchor.<br>Riri is a member of the swimming club, and once<br>made it to nationals in elementary school, and Komichi feels<br>no desire to compete against her as rivals. Then Riri<br>proposes that if she wins, she and Komichi should swap<br>uniforms...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Iceblade Sorcerer Shall Rule the World (Hindi Dub) - Episode 3 - The Boy Who Became the World's Strongest Sorcerer Enjoys a Day Off</h3></th>
+<th># <h3 align="center">The Iceblade Sorcerer Shall Rule the World (Hindi Dub) - Episode 3 - The Boy Who Became the World's Strongest Sorcerer Enjoys a Day Off</h3></th>
 </tr>
 <tr>
 <td>
@@ -1361,346 +1701,6 @@ Amelia, Elisa, and Evi Armstrong, Ray manages to defeat it<br>for good. Their
 efforts were not in vain, as their group<br>finishes first. Later, Ray visits his
 master and the previous holder<br>of the title of Iceblade Sorceror, Lydia
 Ainsworth, to discuss certain<br>matters..."</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Akebi's Sailor Uniform (Tamil Dub) - Episode 8 - I Want to Win Next Time</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c4b4dd957cbcc7ce5985d497b6ac46cd1645890122_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/akebis-sailor-uniform/episode-8-i-want-to-win-next-time-917949">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Midterm exams are finally over, leaving some students overjoyed and<br>others depressed, and now it's time to decide who will<br>participate in which events at the school's upcoming athletic festival.<br>Riri is selected as the anchor for the swimming event,<br>but Erika nominates Komichi for the same position, so the<br>two girls compete to determine who will be the anchor.<br>Riri is a member of the swimming club, and once<br>made it to nationals in elementary school, and Komichi feels<br>no desire to compete against her as rivals. Then Riri<br>proposes that if she wins, she and Komichi should swap<br>uniforms...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Solo Leveling - 30 seconds TRAILER</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b5bfe0b1c6bdbea20f98a100e5a5c4221704245173_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/solo-leveling/solo-leveling-30-seconds-trailer-917976">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Solo Leveling - OFFICIAL TRAILER 1</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a438cf0dd141db3ae252f7dbf44cfc0b1704243304_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/solo-leveling/solo-leveling-official-trailer-1-917974">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Solo Leveling - OFFICIAL TRAILER 2</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6e5a014e5197787f8271b059cbaace651704242540_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/3/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/solo-leveling/solo-leveling-official-trailer-2-917972">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Saint's Magic Power is Omnipotent Season2 (Portuguese Dub) - Episode 11 - Theatergoing</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c94d9fcdd2d56863f9eda0dd939f566b1702374753_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-saints-magic-power-is-omnipotent/episode-11-theatergoing-917936">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Saint's Magic Power is Omnipotent Season2 (Spanish Dub) - Episode 11 - Theatergoing</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c94d9fcdd2d56863f9eda0dd939f566b1702374753_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/the-saints-magic-power-is-omnipotent/episode-11-theatergoing-917938">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Detektiv Conan 1-182 (HD) - Episode 182</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a5da8ab16cec736fd63fa7be2324e6081704223215_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/detektiv-conan/episode-182-917932">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Detektiv Conan 1-182 (HD) - Episode 181</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a903d0fbe26037556dea1b09dc28f9e51704222786_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/detektiv-conan/episode-181-917931">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Detektiv Conan 1-182 (HD) - Episode 180</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/55e2fb59d5ca086001e0e42cb4924c991704222667_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/detektiv-conan/episode-180-917928">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Detektiv Conan 1-182 (HD) - Episode 179</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/43bfc2b41637a20ac317ef095897db691704222605_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/2/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/fr/detektiv-conan/episode-179-917927">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
 </td>
 </tr>
 </table>
