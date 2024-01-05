@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <title>Announcements Anime</title>
-  <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/themes/vue.css">
 </head>
 <body>
   <noscript>This page requires JavaScript to work, please enable it or just read it on <a href="https://github.com/azrielbsi/Announcement-Anime">Here</a>.</noscript>
@@ -14,11 +14,14 @@
     window.$docsify = {
       name: 'Announcements Anime',
       repo: 'https://github.com/azrielbsi/Announcement-Anime',
-      search: ['/Announcement-Anime/'],
+      search: {
+        paths: ['https://github.com/azrielbsi/Announcement-Anime/'],
+        placeholder: 'Search...',
+      },
       relativePath: true,
-    }
+    };
   </script>
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
