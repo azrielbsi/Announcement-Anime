@@ -48,6 +48,9 @@ async function updateReadmeWithAnimeData() {
     readmeContent += `<p align="center"><em>Updated on: ${currentDateTime}</em></p>\n\n`;
     readmeContent += `<p align="center"><img src="img/anime-update.jpeg" height="100"></p>`;
     readmeContent += `<p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p>`;
+    readmeContent += `# 📄 License`;
+    readmeContent += `- Powered by: [Announcement-Anime](https://github.com/azrielbsi/Announcement-Anime)`;
+    readmeContent += `- <a href="https://github.com/azrielbsi/Announcement-Anime/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>`;
 
     animeData.forEach(anime => {
       readmeContent += `<table align="center">\n`;
