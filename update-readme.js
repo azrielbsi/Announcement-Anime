@@ -52,7 +52,7 @@ async function updateReadmeWithAnimeData() {
     animeData.forEach(anime => {
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
-      readmeContent += `<th># <h3 align="center">${anime.title}</h3></th>\n`;
+      readmeContent += `<th><h3 align="center">${anime.title}</h3></th>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<td>\n`;
