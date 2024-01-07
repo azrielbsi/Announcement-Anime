@@ -48,6 +48,7 @@ async function updateReadmeWithAnimeData() {
     readmeContent += `<p align="center"><em>Updated on: ${currentDateTime}</em></p>\n\n`;
     readmeContent += `<p align="center"><img src="img/anime-update.jpeg" height="100"></p>`;
     readmeContent += `<p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p>`;
+    readmeContent += `<p align="center"><img src="https://github.com/azrielbsi/Announcement-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/azrielbsi/Announcement-Anime/actions/workflows/jekyll.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p>`;
     readmeContent += `<h2>📄 License</h2>`;
     readmeContent += `<li>Powered by: <a href="https://github.com/azrielbsi/Announcement-Anime">Announcement-Anime</a></li>`;
     readmeContent += `<li><a href="https://github.com/azrielbsi/Announcement-Anime/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a></li>\n\n`;
