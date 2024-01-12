@@ -6,13 +6,20 @@ const parser = new Parser();
 function splitDescription(description) {
   const sentences = description.split('.');
   const truncatedDescription = sentences[0];
-  const maxLineLength = 80;
+  const words = truncatedDescription.split(' ');
+  const sentencesPerLine = 10;
   let formattedDescription = '';
+  let sentenceCounter = 0;
   const chunkSize = 10;
   const chunks = [];
 
-  for (let i = 0; i < truncatedDescription.length; i += maxLineLength) {
-    formattedDescription += truncatedDescription.slice(i, i + maxLineLength) + '<br>';
+  for (let i = 0; i < words.length; i++) {
+    formattedDescription += words[i] + ' ';
+
+    if (words[i].endsWith('.') && ++sentenceCounter >= sentencesPerLine) {
+      formattedDescription += '<br>';
+      sentenceCounter = 0;
+    }
   }
 
   return formattedDescription;
