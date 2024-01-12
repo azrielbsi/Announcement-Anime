@@ -4,12 +4,13 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 function splitDescription(description) {
-  const sentences = description.split(/[.!?]/);
+  const sentences = description.split('. ');
   const chunkSize = 10;
   const chunks = [];
 
   for (let i = 0; i < sentences.length; i += chunkSize) {
-    chunks.push(sentences.slice(i, i + chunkSize).join('.'));
+    const currentChunk = sentences.slice(i, i + chunkSize).join('. ');
+    chunks.push(`${currentChunk}.`);
   }
 
   return chunks.join('<br>');
