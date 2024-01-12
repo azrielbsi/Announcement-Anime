@@ -66,6 +66,7 @@ async function updateReadmeWithAnimeData() {
     animeData.forEach((anime, index) => {
       if (index > 0 && index % 10 === 0) {
         readmeContent += '<br>\n\n';
+        sentenceCounter = 0;
       }
       
       readmeContent += `<table align="center">\n`;
