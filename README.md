@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 12, 2024, 10:13:29 AM</em></p>
+<p align="center"><em>Updated on: Jan 12, 2024, 10:15:25 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/azrielbsi/Announcement-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/azrielbsi/Announcement-Anime/actions/workflows/jekyll.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><h2>📄 License</h2><li>Powered by: <a href="https://github.com/azrielbsi/Announcement-Anime">Announcement-Anime</a></li><li><a href="https://github.com/azrielbsi/Announcement-Anime/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a></li>
 
@@ -30,7 +30,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The person who had sent Hajime to face Kenshin was none other than the Head of the Home Ministry, former Satsuma Domain Revolutionary warrior, Toshimichi Okubo </p>
+<p align="center">The person who had sent Hajime to face Kenshin was none other than the Head of the Home Ministry, former Satsuma Domain Revolutionary warrior, Toshimichi Okubo</p>
 </td>
 </tr>
 </table>
@@ -64,7 +64,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Choso begins to realize the identity of the mastermind parasitizing Geto's corpse as sorcerers gather for the final moments of the Shibuya Incident </p>
+<p align="center">Choso begins to realize the identity of the mastermind parasitizing Geto's corpse as sorcerers gather for the final moments of the Shibuya Incident</p>
 </td>
 </tr>
 </table>
@@ -98,7 +98,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -132,7 +132,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -166,7 +166,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -200,7 +200,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -234,7 +234,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -268,7 +268,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -302,7 +302,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale and encourages him to stand back up </p>
+<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale and encourages him to stand back up</p>
 </td>
 </tr>
 </table>
@@ -336,7 +336,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Itadori launches into a back-and-forth battle against Mahito, but he struggles against Mahito's ploy of using average people against him </p>
+<p align="center">Itadori launches into a back-and-forth battle against Mahito, but he struggles against Mahito's ploy of using average people against him</p>
 </td>
 </tr>
 </table>
@@ -372,7 +372,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being severely injured in his fight against Toji, Fushiguro suffers a surprise attack from Shigemo </p>
+<p align="center">After being severely injured in his fight against Toji, Fushiguro suffers a surprise attack from Shigemo</p>
 </td>
 </tr>
 </table>
@@ -406,7 +406,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being severely injured in his fight against Toji, Fushiguro suffers a surprise attack from Shigemo </p>
+<p align="center">After being severely injured in his fight against Toji, Fushiguro suffers a surprise attack from Shigemo</p>
 </td>
 </tr>
 </table>
@@ -440,7 +440,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gojo and Geto are assigned to the mission of escorting and erasing the young girl compatible with the Tengen - the Star Plasma Vessel </p>
+<p align="center">Gojo and Geto are assigned to the mission of escorting and erasing the young girl compatible with the Tengen - the Star Plasma Vessel</p>
 </td>
 </tr>
 </table>
@@ -474,7 +474,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -508,7 +508,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -542,7 +542,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -576,7 +576,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -610,7 +610,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -644,7 +644,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -678,7 +678,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance </p>
+<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance</p>
 </td>
 </tr>
 </table>
@@ -714,7 +714,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance </p>
+<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance</p>
 </td>
 </tr>
 </table>
@@ -748,7 +748,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance </p>
+<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance</p>
 </td>
 </tr>
 </table>
@@ -782,7 +782,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Two strangers start asking around town for a witch, but the locals don't take kindly to their insinuations </p>
+<p align="center">Two strangers start asking around town for a witch, but the locals don't take kindly to their insinuations</p>
 </td>
 </tr>
 </table>
@@ -816,7 +816,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The lackadaisical staff of the unusual Monthly Moso Science magazine have their routine shaken up when an unlucky research scientist shows up out of the blue asking for their assistance in uncovering the truth about a mysterious lost continent </p>
+<p align="center">The lackadaisical staff of the unusual Monthly Moso Science magazine have their routine shaken up when an unlucky research scientist shows up out of the blue asking for their assistance in uncovering the truth about a mysterious lost continent</p>
 </td>
 </tr>
 </table>
@@ -850,7 +850,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lexia has been attacked, a crime punishable by execution </p>
+<p align="center">Lexia has been attacked, a crime punishable by execution</p>
 </td>
 </tr>
 </table>
@@ -884,7 +884,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arnheid, against her better judgment, goes to see Gardar </p>
+<p align="center">Arnheid, against her better judgment, goes to see Gardar</p>
 </td>
 </tr>
 </table>
@@ -918,7 +918,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seika makes his way through the tournament while he searches to find out what's really going on </p>
+<p align="center">Seika makes his way through the tournament while he searches to find out what's really going on</p>
 </td>
 </tr>
 </table>
@@ -952,7 +952,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wakana and Shinju's secret plan was a success, which added to the success of their first group cosplay photoshoot </p>
+<p align="center">Wakana and Shinju's secret plan was a success, which added to the success of their first group cosplay photoshoot</p>
 </td>
 </tr>
 </table>
@@ -986,7 +986,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Suzaku and Lelouch wake up on an island with no memory of what happened to them after the Avalon’s appearance </p>
+<p align="center">Suzaku and Lelouch wake up on an island with no memory of what happened to them after the Avalon’s appearance</p>
 </td>
 </tr>
 </table>
@@ -1020,7 +1020,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jiro and Kamo get a live-in summer job at a seaside cafe, but Jiro isn’t excited about it until he finds out that Shiori will be there too </p>
+<p align="center">Jiro and Kamo get a live-in summer job at a seaside cafe, but Jiro isn’t excited about it until he finds out that Shiori will be there too</p>
 </td>
 </tr>
 </table>
@@ -1056,7 +1056,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Xie Lian and Hua Cheng enter the lair of the Night-Touring Green Lantern, Qi Rong </p>
+<p align="center">Xie Lian and Hua Cheng enter the lair of the Night-Touring Green Lantern, Qi Rong</p>
 </td>
 </tr>
 </table>
@@ -1090,7 +1090,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hua Cheng leads Xie Lian away from the Heavenly Realm </p>
+<p align="center">Hua Cheng leads Xie Lian away from the Heavenly Realm</p>
 </td>
 </tr>
 </table>
@@ -1124,7 +1124,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1158,7 +1158,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1192,7 +1192,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1226,7 +1226,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1260,7 +1260,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1294,7 +1294,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1328,7 +1328,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1362,7 +1362,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1398,7 +1398,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1432,7 +1432,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Songstress Sarah Fitzgerald takes a mysterious girl named Rouge as her helper </p>
+<p align="center">Songstress Sarah Fitzgerald takes a mysterious girl named Rouge as her helper</p>
 </td>
 </tr>
 </table>
@@ -1466,7 +1466,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Songstress Sarah Fitzgerald takes a mysterious girl named Rouge as her helper </p>
+<p align="center">Songstress Sarah Fitzgerald takes a mysterious girl named Rouge as her helper</p>
 </td>
 </tr>
 </table>
@@ -1500,7 +1500,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">30-year-old virgin Kiyoshi Adachi discovers he has the ability to hear people's thoughts when he touches them </p>
+<p align="center">30-year-old virgin Kiyoshi Adachi discovers he has the ability to hear people's thoughts when he touches them</p>
 </td>
 </tr>
 </table>
@@ -1534,7 +1534,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shinsuke plans to attack a local group of brigands, only to be beaten to the bunch by the eccentric Tama and Jinka </p>
+<p align="center">Shinsuke plans to attack a local group of brigands, only to be beaten to the bunch by the eccentric Tama and Jinka</p>
 </td>
 </tr>
 </table>
@@ -1568,7 +1568,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yukimura injures his leg while the group is training for the upcoming tests </p>
+<p align="center">Yukimura injures his leg while the group is training for the upcoming tests</p>
 </td>
 </tr>
 </table>
@@ -1602,7 +1602,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In her past life, Elise was called the Villainous Empress </p>
+<p align="center">In her past life, Elise was called the Villainous Empress</p>
 </td>
 </tr>
 </table>
@@ -1636,7 +1636,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Erika Konno starts lashing out at her classmates after the school's sports festival, and opinions are deeply divided on the best way to shut her down </p>
+<p align="center">Erika Konno starts lashing out at her classmates after the school's sports festival, and opinions are deeply divided on the best way to shut her down</p>
 </td>
 </tr>
 </table>
@@ -1670,7 +1670,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1704,7 +1704,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter </p>
+<p align="center">Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter</p>
 </td>
 </tr>
 </table>
@@ -1740,7 +1740,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Dr </p>
+<p align="center">While Dr</p>
 </td>
 </tr>
 </table>
@@ -1774,7 +1774,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter </p>
+<p align="center">Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter</p>
 </td>
 </tr>
 </table>
@@ -1808,7 +1808,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Dr </p>
+<p align="center">While Dr</p>
 </td>
 </tr>
 </table>
@@ -1842,7 +1842,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Leon's duel against Julius and his kingdom's best Armor begins </p>
+<p align="center">Leon's duel against Julius and his kingdom's best Armor begins</p>
 </td>
 </tr>
 </table>
@@ -1876,7 +1876,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Leon's duel against Julius and his kingdom's best Armor begins </p>
+<p align="center">Leon's duel against Julius and his kingdom's best Armor begins</p>
 </td>
 </tr>
 </table>
@@ -1910,7 +1910,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The information regarding Hiro's condition changes the entire dynamic of Squad 13, much to Zero Two's chagrin </p>
+<p align="center">The information regarding Hiro's condition changes the entire dynamic of Squad 13, much to Zero Two's chagrin</p>
 </td>
 </tr>
 </table>
@@ -1944,7 +1944,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The information regarding Hiro's condition changes the entire dynamic of Squad 13, much to Zero Two's chagrin </p>
+<p align="center">The information regarding Hiro's condition changes the entire dynamic of Squad 13, much to Zero Two's chagrin</p>
 </td>
 </tr>
 </table>
@@ -1978,7 +1978,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the deepest, darkest parts of a forest lived a strong and beautiful beast princess </p>
+<p align="center">In the deepest, darkest parts of a forest lived a strong and beautiful beast princess</p>
 </td>
 </tr>
 </table>
@@ -2012,7 +2012,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the deepest, darkest parts of a forest lived a strong and beautiful beast princess </p>
+<p align="center">In the deepest, darkest parts of a forest lived a strong and beautiful beast princess</p>
 </td>
 </tr>
 </table>
@@ -2046,7 +2046,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seth, Melie, and Doc visit the house in the slums where the one who sent the job request lives </p>
+<p align="center">Seth, Melie, and Doc visit the house in the slums where the one who sent the job request lives</p>
 </td>
 </tr>
 </table>
@@ -2082,7 +2082,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seth, Melie, and Doc visit the house in the slums where the one who sent the job request lives </p>
+<p align="center">Seth, Melie, and Doc visit the house in the slums where the one who sent the job request lives</p>
 </td>
 </tr>
 </table>
@@ -2118,7 +2118,7 @@
 <td colspan="2">
 <p align="center">"Ray decided to be an organization staff
 member for the Magic Chevalier, the swordfighting tournament between the three
-great sorcery academies </p>
+great sorcery academies</p>
 </td>
 </tr>
 </table>
@@ -2152,7 +2152,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Komichi was chosen to lead a group in buying supplies for the athletic festival </p>
+<p align="center">Komichi was chosen to lead a group in buying supplies for the athletic festival</p>
 </td>
 </tr>
 </table>
@@ -2186,7 +2186,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Komichi was chosen to lead a group in buying supplies for the athletic festival </p>
+<p align="center">Komichi was chosen to lead a group in buying supplies for the athletic festival</p>
 </td>
 </tr>
 </table>
@@ -2220,7 +2220,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2254,7 +2254,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2288,7 +2288,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2322,7 +2322,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2356,7 +2356,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2390,7 +2390,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2426,7 +2426,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2460,7 +2460,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2494,7 +2494,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2528,7 +2528,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2562,7 +2562,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2596,7 +2596,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2630,7 +2630,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2664,7 +2664,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2698,7 +2698,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2732,7 +2732,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rumors are swirling about Sei and her theater date, which has her feeling self-conscious with everyone </p>
+<p align="center">Rumors are swirling about Sei and her theater date, which has her feeling self-conscious with everyone</p>
 </td>
 </tr>
 </table>
@@ -2768,7 +2768,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"> </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2802,7 +2802,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akihiko and Misaki head to the publisher to deliver Akihiko's latest manuscript </p>
+<p align="center">Akihiko and Misaki head to the publisher to deliver Akihiko's latest manuscript</p>
 </td>
 </tr>
 </table>
@@ -2836,7 +2836,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akihiko and Misaki head to the publisher to deliver Akihiko's latest manuscript </p>
+<p align="center">Akihiko and Misaki head to the publisher to deliver Akihiko's latest manuscript</p>
 </td>
 </tr>
 </table>
@@ -2870,7 +2870,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A call for a family meeting seems to annoy Akihiko, but despite his numerous attempts to get out of it, he winds up going </p>
+<p align="center">A call for a family meeting seems to annoy Akihiko, but despite his numerous attempts to get out of it, he winds up going</p>
 </td>
 </tr>
 </table>
@@ -2904,7 +2904,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A call for a family meeting seems to annoy Akihiko, but despite his numerous attempts to get out of it, he winds up going </p>
+<p align="center">A call for a family meeting seems to annoy Akihiko, but despite his numerous attempts to get out of it, he winds up going</p>
 </td>
 </tr>
 </table>
@@ -2938,7 +2938,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe </p>
+<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe</p>
 </td>
 </tr>
 </table>
@@ -2972,7 +2972,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe </p>
+<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe</p>
 </td>
 </tr>
 </table>
@@ -3006,7 +3006,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Desperate to get Akihiko's latest work completed, Aikawa begs Misaki to teach him what a "real date" is like for a college student </p>
+<p align="center">Desperate to get Akihiko's latest work completed, Aikawa begs Misaki to teach him what a "real date" is like for a college student</p>
 </td>
 </tr>
 </table>
@@ -3040,7 +3040,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Desperate to get Akihiko's latest work completed, Aikawa begs Misaki to teach him what a "real date" is like for a college student </p>
+<p align="center">Desperate to get Akihiko's latest work completed, Aikawa begs Misaki to teach him what a "real date" is like for a college student</p>
 </td>
 </tr>
 </table>
@@ -3074,7 +3074,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shinobu's sudden disappearance from Miyagi's life has left him utterly confused </p>
+<p align="center">Shinobu's sudden disappearance from Miyagi's life has left him utterly confused</p>
 </td>
 </tr>
 </table>
@@ -3110,7 +3110,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shinobu's sudden disappearance from Miyagi's life has left him utterly confused </p>
+<p align="center">Shinobu's sudden disappearance from Miyagi's life has left him utterly confused</p>
 </td>
 </tr>
 </table>
@@ -3144,7 +3144,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akihiko has been acting very strangely lately - even going so far as to suggest that Misaki move out </p>
+<p align="center">Akihiko has been acting very strangely lately - even going so far as to suggest that Misaki move out</p>
 </td>
 </tr>
 </table>
@@ -3178,7 +3178,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akihiko has been acting very strangely lately - even going so far as to suggest that Misaki move out </p>
+<p align="center">Akihiko has been acting very strangely lately - even going so far as to suggest that Misaki move out</p>
 </td>
 </tr>
 </table>
@@ -3212,7 +3212,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Hiroki discovers Nowaki and Tsumori in a compromising position, he's not sure what to think </p>
+<p align="center">When Hiroki discovers Nowaki and Tsumori in a compromising position, he's not sure what to think</p>
 </td>
 </tr>
 </table>
@@ -3246,7 +3246,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When Hiroki discovers Nowaki and Tsumori in a compromising position, he's not sure what to think </p>
+<p align="center">When Hiroki discovers Nowaki and Tsumori in a compromising position, he's not sure what to think</p>
 </td>
 </tr>
 </table>
@@ -3280,7 +3280,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Needing a little space, Misaki wants to hang out with his friend Sumi from school, but Akihiko is dead set against it </p>
+<p align="center">Needing a little space, Misaki wants to hang out with his friend Sumi from school, but Akihiko is dead set against it</p>
 </td>
 </tr>
 </table>
@@ -3314,7 +3314,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Needing a little space, Misaki wants to hang out with his friend Sumi from school, but Akihiko is dead set against it </p>
+<p align="center">Needing a little space, Misaki wants to hang out with his friend Sumi from school, but Akihiko is dead set against it</p>
 </td>
 </tr>
 </table>
@@ -3348,7 +3348,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Feeling insecure about their relationship and looking for some way to connect, Nowaki asks Hiroki if he can call him the same friendly nickname everyone else does </p>
+<p align="center">Feeling insecure about their relationship and looking for some way to connect, Nowaki asks Hiroki if he can call him the same friendly nickname everyone else does</p>
 </td>
 </tr>
 </table>
@@ -3382,7 +3382,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Feeling insecure about their relationship and looking for some way to connect, Nowaki asks Hiroki if he can call him the same friendly nickname everyone else does </p>
+<p align="center">Feeling insecure about their relationship and looking for some way to connect, Nowaki asks Hiroki if he can call him the same friendly nickname everyone else does</p>
 </td>
 </tr>
 </table>
@@ -3416,7 +3416,7 @@ great sorcery academies </p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With gifts arriving from Haruhiko daily, Masaki attempts to ask him to stop but Haruhiko doesn't seem to be listening </p>
+<p align="center">With gifts arriving from Haruhiko daily, Masaki attempts to ask him to stop but Haruhiko doesn't seem to be listening</p>
 </td>
 </tr>
 </table>
