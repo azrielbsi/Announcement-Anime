@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 12, 2024, 10:24:18 AM</em></p>
+<p align="center"><em>Updated on: Jan 12, 2024, 10:26:34 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
 <tr>
@@ -28,7 +28,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The person who had sent Hajime to face Kenshin was none other than the Head of the Home Ministry, former Satsuma Domain Revolutionary warrior, Toshimichi Okubo. He asks Kenshin to go to Kyoto to stop the secret plans of a man who claims to be the legitimate successor of the Hitokiri Battosai. However, that man was supposed to have been killed 10 years ago by his own comrades in the government, as they regarded him as a threat. Receiving this request to conduct an assassination, what will Kenshin's answer be...?</p>
+<p align="center">The person who had sent Hajime to face Kenshin was none other than the Head of the Home Ministry, former Satsuma Domain Revolutionary warrior, Toshimichi Okubo. He asks Kenshin to go to Kyoto to stop the secret plans of a man who claims to be the legitimate successor of the Hitokiri Battosai. However, that man was supposed to have been killed 10 years ago by his own comrades in the government, as they regarded him as a threat. Receiving this request to conduct an assassination, what will Kenshin's answer be....</p>
 </td>
 </tr>
 </table>
@@ -96,7 +96,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito." Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -130,7 +130,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito." Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -164,7 +164,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito." Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -198,7 +198,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito." Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -232,7 +232,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito." Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -266,7 +266,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito." Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -776,7 +776,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Two strangers start asking around town for a witch, but the locals don't take kindly to their insinuations. Do they speak from baseless prejudice, or is there more to the city's hero than she lets on?</p>
+<p align="center">Two strangers start asking around town for a witch, but the locals don't take kindly to their insinuations. Do they speak from baseless prejudice, or is there more to the city's hero than she lets on.</p>
 </td>
 </tr>
 </table>
@@ -1014,7 +1014,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Jiro and Kamo get a live-in summer job at a seaside cafe, but Jiro isn’t excited about it until he finds out that Shiori will be there too. When he gets home, Akari is waiting for him wearing a daring swimsuit. Together, they make a shocking discovery!</p>
+<p align="center">Jiro and Kamo get a live-in summer job at a seaside cafe, but Jiro isn’t excited about it until he finds out that Shiori will be there too. When he gets home, Akari is waiting for him wearing a daring swimsuit. Together, they make a shocking discovery.</p>
 </td>
 </tr>
 </table>
@@ -1422,7 +1422,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Songstress Sarah Fitzgerald takes a mysterious girl named Rouge as her helper. After one of her performances, Sarah and her lover are attacked, and a woman named Naomi approaches Rouge with information about Sarah. What is Sarah hiding in her past?</p>
+<p align="center">Songstress Sarah Fitzgerald takes a mysterious girl named Rouge as her helper. After one of her performances, Sarah and her lover are attacked, and a woman named Naomi approaches Rouge with information about Sarah. What is Sarah hiding in her past.</p>
 </td>
 </tr>
 </table>
@@ -1456,7 +1456,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Songstress Sarah Fitzgerald takes a mysterious girl named Rouge as her helper. After one of her performances, Sarah and her lover are attacked, and a woman named Naomi approaches Rouge with information about Sarah. What is Sarah hiding in her past?</p>
+<p align="center">Songstress Sarah Fitzgerald takes a mysterious girl named Rouge as her helper. After one of her performances, Sarah and her lover are attacked, and a woman named Naomi approaches Rouge with information about Sarah. What is Sarah hiding in her past.</p>
 </td>
 </tr>
 </table>
@@ -1490,7 +1490,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">30-year-old virgin Kiyoshi Adachi discovers he has the ability to hear people's thoughts when he touches them. It's mostly a daily annoyance, until his powers reveal that his handsome and popular coworker Yuichi Kurosawa only has eyes for him!</p>
+<p align="center">30-year-old virgin Kiyoshi Adachi discovers he has the ability to hear people's thoughts when he touches them. It's mostly a daily annoyance, until his powers reveal that his handsome and popular coworker Yuichi Kurosawa only has eyes for him.</p>
 </td>
 </tr>
 </table>
@@ -1592,7 +1592,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In her past life, Elise was called the Villainous Empress. Now she's genius surgeon Takamoto Aoi, saving as many as she can in an attempt to atone. She heads to Germany to perform a surgery, but the plane begins to crash! Will this be the end for her?</p>
+<p align="center">In her past life, Elise was called the Villainous Empress. Now she's genius surgeon Takamoto Aoi, saving as many as she can in an attempt to atone. She heads to Germany to perform a surgery, but the plane begins to crash. Will this be the end for her.</p>
 </td>
 </tr>
 </table>
@@ -1830,7 +1830,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Leon's duel against Julius and his kingdom's best Armor begins. Why does Julius choose Marie over Angelica? His feelings drive him to attack Leon...!</p>
+<p align="center">Leon's duel against Julius and his kingdom's best Armor begins. Why does Julius choose Marie over Angelica. His feelings drive him to attack Leon....</p>
 </td>
 </tr>
 </table>
@@ -1864,7 +1864,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Leon's duel against Julius and his kingdom's best Armor begins. Why does Julius choose Marie over Angelica? His feelings drive him to attack Leon...!</p>
+<p align="center">Leon's duel against Julius and his kingdom's best Armor begins. Why does Julius choose Marie over Angelica. His feelings drive him to attack Leon....</p>
 </td>
 </tr>
 </table>
@@ -2034,7 +2034,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seth, Melie, and Doc visit the house in the slums where the one who sent the job request lives. The family requested an investigation because their eldest son, Taj, has been infected, but because they are immigrants, their pleas for help are ignored by the Inquisition. But just as Seth and company get to work, the bell in the clock tower rings out an order to evacuate. Due to its poorly planned construction, Rumble Town's foundation is unstable, so its residents have to move around on a regular basis to keep it balanced. And as soon as the part of the town they're in is deserted, a Nemesis appears!</p>
+<p align="center">Seth, Melie, and Doc visit the house in the slums where the one who sent the job request lives. The family requested an investigation because their eldest son, Taj, has been infected, but because they are immigrants, their pleas for help are ignored by the Inquisition. But just as Seth and company get to work, the bell in the clock tower rings out an order to evacuate. Due to its poorly planned construction, Rumble Town's foundation is unstable, so its residents have to move around on a regular basis to keep it balanced. And as soon as the part of the town they're in is deserted, a Nemesis appears.</p>
 </td>
 </tr>
 </table>
@@ -2068,7 +2068,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seth, Melie, and Doc visit the house in the slums where the one who sent the job request lives. The family requested an investigation because their eldest son, Taj, has been infected, but because they are immigrants, their pleas for help are ignored by the Inquisition. But just as Seth and company get to work, the bell in the clock tower rings out an order to evacuate. Due to its poorly planned construction, Rumble Town's foundation is unstable, so its residents have to move around on a regular basis to keep it balanced. And as soon as the part of the town they're in is deserted, a Nemesis appears!</p>
+<p align="center">Seth, Melie, and Doc visit the house in the slums where the one who sent the job request lives. The family requested an investigation because their eldest son, Taj, has been infected, but because they are immigrants, their pleas for help are ignored by the Inquisition. But just as Seth and company get to work, the bell in the clock tower rings out an order to evacuate. Due to its poorly planned construction, Rumble Town's foundation is unstable, so its residents have to move around on a regular basis to keep it balanced. And as soon as the part of the town they're in is deserted, a Nemesis appears.</p>
 </td>
 </tr>
 </table>
@@ -2109,7 +2109,7 @@ preliminaries, but then she suddenly requests a practice match with him. Though
 everybody expected Amelia to dominate, Ray actually pressures Amelia with his
 elegant swordsmanship. This unexpected turn of events is getting the crowd
 fired up. But Albert Alium is certainly not amused, and demands that Ray duels
-him, during which he uses a real sword to ferociously assault Ray!"</p>
+him, during which he uses a real sword to ferociously assault Ray."</p>
 </td>
 </tr>
 </table>
@@ -2721,7 +2721,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Rumors are swirling about Sei and her theater date, which has her feeling self-conscious with everyone. Can she acknowledge her own emotions with a little help?</p>
+<p align="center">Rumors are swirling about Sei and her theater date, which has her feeling self-conscious with everyone. Can she acknowledge her own emotions with a little help.</p>
 </td>
 </tr>
 </table>
@@ -2925,7 +2925,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe</p>
+<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead. As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe</p>
 </td>
 </tr>
 </table>
@@ -2959,7 +2959,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe</p>
+<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead. As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe</p>
 </td>
 </tr>
 </table>
@@ -3061,7 +3061,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shinobu's sudden disappearance from Miyagi's life has left him utterly confused. Why has he stopped coming around? It's a single picture that holds the clues to everything, but can Miyagi come to terms with his past in order to move on?</p>
+<p align="center">Shinobu's sudden disappearance from Miyagi's life has left him utterly confused. Why has he stopped coming around. It's a single picture that holds the clues to everything, but can Miyagi come to terms with his past in order to move on.</p>
 </td>
 </tr>
 </table>
@@ -3095,7 +3095,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shinobu's sudden disappearance from Miyagi's life has left him utterly confused. Why has he stopped coming around? It's a single picture that holds the clues to everything, but can Miyagi come to terms with his past in order to move on?</p>
+<p align="center">Shinobu's sudden disappearance from Miyagi's life has left him utterly confused. Why has he stopped coming around. It's a single picture that holds the clues to everything, but can Miyagi come to terms with his past in order to move on.</p>
 </td>
 </tr>
 </table>
@@ -3265,7 +3265,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Needing a little space, Misaki wants to hang out with his friend Sumi from school, but Akihiko is dead set against it. Is this unreasonable jealousy on Akihiko's part or does Sumi really have more on his mind that just friendship with Masaki?</p>
+<p align="center">Needing a little space, Misaki wants to hang out with his friend Sumi from school, but Akihiko is dead set against it. Is this unreasonable jealousy on Akihiko's part or does Sumi really have more on his mind that just friendship with Masaki.</p>
 </td>
 </tr>
 </table>
@@ -3299,7 +3299,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Needing a little space, Misaki wants to hang out with his friend Sumi from school, but Akihiko is dead set against it. Is this unreasonable jealousy on Akihiko's part or does Sumi really have more on his mind that just friendship with Masaki?</p>
+<p align="center">Needing a little space, Misaki wants to hang out with his friend Sumi from school, but Akihiko is dead set against it. Is this unreasonable jealousy on Akihiko's part or does Sumi really have more on his mind that just friendship with Masaki.</p>
 </td>
 </tr>
 </table>
