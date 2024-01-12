@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 12, 2024, 10:33:54 AM</em></p>
+<p align="center"><em>Updated on: Jan 12, 2024, 10:37:09 AM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
 <tr>
@@ -28,7 +28,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The person who had sent Hajime to face Kenshin was none other than the Head of the Home Ministry, former Satsuma Domain Revolutionary warrior, Toshimichi Okubo. He asks Kenshin to go to Kyoto to stop the secret plans of a man who claims to be the legitimate successor of the Hitokiri Battosai. However, that man was supposed to have been killed 10 years ago by his own comrades in the government, as they regarded him as a threat. Receiving this request to conduct an assassination, what will Kenshin's answer be...?</p>
+<p align="center">The person who had sent Hajime to face Kenshin was none other than the Head of the Home Ministry, former Satsuma Domain Revolutionary warrior, Toshimichi Okubo. He asks Kenshin to go to Kyoto to stop the secret plans of a man who claims to be the legitimate successor of the Hitokiri Battosai. However, that man was supposed to have been killed 10 years ago by his own comrades in the government, as they regarded him as a threat. Receiving this request to conduct an assassination, what will Kenshin's answer be. ?</p>
 </td>
 </tr>
 </table>
@@ -62,7 +62,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Choso begins to realize the identity of the mastermind parasitizing Geto's corpse as sorcerers gather for the final moments of the Shibuya Incident. The special-grade sorcerer, Yuki Tsukumo, comes to the rescue when they're on the verge of death.</p>
+<p align="center">Choso begins to realize the identity of the mastermind parasitizing Geto's corpse as sorcerers gather for the final moments of the Shibuya Incident. The special-grade sorcerer, Yuki Tsukumo, comes to the rescue when they're on the verge of death</p>
 </td>
 </tr>
 </table>
@@ -96,7 +96,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.. </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -130,7 +130,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.. </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -164,7 +164,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.. </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -198,7 +198,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.. </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -232,7 +232,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.. </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -266,7 +266,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack.. </p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the death was resolved, the being wearing Geto's body asked, "Shall I save you, Mahito?" Itadori immediately recognizes the man before him as the very same one who sealed away Gojo and leaps to attack</p>
 </td>
 </tr>
 </table>
@@ -300,7 +300,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale and encourages him to stand back up. As Mahito kicks things into higher gear, he begins using Soul Multiplicity and Body Repel to unleash omnidirectional attacks.</p>
+<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale and encourages him to stand back up. As Mahito kicks things into higher gear, he begins using Soul Multiplicity and Body Repel to unleash omnidirectional attacks</p>
 </td>
 </tr>
 </table>
@@ -334,7 +334,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Itadori launches into a back-and-forth battle against Mahito, but he struggles against Mahito's ploy of using average people against him. Meanwhile, Kugisaki encounters one of Mahito's separated bodies as she returns to the battlefield.</p>
+<p align="center">Itadori launches into a back-and-forth battle against Mahito, but he struggles against Mahito's ploy of using average people against him. Meanwhile, Kugisaki encounters one of Mahito's separated bodies as she returns to the battlefield</p>
 </td>
 </tr>
 </table>
@@ -368,7 +368,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being severely injured in his fight against Toji, Fushiguro suffers a surprise attack from Shigemo. On the verge of death, Fushiguro desperately heads toward Dougenzaka crossing and summons a certain Shikigami with his Ten Shadows Technique.</p>
+<p align="center">After being severely injured in his fight against Toji, Fushiguro suffers a surprise attack from Shigemo. On the verge of death, Fushiguro desperately heads toward Dougenzaka crossing and summons a certain Shikigami with his Ten Shadows Technique</p>
 </td>
 </tr>
 </table>
@@ -402,7 +402,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being severely injured in his fight against Toji, Fushiguro suffers a surprise attack from Shigemo. On the verge of death, Fushiguro desperately heads toward Dougenzaka crossing and summons a certain Shikigami with his Ten Shadows Technique.</p>
+<p align="center">After being severely injured in his fight against Toji, Fushiguro suffers a surprise attack from Shigemo. On the verge of death, Fushiguro desperately heads toward Dougenzaka crossing and summons a certain Shikigami with his Ten Shadows Technique</p>
 </td>
 </tr>
 </table>
@@ -436,7 +436,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gojo and Geto are assigned to the mission of escorting and erasing the young girl compatible with the Tengen - the Star Plasma Vessel. Amanai Riko is being targeted by the Curse User Group Q, and the religious cult the Star Religious Group.</p>
+<p align="center">Gojo and Geto are assigned to the mission of escorting and erasing the young girl compatible with the Tengen - the Star Plasma Vessel. Amanai Riko is being targeted by the Curse User Group Q, and the religious cult the Star Religious Group</p>
 </td>
 </tr>
 </table>
@@ -470,7 +470,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills.. </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -504,7 +504,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills.. </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -538,7 +538,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills.. </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -572,7 +572,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills.. </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -606,7 +606,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills.. </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -640,7 +640,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills.. </p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
 </td>
 </tr>
 </table>
@@ -674,7 +674,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance.. </p>
+<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance</p>
 </td>
 </tr>
 </table>
@@ -708,7 +708,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance.. </p>
+<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance</p>
 </td>
 </tr>
 </table>
@@ -742,7 +742,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance.. </p>
+<p align="center">The fight begins in earnest as Lizbeth starts to gain the upper hand, but Chise and company receive some unexpected assistance</p>
 </td>
 </tr>
 </table>
@@ -810,7 +810,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The lackadaisical staff of the unusual Monthly Moso Science magazine have their routine shaken up when an unlucky research scientist shows up out of the blue asking for their assistance in uncovering the truth about a mysterious lost continent.. </p>
+<p align="center">The lackadaisical staff of the unusual Monthly Moso Science magazine have their routine shaken up when an unlucky research scientist shows up out of the blue asking for their assistance in uncovering the truth about a mysterious lost continent</p>
 </td>
 </tr>
 </table>
@@ -844,7 +844,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lexia has been attacked, a crime punishable by execution. But Yuuya knows the would-be assassin and he can’t help wondering what could have caused them to do such a thing. The answer is shocking...as is the arrival of a new family member for Yuuya.</p>
+<p align="center">Lexia has been attacked, a crime punishable by execution. But Yuuya knows the would-be assassin and he can’t help wondering what could have caused them to do such a thing. The answer is shocking. as is the arrival of a new family member for Yuuya</p>
 </td>
 </tr>
 </table>
@@ -878,7 +878,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Arnheid, against her better judgment, goes to see Gardar. Thorfinn and Einar have a fateful conversation about the nature of war and slavery.</p>
+<p align="center">Arnheid, against her better judgment, goes to see Gardar. Thorfinn and Einar have a fateful conversation about the nature of war and slavery</p>
 </td>
 </tr>
 </table>
@@ -912,7 +912,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Seika makes his way through the tournament while he searches to find out what's really going on.. </p>
+<p align="center">Seika makes his way through the tournament while he searches to find out what's really going on</p>
 </td>
 </tr>
 </table>
@@ -946,7 +946,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Wakana and Shinju's secret plan was a success, which added to the success of their first group cosplay photoshoot. As Juju and Shinju look through the photos from the photoshoot, the sisters find out how they both feel. Meanwhile, Marin and Wakana are enjoying their summer vacation. They were preparing Marin's cosplay for a fighting game character named Veronica-tya, but then a problem arises...</p>
+<p align="center">Wakana and Shinju's secret plan was a success, which added to the success of their first group cosplay photoshoot. As Juju and Shinju look through the photos from the photoshoot, the sisters find out how they both feel. Meanwhile, Marin and Wakana are enjoying their summer vacation. They were preparing Marin's cosplay for a fighting game character named Veronica-tya, but then a problem arises</p>
 </td>
 </tr>
 </table>
@@ -980,7 +980,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Suzaku and Lelouch wake up on an island with no memory of what happened to them after the Avalon’s appearance. But Lelouch has more to worry about when Princess Euphemia reveals she knows Zero’s identity.</p>
+<p align="center">Suzaku and Lelouch wake up on an island with no memory of what happened to them after the Avalon’s appearance. But Lelouch has more to worry about when Princess Euphemia reveals she knows Zero’s identity</p>
 </td>
 </tr>
 </table>
@@ -1048,7 +1048,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Xie Lian and Hua Cheng enter the lair of the Night-Touring Green Lantern, Qi Rong. After a brief, violent confrontation, Qi Rong reveals the truth about the Yong'an massacre but other surprising truths are also told.</p>
+<p align="center">Xie Lian and Hua Cheng enter the lair of the Night-Touring Green Lantern, Qi Rong. After a brief, violent confrontation, Qi Rong reveals the truth about the Yong'an massacre but other surprising truths are also told</p>
 </td>
 </tr>
 </table>
@@ -1082,7 +1082,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Hua Cheng leads Xie Lian away from the Heavenly Realm. Meanwhile, Feng Xin and Mu Qing encounter many obstacles while attempting to rescue him, and Lang Qianqiu has a plan of his own.</p>
+<p align="center">Hua Cheng leads Xie Lian away from the Heavenly Realm. Meanwhile, Feng Xin and Mu Qing encounter many obstacles while attempting to rescue him, and Lang Qianqiu has a plan of his own</p>
 </td>
 </tr>
 </table>
@@ -1116,7 +1116,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1150,7 +1150,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1184,7 +1184,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1218,7 +1218,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1252,7 +1252,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1286,7 +1286,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1320,7 +1320,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1354,7 +1354,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1388,7 +1388,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1524,7 +1524,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Shinsuke plans to attack a local group of brigands, only to be beaten to the bunch by the eccentric Tama and Jinka. Impressed by their prowess in battle, Shinsuke becomes determined to follow them, and offers to take them to the brigands' leader.</p>
+<p align="center">Shinsuke plans to attack a local group of brigands, only to be beaten to the bunch by the eccentric Tama and Jinka. Impressed by their prowess in battle, Shinsuke becomes determined to follow them, and offers to take them to the brigands' leader</p>
 </td>
 </tr>
 </table>
@@ -1558,7 +1558,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Yukimura injures his leg while the group is training for the upcoming tests. He later devises a plan for how the group should handle the marathon and then the day of the four tests arrives.</p>
+<p align="center">Yukimura injures his leg while the group is training for the upcoming tests. He later devises a plan for how the group should handle the marathon and then the day of the four tests arrives</p>
 </td>
 </tr>
 </table>
@@ -1626,7 +1626,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Erika Konno starts lashing out at her classmates after the school's sports festival, and opinions are deeply divided on the best way to shut her down.. </p>
+<p align="center">Erika Konno starts lashing out at her classmates after the school's sports festival, and opinions are deeply divided on the best way to shut her down</p>
 </td>
 </tr>
 </table>
@@ -1660,7 +1660,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -1694,7 +1694,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter. Konro proposes that Shinra and Arthur be given combat training in Asakusa to improve their fighting skills.</p>
+<p align="center">Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter. Konro proposes that Shinra and Arthur be given combat training in Asakusa to improve their fighting skills</p>
 </td>
 </tr>
 </table>
@@ -1728,7 +1728,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Dr. Giovanni continues to search Vulcan's workshop, Hibana comes to Shinra's aid, allowing him to rush back to help Vulcan. Meanwhile, Arthur has his hands full trying to deal with Mirage's illusions, and Iris resists in her own way.</p>
+<p align="center">While Dr. Giovanni continues to search Vulcan's workshop, Hibana comes to Shinra's aid, allowing him to rush back to help Vulcan. Meanwhile, Arthur has his hands full trying to deal with Mirage's illusions, and Iris resists in her own way</p>
 </td>
 </tr>
 </table>
@@ -1762,7 +1762,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter. Konro proposes that Shinra and Arthur be given combat training in Asakusa to improve their fighting skills.</p>
+<p align="center">Vulcan gets settled in at the 8th, while Captain Obi meets with Hibana, Konro, and Karim to exchange data on the White-Clad matter. Konro proposes that Shinra and Arthur be given combat training in Asakusa to improve their fighting skills</p>
 </td>
 </tr>
 </table>
@@ -1796,7 +1796,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Dr. Giovanni continues to search Vulcan's workshop, Hibana comes to Shinra's aid, allowing him to rush back to help Vulcan. Meanwhile, Arthur has his hands full trying to deal with Mirage's illusions, and Iris resists in her own way.</p>
+<p align="center">While Dr. Giovanni continues to search Vulcan's workshop, Hibana comes to Shinra's aid, allowing him to rush back to help Vulcan. Meanwhile, Arthur has his hands full trying to deal with Mirage's illusions, and Iris resists in her own way</p>
 </td>
 </tr>
 </table>
@@ -1830,7 +1830,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Leon's duel against Julius and his kingdom's best Armor begins. Why does Julius choose Marie over Angelica? His feelings drive him to attack Leon...!</p>
+<p align="center">Leon's duel against Julius and his kingdom's best Armor begins. Why does Julius choose Marie over Angelica? His feelings drive him to attack Leon. !</p>
 </td>
 </tr>
 </table>
@@ -1864,7 +1864,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Leon's duel against Julius and his kingdom's best Armor begins. Why does Julius choose Marie over Angelica? His feelings drive him to attack Leon...!</p>
+<p align="center">Leon's duel against Julius and his kingdom's best Armor begins. Why does Julius choose Marie over Angelica? His feelings drive him to attack Leon. !</p>
 </td>
 </tr>
 </table>
@@ -1898,7 +1898,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The information regarding Hiro's condition changes the entire dynamic of Squad 13, much to Zero Two's chagrin. She only wants to speak to Hiro, but people stand in her way one after another.</p>
+<p align="center">The information regarding Hiro's condition changes the entire dynamic of Squad 13, much to Zero Two's chagrin. She only wants to speak to Hiro, but people stand in her way one after another</p>
 </td>
 </tr>
 </table>
@@ -1932,7 +1932,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The information regarding Hiro's condition changes the entire dynamic of Squad 13, much to Zero Two's chagrin. She only wants to speak to Hiro, but people stand in her way one after another.</p>
+<p align="center">The information regarding Hiro's condition changes the entire dynamic of Squad 13, much to Zero Two's chagrin. She only wants to speak to Hiro, but people stand in her way one after another</p>
 </td>
 </tr>
 </table>
@@ -1966,7 +1966,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the deepest, darkest parts of a forest lived a strong and beautiful beast princess. Beckoned by the moonlight, she wandered into a land of humans, and in the moonlit garden of a small castle, she fell in love with a prince.</p>
+<p align="center">In the deepest, darkest parts of a forest lived a strong and beautiful beast princess. Beckoned by the moonlight, she wandered into a land of humans, and in the moonlit garden of a small castle, she fell in love with a prince</p>
 </td>
 </tr>
 </table>
@@ -2000,7 +2000,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the deepest, darkest parts of a forest lived a strong and beautiful beast princess. Beckoned by the moonlight, she wandered into a land of humans, and in the moonlit garden of a small castle, she fell in love with a prince.</p>
+<p align="center">In the deepest, darkest parts of a forest lived a strong and beautiful beast princess. Beckoned by the moonlight, she wandered into a land of humans, and in the moonlit garden of a small castle, she fell in love with a prince</p>
 </td>
 </tr>
 </table>
@@ -2143,7 +2143,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Komichi was chosen to lead a group in buying supplies for the athletic festival. On the weekend, she joins Erika, Touko, and Tomono to shop at a large mall. As a local who's been to this mall many times, Komichi is excited to act as their guide, but Touko, who's into fashion and accessorizing, knows more than she does about the shops. They visit a bookstore, where Erika picks up a book happens to be written by an author Tomono likes. In fact, Tomono had just finished reading it on the way to the mall. So she offers to lend it to Erika, but then she realizes the bookmark she had left in it is gone...</p>
+<p align="center">Komichi was chosen to lead a group in buying supplies for the athletic festival. On the weekend, she joins Erika, Touko, and Tomono to shop at a large mall. As a local who's been to this mall many times, Komichi is excited to act as their guide, but Touko, who's into fashion and accessorizing, knows more than she does about the shops. They visit a bookstore, where Erika picks up a book happens to be written by an author Tomono likes. In fact, Tomono had just finished reading it on the way to the mall. So she offers to lend it to Erika, but then she realizes the bookmark she had left in it is gone</p>
 </td>
 </tr>
 </table>
@@ -2177,7 +2177,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Komichi was chosen to lead a group in buying supplies for the athletic festival. On the weekend, she joins Erika, Touko, and Tomono to shop at a large mall. As a local who's been to this mall many times, Komichi is excited to act as their guide, but Touko, who's into fashion and accessorizing, knows more than she does about the shops. They visit a bookstore, where Erika picks up a book happens to be written by an author Tomono likes. In fact, Tomono had just finished reading it on the way to the mall. So she offers to lend it to Erika, but then she realizes the bookmark she had left in it is gone...</p>
+<p align="center">Komichi was chosen to lead a group in buying supplies for the athletic festival. On the weekend, she joins Erika, Touko, and Tomono to shop at a large mall. As a local who's been to this mall many times, Komichi is excited to act as their guide, but Touko, who's into fashion and accessorizing, knows more than she does about the shops. They visit a bookstore, where Erika picks up a book happens to be written by an author Tomono likes. In fact, Tomono had just finished reading it on the way to the mall. So she offers to lend it to Erika, but then she realizes the bookmark she had left in it is gone</p>
 </td>
 </tr>
 </table>
@@ -2211,7 +2211,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2245,7 +2245,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2279,7 +2279,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2313,7 +2313,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2347,7 +2347,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2381,7 +2381,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2415,7 +2415,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2449,7 +2449,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2483,7 +2483,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2517,7 +2517,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2551,7 +2551,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2585,7 +2585,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2619,7 +2619,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2653,7 +2653,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2687,7 +2687,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2755,7 +2755,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">. </p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -2789,7 +2789,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akihiko and Misaki head to the publisher to deliver Akihiko's latest manuscript. When the two are pulled apart by business, Misaki is cornered by Haruhiko who is still determined to claim Misaki as his own.</p>
+<p align="center">Akihiko and Misaki head to the publisher to deliver Akihiko's latest manuscript. When the two are pulled apart by business, Misaki is cornered by Haruhiko who is still determined to claim Misaki as his own</p>
 </td>
 </tr>
 </table>
@@ -2823,7 +2823,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akihiko and Misaki head to the publisher to deliver Akihiko's latest manuscript. When the two are pulled apart by business, Misaki is cornered by Haruhiko who is still determined to claim Misaki as his own.</p>
+<p align="center">Akihiko and Misaki head to the publisher to deliver Akihiko's latest manuscript. When the two are pulled apart by business, Misaki is cornered by Haruhiko who is still determined to claim Misaki as his own</p>
 </td>
 </tr>
 </table>
@@ -2857,7 +2857,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A call for a family meeting seems to annoy Akihiko, but despite his numerous attempts to get out of it, he winds up going. Afterwards, Misaki and Akihiko head to a hot springs for a little relaxation, but wind up meeting up with Akihiko's father instead.</p>
+<p align="center">A call for a family meeting seems to annoy Akihiko, but despite his numerous attempts to get out of it, he winds up going. Afterwards, Misaki and Akihiko head to a hot springs for a little relaxation, but wind up meeting up with Akihiko's father instead</p>
 </td>
 </tr>
 </table>
@@ -2891,7 +2891,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A call for a family meeting seems to annoy Akihiko, but despite his numerous attempts to get out of it, he winds up going. Afterwards, Misaki and Akihiko head to a hot springs for a little relaxation, but wind up meeting up with Akihiko's father instead.</p>
+<p align="center">A call for a family meeting seems to annoy Akihiko, but despite his numerous attempts to get out of it, he winds up going. Afterwards, Misaki and Akihiko head to a hot springs for a little relaxation, but wind up meeting up with Akihiko's father instead</p>
 </td>
 </tr>
 </table>
@@ -2925,7 +2925,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe. </p>
+<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe</p>
 </td>
 </tr>
 </table>
@@ -2959,7 +2959,7 @@ him, during which he uses a real sword to ferociously assault Ray!"</p>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe. </p>
+<p align="center">Right after the TV reports that Haruhiko is getting married, his fiancé turns up on Akihiko's doorstep, begging him to marry her instead! As if things weren't complicated enough, Akihiko also turns up and it seems that it's an arranged marriage and he doe</p>
 </td>
 </tr>
 </table>
