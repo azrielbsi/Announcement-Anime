@@ -61,7 +61,13 @@ async function updateReadmeWithAnimeData() {
     readmeContent += `<li>Powered by: <a href="https://github.com/azrielbsi/Announcement-Anime">Announcement-Anime</a></li>`;
     readmeContent += `<li><a href="https://github.com/azrielbsi/Announcement-Anime/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a></li>\n\n`;
 
-    animeData.forEach(anime => {
+    let sentenceCounter = 0;
+    
+    animeData.forEach((anime, index) => {
+      if (index > 0 && index % 10 === 0) {
+        readmeContent += '<br>\n\n';
+      }
+      
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<th><h3 align="center">${anime.title}</h3></th>\n`;
@@ -96,6 +102,8 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n\n`;
+      
+      sentenceCounter++;
     });
 
     fs.writeFileSync('README.md', readmeContent);
