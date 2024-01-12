@@ -38,6 +38,7 @@ async function getLatestAnimeData() {
 async function updateReadmeWithAnimeData() {
   try {
     const animeData = await getLatestAnimeData();
+    const truncatedAnimeData = animeData.slice(0, 20);
     const currentDate = new Date().toLocaleDateString('en-US', {
       timeZone: 'Asia/Jakarta'
     });
