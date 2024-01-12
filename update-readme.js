@@ -4,35 +4,16 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 function splitDescription(description) {
-  // Split the description into sentences
-  const sentences = description.split('.');
-
-  // Take only the first sentence
-  const truncatedDescription = sentences[0];
-
-  // Split the truncated description into words
-  const words = truncatedDescription.split(' ');
-
-  // Determine the number of sentences per line
+  const sentences = description.split('. ');
+  const sentenceChunks = [];
   const sentencesPerLine = 10;
 
-  // Initialize variables for formatted description and sentence counter
-  let formattedDescription = '';
-  let sentenceCounter = 0;
-
-  // Loop through words and add to the formatted description
-  for (let i = 0; i < words.length; i++) {
-    formattedDescription += words[i] + ' ';
-
-    // Check if a sentence is complete
-    if (words[i].endsWith('.') && ++sentenceCounter >= sentencesPerLine) {
-      // Add a <br> tag after every 10 sentences
-      formattedDescription += '<br>';
-      sentenceCounter = 0;
-    }
+  for (let i = 0; i < sentences.length; i += sentencesPerLine) {
+    const chunk = sentences.slice(i, i + sentencesPerLine).join('. ');
+    sentenceChunks.push(chunk);
   }
 
-  return formattedDescription.trim(); // Remove leading/trailing whitespaces
+  return sentenceChunks.join('<br>');
 }
 
 async function getLatestAnimeData() {
@@ -68,20 +49,9 @@ async function updateReadmeWithAnimeData() {
     readmeContent += `<p align="center"><em>Updated on: ${currentDateTime}</em></p>\n\n`;
     readmeContent += `<p align="center"><img src="img/anime-update.jpeg" height="100"></p>`;
     readmeContent += `<p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p>`;
-    readmeContent += `<p align="center"><img src="https://github.com/azrielbsi/Announcement-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/azrielbsi/Announcement-Anime/actions/workflows/jekyll.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p>`;
-    readmeContent += `<h2>📄 License</h2>`;
-    readmeContent += `<li>Powered by: <a href="https://github.com/azrielbsi/Announcement-Anime">Announcement-Anime</a></li>`;
-    readmeContent += `<li><a href="https://github.com/azrielbsi/Announcement-Anime/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a></li>\n\n`;
+    readmeContent += `<p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p>`;
 
-    let sentenceCounter = 0;
-
-    animeData.forEach((anime, index) => {
-      // Create a new line after every 10 sentences
-      if (index > 0 && index % 10 === 0) {
-        readmeContent += '<br>\n\n';
-        sentenceCounter = 0; // Reset the sentence counter
-      }
-
+    animeData.forEach(anime => {
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<th><h3 align="center">${anime.title}</h3></th>\n`;
@@ -116,8 +86,6 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n\n`;
-
-      sentenceCounter++;
     });
 
     fs.writeFileSync('README.md', readmeContent);
