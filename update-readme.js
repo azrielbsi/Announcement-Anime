@@ -5,6 +5,9 @@ const parser = new Parser();
 
 function splitDescription(description) {
   const words = description.split(' ');
+  const sentences = description.split('.');
+  const truncatedDescription = sentences[0];
+  return truncatedDescription;
   const chunkSize = 10;
   const chunks = [];
 
