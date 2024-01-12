@@ -4,13 +4,10 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 function splitDescription(description) {
-  // Extract the first sentence
   const firstSentence = description.split(/[.!?]/)[0].trim();
 
-  // Split the first sentence into words
   const words = firstSentence.split(' ');
 
-  // Insert line breaks after every 10 words
   const chunkSize = 10;
   const chunks = [];
 
@@ -18,7 +15,6 @@ function splitDescription(description) {
     chunks.push(words.slice(i, i + chunkSize).join(' '));
   }
 
-  // Join the chunks with line breaks
   return chunks.join('<br>');
 }
 
