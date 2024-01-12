@@ -4,22 +4,22 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 function splitDescription(description) {
-  // Split the description into sentences
-  const sentences = description.split('. ');
-
-  // Extract the first sentence
-  const firstSentence = sentences.shift();
-
-  // Combine the first sentence with line breaks every 10 sentences
-  const chunkSize = 10;
+  const sentences = description.split('.'); // Split the description into sentences
   const chunks = [];
 
-  for (let i = 0; i < sentences.length; i += chunkSize) {
-    const chunk = sentences.slice(i, i + chunkSize).join('. ');
-    chunks.push(chunk);
+  for (let i = 0; i < sentences.length; i++) {
+    const sentence = sentences[i].trim(); // Remove leading and trailing whitespaces
+    if (sentence) {
+      chunks.push(sentence);
+
+      // Add <br> after every 10 sentences
+      if (chunks.length % 10 === 0) {
+        chunks.push('<br>');
+      }
+    }
   }
 
-  return `${firstSentence}. ${chunks.join('<br>')}`;
+  return chunks.join('. '); // Join the sentences back with a space and return
 }
 
 async function getLatestAnimeData() {
