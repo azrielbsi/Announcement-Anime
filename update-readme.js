@@ -5,15 +5,19 @@ const parser = new Parser();
 
 function splitDescription(description) {
   const sentences = description.split('. ');
+
+  const firstSentence = sentences[0];
+
   const chunkSize = 10;
+  const remainingSentences = sentences.slice(1);
   const chunks = [];
 
-  for (let i = 0; i < sentences.length; i += chunkSize) {
-    const currentChunk = sentences.slice(i, i + chunkSize).join('. ');
-    chunks.push(`${currentChunk}.`);
+  for (let i = 0; i < remainingSentences.length; i += chunkSize) {
+    const chunk = remainingSentences.slice(i, i + chunkSize).join('. ');
+    chunks.push(chunk);
   }
 
-  return chunks.join('<br>');
+  return `${firstSentence}. ${chunks.join('<br>')}`;
 }
 
 async function getLatestAnimeData() {
