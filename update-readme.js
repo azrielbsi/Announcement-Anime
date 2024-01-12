@@ -4,16 +4,18 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 function splitDescription(description) {
+  // Split the description into sentences
   const sentences = description.split('. ');
 
-  const firstSentence = sentences[0];
+  // Extract the first sentence
+  const firstSentence = sentences.shift();
 
+  // Combine the first sentence with line breaks every 10 sentences
   const chunkSize = 10;
-  const remainingSentences = sentences.slice(1);
   const chunks = [];
 
-  for (let i = 0; i < remainingSentences.length; i += chunkSize) {
-    const chunk = remainingSentences.slice(i, i + chunkSize).join('. ');
+  for (let i = 0; i < sentences.length; i += chunkSize) {
+    const chunk = sentences.slice(i, i + chunkSize).join('. ');
     chunks.push(chunk);
   }
 
