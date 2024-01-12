@@ -10,8 +10,6 @@ function splitDescription(description) {
   const sentencesPerLine = 10;
   let formattedDescription = '';
   let sentenceCounter = 0;
-  const chunkSize = 10;
-  const chunks = [];
 
   for (let i = 0; i < words.length; i++) {
     formattedDescription += words[i] + ' ';
