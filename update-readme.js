@@ -8,9 +8,8 @@ function splitDescription(description) {
   const truncatedDescription = sentences[0];
   const maxLineLength = 80;
   let truncatedDescription = '';
-  return truncatedDescription;
-  //const chunkSize = 10;
-  //const chunks = [];
+  const chunkSize = 10;
+  const chunks = [];
 
   for (let i = 0; i < description.length; i += maxLineLength) {
     truncatedDescription += description.slice(i, i + maxLineLength) + '<br>';
