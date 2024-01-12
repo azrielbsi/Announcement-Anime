@@ -4,10 +4,7 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 function splitDescription(description) {
-  const firstSentence = description.split(/[.!?]/)[0].trim();
-
-  const words = firstSentence.split(' ');
-
+  const words = description.split(' ');
   const chunkSize = 10;
   const chunks = [];
 
