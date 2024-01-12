@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 12, 2024, 1:04:39 PM</em></p>
+<p align="center"><em>Updated on: Jan 12, 2024, 1:07:05 PM</em></p>
 
 <p align="center"><img src="img/anime-update.jpeg" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center"><img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"> <img src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"> <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a> <img src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"></p><table align="center">
 <tr>
@@ -28,7 +28,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Bosse tells Bebin the story of when he found the<br>disfigured Miranjo, until Bebin is called away</p>
+<p align="center">Bosse tells Bebin the story of when he found the<br>disfigured Miranjo, until Bebin is called away. As Bojji and<br>Despa look on, Kage is faced with a life-or-death decision,<br>and finds help from an unexpected source. The Big Four<br>step forward to face Ouken.</p>
 </td>
 </tr>
 </table>
@@ -62,7 +62,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The person who had sent Hajime to face Kenshin was<br>none other than the Head of the Home Ministry, former<br>Satsuma Domain Revolutionary warrior, Toshimichi Okubo</p>
+<p align="center">The person who had sent Hajime to face Kenshin was<br>none other than the Head of the Home Ministry, former<br>Satsuma Domain Revolutionary warrior, Toshimichi Okubo. He asks Kenshin to<br>go to Kyoto to stop the secret plans of a<br>man who claims to be the legitimate successor of the<br>Hitokiri Battosai. However, that man was supposed to have been<br>killed 10 years ago by his own comrades in the<br>government, as they regarded him as a threat. Receiving this<br>request to conduct an assassination, what will Kenshin's answer be...?</p>
 </td>
 </tr>
 </table>
@@ -96,7 +96,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Choso begins to realize the identity of the mastermind parasitizing<br>Geto's corpse as sorcerers gather for the final moments of<br>the Shibuya Incident</p>
+<p align="center">Choso begins to realize the identity of the mastermind parasitizing<br>Geto's corpse as sorcerers gather for the final moments of<br>the Shibuya Incident. The special-grade sorcerer, Yuki Tsukumo, comes to<br>the rescue when they're on the verge of death.</p>
 </td>
 </tr>
 </table>
@@ -130,7 +130,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito?" Itadori immediately recognizes the man before<br>him as the very same one who sealed away Gojo<br>and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -164,7 +164,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito?" Itadori immediately recognizes the man before<br>him as the very same one who sealed away Gojo<br>and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -198,7 +198,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito?" Itadori immediately recognizes the man before<br>him as the very same one who sealed away Gojo<br>and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -232,7 +232,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito?" Itadori immediately recognizes the man before<br>him as the very same one who sealed away Gojo<br>and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -266,7 +266,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito?" Itadori immediately recognizes the man before<br>him as the very same one who sealed away Gojo<br>and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -300,7 +300,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito</p>
+<p align="center">The moment it appeared Itadori and Mahito's battle to the<br>death was resolved, the being wearing Geto's body asked, "Shall<br>I save you, Mahito?" Itadori immediately recognizes the man before<br>him as the very same one who sealed away Gojo<br>and leaps to attack.</p>
 </td>
 </tr>
 </table>
@@ -334,7 +334,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up</p>
+<p align="center">After rescuing Itadori from his predicament, Todo bolsters his morale<br>and encourages him to stand back up. As Mahito kicks<br>things into higher gear, he begins using Soul Multiplicity and<br>Body Repel to unleash omnidirectional attacks.</p>
 </td>
 </tr>
 </table>
@@ -368,7 +368,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Itadori launches into a back-and-forth battle against Mahito, but he<br>struggles against Mahito's ploy of using average people against him</p>
+<p align="center">Itadori launches into a back-and-forth battle against Mahito, but he<br>struggles against Mahito's ploy of using average people against him.<br>Meanwhile, Kugisaki encounters one of Mahito's separated bodies as she<br>returns to the battlefield.</p>
 </td>
 </tr>
 </table>
@@ -402,7 +402,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being severely injured in his fight against Toji, Fushiguro<br>suffers a surprise attack from Shigemo</p>
+<p align="center">After being severely injured in his fight against Toji, Fushiguro<br>suffers a surprise attack from Shigemo. On the verge of<br>death, Fushiguro desperately heads toward Dougenzaka crossing and summons a<br>certain Shikigami with his Ten Shadows Technique.</p>
 </td>
 </tr>
 </table>
@@ -436,7 +436,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After being severely injured in his fight against Toji, Fushiguro<br>suffers a surprise attack from Shigemo</p>
+<p align="center">After being severely injured in his fight against Toji, Fushiguro<br>suffers a surprise attack from Shigemo. On the verge of<br>death, Fushiguro desperately heads toward Dougenzaka crossing and summons a<br>certain Shikigami with his Ten Shadows Technique.</p>
 </td>
 </tr>
 </table>
@@ -470,7 +470,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Gojo and Geto are assigned to the mission of escorting<br>and erasing the young girl compatible with the Tengen -<br>the Star Plasma Vessel</p>
+<p align="center">Gojo and Geto are assigned to the mission of escorting<br>and erasing the young girl compatible with the Tengen -<br>the Star Plasma Vessel. Amanai Riko is being targeted by<br>the Curse User Group Q, and the religious cult the<br>Star Religious Group.</p>
 </td>
 </tr>
 </table>
@@ -504,7 +504,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills.</p>
 </td>
 </tr>
 </table>
@@ -538,7 +538,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills.</p>
 </td>
 </tr>
 </table>
@@ -572,7 +572,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills.</p>
 </td>
 </tr>
 </table>
@@ -606,7 +606,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills.</p>
 </td>
 </tr>
 </table>
@@ -640,7 +640,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills.</p>
 </td>
 </tr>
 </table>
@@ -674,7 +674,7 @@
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Philomela stands against Lizbeth in a final battle of wills</p>
+<p align="center">Philomela stands against Lizbeth in a final battle of wills.</p>
 </td>
 </tr>
 </table>
