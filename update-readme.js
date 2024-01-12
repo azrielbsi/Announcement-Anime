@@ -20,7 +20,7 @@ function splitDescription(description) {
     }
   }
 
-  return formattedDescription;
+  return formattedDescription.trim();
 }
 
 async function getLatestAnimeData() {
