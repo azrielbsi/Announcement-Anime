@@ -7,15 +7,15 @@ function splitDescription(description) {
   const sentences = description.split('.');
   const truncatedDescription = sentences[0];
   const maxLineLength = 80;
-  let truncatedDescription = '';
+  let formattedDescription = '';
   const chunkSize = 10;
   const chunks = [];
 
-  for (let i = 0; i < description.length; i += maxLineLength) {
-    truncatedDescription += description.slice(i, i + maxLineLength) + '<br>';
+  for (let i = 0; i < truncatedDescription.length; i += maxLineLength) {
+    formattedDescription += truncatedDescription.slice(i, i + maxLineLength) + '<br>';
   }
 
-  return truncatedDescription;
+  return formattedDescription;
 }
 
 async function getLatestAnimeData() {
