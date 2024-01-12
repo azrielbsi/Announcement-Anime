@@ -4,18 +4,20 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 function splitDescription(description) {
-  const words = description.split(' ');
   const sentences = description.split('.');
   const truncatedDescription = sentences[0];
+  const maxLineLength = 80;
+  let truncatedDescription = '';
+  
   return truncatedDescription;
   const chunkSize = 10;
   const chunks = [];
 
-  for (let i = 0; i < words.length; i += chunkSize) {
-    chunks.push(words.slice(i, i + chunkSize).join(' '));
+  for (let i = 0; i < description.length; i += maxLineLength) {
+    truncatedDescription += description.slice(i, i + maxLineLength) + '<br>';
   }
 
-  return chunks.join('<br>');
+  return truncatedDescription;
 }
 
 async function getLatestAnimeData() {
