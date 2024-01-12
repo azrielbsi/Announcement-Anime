@@ -4,23 +4,35 @@ const Parser = require('rss-parser');
 const parser = new Parser();
 
 function splitDescription(description) {
+  // Split the description into sentences
   const sentences = description.split('.');
+
+  // Take only the first sentence
   const truncatedDescription = sentences[0];
+
+  // Split the truncated description into words
   const words = truncatedDescription.split(' ');
+
+  // Determine the number of sentences per line
   const sentencesPerLine = 10;
+
+  // Initialize variables for formatted description and sentence counter
   let formattedDescription = '';
   let sentenceCounter = 0;
 
+  // Loop through words and add to the formatted description
   for (let i = 0; i < words.length; i++) {
     formattedDescription += words[i] + ' ';
 
+    // Check if a sentence is complete
     if (words[i].endsWith('.') && ++sentenceCounter >= sentencesPerLine) {
+      // Add a <br> tag after every 10 sentences
       formattedDescription += '<br>';
       sentenceCounter = 0;
     }
   }
 
-  return formattedDescription.trim();
+  return formattedDescription.trim(); // Remove leading/trailing whitespaces
 }
 
 async function getLatestAnimeData() {
@@ -62,13 +74,14 @@ async function updateReadmeWithAnimeData() {
     readmeContent += `<li><a href="https://github.com/azrielbsi/Announcement-Anime/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a></li>\n\n`;
 
     let sentenceCounter = 0;
-    
+
     animeData.forEach((anime, index) => {
+      // Create a new line after every 10 sentences
       if (index > 0 && index % 10 === 0) {
         readmeContent += '<br>\n\n';
-        sentenceCounter = 0;
+        sentenceCounter = 0; // Reset the sentence counter
       }
-      
+
       readmeContent += `<table align="center">\n`;
       readmeContent += `<tr>\n`;
       readmeContent += `<th><h3 align="center">${anime.title}</h3></th>\n`;
@@ -103,7 +116,7 @@ async function updateReadmeWithAnimeData() {
       readmeContent += `</td>\n`;
       readmeContent += `</tr>\n`;
       readmeContent += `</table>\n\n`;
-      
+
       sentenceCounter++;
     });
 
