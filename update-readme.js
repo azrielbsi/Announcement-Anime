@@ -15,7 +15,7 @@ function splitDescription(description) {
     formattedDescription += words[i] + ' ';
 
     if (words[i].endsWith('.') && ++sentenceCounter >= sentencesPerLine) {
-      formattedDescription += '\n';
+      formattedDescription += '<br>';
       sentenceCounter = 0;
     }
   }
