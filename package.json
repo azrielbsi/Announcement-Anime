@@ -9,6 +9,7 @@
   "author": "Ulee",
   "license": "MIT",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "rss-parser": "^3.13.0"
   }
 }
