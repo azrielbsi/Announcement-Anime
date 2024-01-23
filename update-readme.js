@@ -17,7 +17,7 @@ function splitDescription(description) {
 
 async function getLatestAnimeData() {
   try {
-    const feed = await parser.parseURL('data.json');
+    const feed = await parser.parseURL('https://feeds.feedburner.com/crunchyroll/rss/anime');
     return feed.items.map(item => ({
       title: item.title,
       thumb: item.enclosure.url,
