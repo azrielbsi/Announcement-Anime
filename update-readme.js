@@ -49,9 +49,9 @@ async function updateReadmeWithAnimeData() {
     readmeContent += `<p align="center"><em>Updated on: ${currentDateTime}</em></p>\n\n`;
     readmeContent += `<p align="center"><img src="img/anime-update.jpeg" height="100"></p>`;
     readmeContent += `<p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p>`;
-    readmeContent += `${IMAGES}`;
-    readmeContent += `${BADGES}`;
-    readmeContent += `${INFO}`;
+    readmeContent += `<p align="center"><img align="center" src="https://img.shields.io/github/contributors/${{ github.repository }}"> <img align="center" src="https://img.shields.io/github/issues/${{ github.repository }}"> <img align="center" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields"> <img align="center" src="https://img.shields.io/github/issues-pr/${{ github.repository }}"> <a href="https://github.com/${{ github.repository }}/blob/master/LICENSE"><img align="center" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a><img align="center" src="https://img.shields.io/github/commit-activity/m/${{ github.repository }}"> <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br><img align="center" src="https://img.shields.io/maintenance/yes/2024"></p>`;
+    //readmeContent += `${BADGES}`;
+    //readmeContent += `${INFO}`;
 
     truncatedAnimeData.forEach(anime => {
       readmeContent += `<table align="center">\n`;
