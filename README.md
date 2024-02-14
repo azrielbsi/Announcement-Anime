@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 13, 2024, 7:08:34 PM</em></p>
+<p align="center"><em>Updated on: Feb 14, 2024, 7:25:07 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -12,6 +12,210 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions (German Dub) - Episode 1 - The Case of the Metropolitan Serial Drownings</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7265f75cf7618ee67df987e7d1e87a301696253702_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/ron-kamonohashis-forbidden-deductions/episode-1-the-case-of-the-metropolitan-serial-drownings-921739">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The Metropolitan Police Department is<br>struggling to investigate a series<br>of murders, yet Detective Isshiki<br>is ordered to go home.<br>Kiku of the General Affairs<br>Division sends him to meet<br>a certain sleuth—a shaggy-haired eccentric<br>named Kamonohashi Ron.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord (Hindi Dub) - Episode 3 - The Hidden Boss Is Summoned to the Castle</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/b2a98c68f5185e3327bad9c40cf3f8fc1706023841_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord/episode-3-the-hidden-boss-is-summoned-to-the-castle-921733">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">The king summons Yumiella to<br>the castle and has her<br>face off against the knight<br>captain, Adolf, to prove that<br>she's level 99. Yumiella then<br>has a private meeting with<br>the queen, who makes an<br>unexpected request...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Log Horizon (German Dub) - Episode 1 - The Apocalypse</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/50ee792fd0a3770a6022263739e527621380951129_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/log-horizon/episode-1-the-apocalypse-921731">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Out of nowhere, Shiroe finds<br>himself in the city of<br>Akihabara, inside the game "Elder<br>Tale".  Thirty thousand Japanese<br>players have been locked inside<br>the game!  The world<br>on the other side of<br>the screen becomes reality, and<br>amidst the chaos Shiroe finds<br>his old friend Naotsugu. <br>And as they relax at<br>finding one another, they meet<br>the powerful assassin "Akatsuki". <br>Akatsuki has a request to<br>make of Shiroe...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Golden Kamuy (German Dub) - Episode 26 - Stenka</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/af6e77ec4be9fcde7d893da3299524581602498782_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/golden-kamuy/episode-26-stenka-921719">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Sugimoto and the 7th engage<br>in a traditional Russian combat<br>sport to track down one<br>of the tattoed prisoners.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The God of High School (French Dub) - Episode 2 - renewal/soul</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/167a08cc410ffb3896374692376f7baf1594641132_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-god-of-high-school/episode-2-renewalsoul-921718">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mori, Daewi, and Mirahave made<br>it through the first preliminary<br>round. With the next round<br>coming up, the three of<br>them talk about their reasons<br>for entering the tournament. Mira<br>says she's hoping to find<br>a strong man who can<br>become the successor to her<br>late father's Moon Light Sword<br>Style and rebuild her family's<br>dojo. On the day of<br>the tournament, one of the<br>favorites to win the tournament,<br>Kang Manseok, faces off against<br>tai chi user Go Gamdo.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord - Episode 6 - The Hidden Boss Participates in the Martial Arts Competition</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/efca5fe5575b75788b5bc07d7e1b96641707834686_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord/episode-6-the-hidden-boss-participates-in-the-martial-arts-competition-918562">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center"></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Log Horizon (Hindi Dub) - Episode 14 - World Fraction</h3></th>
 </tr>
@@ -481,210 +685,6 @@ However,<br>they soon find themselves in<br>the territory of dangerous monsters<
 <tr>
 <td colspan="2">
 <p align="center">One day, Mukouda Tsuyoshi, an<br>extremely ordinary salaryman, gets caught<br>up in a hero summons<br>being performed in another world.<br>At the time of his<br>summoning, he receives a unique<br>skill known as "Online Grocery"<br>that allows him to bring<br>food ingredients and seasonings from<br>his original world. Even though<br>this skill seems plain at<br>first glance, the food he<br>brings into this new world<br>has an absurd effect...?!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (English Dub) - Episode 4 - Nighttime Calls Are Super Ticklish</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c19f572ea2b75e10c6fef15a6f6dec6f1707769927_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-4-nighttime-calls-are-super-ticklish-921629">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tsubasa tries walking to school<br>in a blizzard, but Minami<br>and her flirty mother pick<br>him up. After class, Tsubasa,<br>Minami, and Sayuri hang out<br>at a big shopping center.<br>Later that night, Minami shocks<br>Tsubasa with a steaming hot<br>video call from the bath.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Portuguese Dub) - Episode 3 - Akino-san Is Super Unfriendly</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68f150875a37a06c05587ab2dc5cd5481705931757_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-3-akino-san-is-super-unfriendly-921624">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tsubasa starts learning to ski<br>on a class trip to<br>the slopes. He's told to<br>partner with Akino Sayuri, a<br>pretty loner that Minami is<br>fascinated with. When he runs<br>to the bus to grab<br>his chopsticks for lunch, he<br>finds Akino half-naked and covered<br>in sweat.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Spanish Dub) - Episode 3 - Akino-san Is Super Unfriendly</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68f150875a37a06c05587ab2dc5cd5481705931757_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-3-akino-san-is-super-unfriendly-921625">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tsubasa starts learning to ski<br>on a class trip to<br>the slopes. He's told to<br>partner with Akino Sayuri, a<br>pretty loner that Minami is<br>fascinated with. When he runs<br>to the bus to grab<br>his chopsticks for lunch, he<br>finds Akino half-naked and covered<br>in sweat.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Hokkaido Gals Are Super Adorable! (Hindi Dub) - Episode 3 - Akino-san Is Super Unfriendly</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/68f150875a37a06c05587ab2dc5cd5481705931757_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/hokkaido-gals-are-super-adorable/episode-3-akino-san-is-super-unfriendly-921628">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Tsubasa starts learning to ski<br>on a class trip to<br>the slopes. He's told to<br>partner with Akino Sayuri, a<br>pretty loner that Minami is<br>fascinated with. When he runs<br>to the bus to grab<br>his chopsticks for lunch, he<br>finds Akino half-naked and covered<br>in sweat.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Foolish Angel Dances with the Devil (English Dub) - Episode 4 - The Equally Foolish Angel and Demon</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f2876e354b0ce69f8e8b090fa1158e0f1707768068_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-foolish-angel-dances-with-the-devil/episode-4-the-equally-foolish-angel-and-demon-921622">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">When Lily tracks down a<br>spats-obsessed demon, Akutsu does everything<br>within his power to distract<br>her from the battle. Later,<br>Akutsu's boss visits and demands<br>he work on his game<br>to better recruit a new<br>leader for Hell.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 4 - Why Am I a Teacher?!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/792d0c87d0d273720ee9ec520c7bc0eb1707765281_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/tsukimichi-moonlit-fantasy-/episode-4-why-am-i-a-teacher-921618">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Makoto finally arrives in Rotsgard,<br>but is shocked to find<br>that he's somehow ended up<br>registered to take a teacher's<br>exam instead of one for<br>students. On the way there,<br>he crosses paths with some<br>haughty students of the school...</p>
 </td>
 </tr>
 </table>
