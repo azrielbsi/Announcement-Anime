@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Feb 21, 2024, 7:25:08 AM</em></p>
+<p align="center"><em>Updated on: Feb 21, 2024, 7:08:50 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -12,6 +12,312 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Telugu Dub) - Episode 3 - A New Flashpoint</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/919974b58d87d8255c020e6d11bba8d71594970351_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-3-a-new-flashpoint-922216">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Obi goes to see the chief with news of a fifth Adolla-Burst bearer. Schoolgirl Inca,<br>who has the ability to sniff out fires before they start, becomes notorious as the<br>Fireground Thief, extorting valuables from victims in exchange for rescuing them.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Fire Force Season 2 (Tamil Dub) - Episode 3 - A New Flashpoint</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/919974b58d87d8255c020e6d11bba8d71594970351_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/fire-force/episode-3-a-new-flashpoint-922215">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Obi goes to see the chief with news of a fifth Adolla-Burst bearer. Schoolgirl Inca,<br>who has the ability to sniff out fires before they start, becomes notorious as the<br>Fireground Thief, extorting valuables from victims in exchange for rescuing them.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Tamil Dub) - Episode 11 - What I Can Do Now</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/691bad0b6312eed1ca4713ae35264ce71655018557_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/episode-11-what-i-can-do-now-922236">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Leon weaves his way through the horde of monsters alone in order to rescue Angelica.<br>Meanwhile, Chris and Olivia battle fiercely alongside the other students on the passenger ship, but<br>they're surrounded by the duchy's fleet...!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs (Telugu Dub) - Episode 11 - What I Can Do Now</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/691bad0b6312eed1ca4713ae35264ce71655018557_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs/episode-11-what-i-can-do-now-922237">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Leon weaves his way through the horde of monsters alone in order to rescue Angelica.<br>Meanwhile, Chris and Olivia battle fiercely alongside the other students on the passenger ship, but<br>they're surrounded by the duchy's fleet...!</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Tamil Dub) - Episode 1 - The Storm Dragon, Veldora</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56fb585aaca7bdce948a175dc717abdb1538388974_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime/episode-1-the-storm-dragon-veldora-922242">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mikami Satoru, a businessman, is stabbed by a criminal on the street and killed. When<br>he regains consciousness in the darkness, he finds that he's been reincarnated as a slime!<br>With nothing better to do, he spends his time devouring all the rare herbs and<br>precious ores he comes across. As he does, he encounters the Storm Dragon Veldora, who<br>was sealed in this cave 300 years ago by a hero's "Unlimited Imprisonment" skill. He's<br>frightened at first, but as they talk, he becomes friends with the long-isolated Veldora.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">That Time I Got Reincarnated as a Slime (Telugu Dub) - Episode 1 - The Storm Dragon, Veldora</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/56fb585aaca7bdce948a175dc717abdb1538388974_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime/episode-1-the-storm-dragon-veldora-922243">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mikami Satoru, a businessman, is stabbed by a criminal on the street and killed. When<br>he regains consciousness in the darkness, he finds that he's been reincarnated as a slime!<br>With nothing better to do, he spends his time devouring all the rare herbs and<br>precious ores he comes across. As he does, he encounters the Storm Dragon Veldora, who<br>was sealed in this cave 300 years ago by a hero's "Unlimited Imprisonment" skill. He's<br>frightened at first, but as they talk, he becomes friends with the long-isolated Veldora.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Tamil Dub) - Episode 18 - The Light That Follows the Darkness -Awakening-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/876b381b78ed05a0c2e45a9eeee475a71549095909_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-18-the-light-that-follows-the-darkness-awakening-922218">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hameline is defeated by General Torque, "the Beast." The enraged Seth continues to fight, but<br>Von Teppes of the Inquisition turns the tables on him. Seth finally loses consciousness, but<br>then an immense hidden power he didn't know he had sends him on a rampage.<br>He defeats Teppes and, still unconscious, goes after Torque. The battle grows even more intense<br>as Colonel Santori jumps in to assist Torque. Then, as Melie and Grimm attempt to<br>flee the town, a ride appears for them from Artemis courtesy of Majesty himself...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">RADIANT (Telugu Dub) - Episode 18 - The Light That Follows the Darkness -Awakening-</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/876b381b78ed05a0c2e45a9eeee475a71549095909_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/radiant/episode-18-the-light-that-follows-the-darkness-awakening-922220">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hameline is defeated by General Torque, "the Beast." The enraged Seth continues to fight, but<br>Von Teppes of the Inquisition turns the tables on him. Seth finally loses consciousness, but<br>then an immense hidden power he didn't know he had sends him on a rampage.<br>He defeats Teppes and, still unconscious, goes after Torque. The battle grows even more intense<br>as Colonel Santori jumps in to assist Torque. Then, as Melie and Grimm attempt to<br>flee the town, a ride appears for them from Artemis courtesy of Majesty himself...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Iceblade Sorcerer Shall Rule the World (Hindi Dub) - Episode 10 - The Boy Who Became the World's Strongest Sorcerer Sets Up a Maid Cafe</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9765cb8d90a983bb1193eeea6bf0c7a81678383778_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">2/21/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/the-iceblade-sorcerer-shall-rule-the-world/episode-10-the-boy-who-became-the-worlds-strongest-sorcerer-sets-up-a-maid-cafe-922238">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">After the Magic Chevalier is over, the season turns to fall. While Ray and his<br>class are getting excited about their plan for the cultural festival, they get word that<br>Rebecca has been engaged to an upper-tier noble called Evan Bernstein. Ray goes to congratulate<br>her, but gets the feeling that she is not her usual self. On top of<br>that, Dina Sera asks Ray to watch over Rebecca, so he begins his investigation into<br>Evan. However, the situation behind this way bigger than Ray could have imagined...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">BONES 25: DREAMING FORWARD - Episode 3 - Successful Adaptation</h3></th>
 </tr>
@@ -47,12 +353,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ron Kamonohashi's Forbidden Deductions (German Dub) - Episode 2 - The Case of the Locked-Room Piggy Bank Theft</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 14 - Tokyo Merry-Go-Round</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2f663580e0a8c5991c569ef850d62bd71696853802_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0e59e0fe2b7bccec4574cca1bc8885251708448236_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -65,41 +371,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/ron-kamonohashis-forbidden-deductions/episode-2-the-case-of-the-locked-room-piggy-bank-theft-922233">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ron is excited to solve cases by using Toto, but he's not on any good<br>ones because his boss thinks he's useless. All he gets are odd jobs and busywork.<br>Ron, however, is quite interested in a new report about coins going missing from a<br>piggy bank...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord (Hindi Dub) - Episode 4 - The Hidden Boss Attends Field Lessons</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fda1b44229787184d0a5017569184f8f1706630258_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord/episode-4-the-hidden-boss-attends-field-lessons-922232">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-14-tokyo-merry-go-round-922217">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -115,12 +387,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Log Horizon (German Dub) - Episode 2 - The Battle of Loka</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 13 - Brilliant Applause</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/4441c2988807a6da204f4ad6748f8ed11381365669_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/09a94e6cd6b88249f5ec4d352b4adbe41708448164_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -133,109 +405,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/log-horizon/episode-2-the-battle-of-loka-922230">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Apocalypse has locked thirty thousand players inside the game, and no one knows what<br>to do.  The larger guilds are taking over Akihabara, and outside the city violent<br>groups are Party Killing other players.  A young female member of Marielle's "Crescent Moon<br>Alliance" is trapped in Susukino, far to the north, and needs their help.  Shiroe<br>feels somewhat embarrassed, but makes a decision.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Golden Kamuy (German Dub) - Episode 27 - Igogusa</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/bebd0efd3602394448290e102b5e83ab1603091149_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/golden-kamuy/episode-27-igogusa-922227">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">As his group tracks Kiroranke and Asirpa in the frozen north, Tsukishima reflects how he<br>began to be involved with the 7th Division.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The God of High School (French Dub) - Episode 3 - wisdom/kingdom</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/417516193faf5f8c3be8eb3f04c1c3e71595234552_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/the-god-of-high-school/episode-3-wisdomkingdom-922226">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Mira faces off against WWD women's pro wrestler Mah Miseon, but her swordfighting can't keep<br>up with Miseon's well-built body and overwhelming strength. Mori faces the risk of being disqualified<br>from the tournament after interfering with the match between Gang Manseok and Go Gamdo. Park<br>Mujin, a National Assembly member and God of High School's sponsor, tells Mori that if<br>he can defeat Commissioner Q in a match, he will be allowed to return to<br>the tournament. Meanwhile, as regional preliminaries continue across Korea, a secretive organization schemes behind the<br>scenes. The "key" to fulfilling their desires turns out to be...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Villainess Level 99: I May Be the Hidden Boss But I'm Not the Demon Lord - Episode 7 - The Hidden Boss Attempts Dancing</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b4b70ec14bc6624774522f45818798d81708425523_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/20/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord/episode-7-the-hidden-boss-attempts-dancing-918563">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-13-brilliant-applause-922213">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -251,12 +421,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Ranking of Kings (Telugu Dub) - Episode 15 - The Order of the Underworld</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 12 - The Empezar of Festivities</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/34da2a537345d5d03c8d8d7fdbf5353c1643292016_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b09639f8f64ec84bff8f7cfb85e738951708447388_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -269,13 +439,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/ranking-of-kings/episode-15-the-order-of-the-underworld-921828">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-12-the-empezar-of-festivities-922210">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Leaving Dorshe and Hiling behind to rest, Bojji and Kage lead a party to the<br>underworld entrance to send the magic beasts home. Domas and Hokuro encounter the Order of<br>the Underworld deep underground on their way to recapture the missing criminals.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -285,12 +455,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 13 - A Long Way Home</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 11 - Passionate Trovare</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/4e4d590408034020b2cbacc3864f6fc21332448056_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/421db3c01b21f84716cb5f7fcc686b7c1708447092_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -299,17 +469,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
+<td align="center">2/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-13-a-long-way-home-922178">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-11-passionate-trovare-922208">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsume is possessed by a spirit.  Obsessed with returning home, he remembers the events<br>that occured just after his father's death.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -319,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 12 - The Door of Memories</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 10 - Noble Sadness</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1309a2039825da9c085bf451aa4e7be91331845511_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2e0f081b6f0f4d91dd6c1ec5197f6ca41708446803_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -333,17 +503,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
+<td align="center">2/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-12-the-door-of-memories-922176">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-10-noble-sadness-922206">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsume is going home for the last time, but first he must stop by his<br>relative’s house to get the key.  But he is cautious, as inside is a<br>youkai that tormented Natsume, and a girl that has always resented him.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -353,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 11 - A Single Photo</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 9 - Stranger of the Storm</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/9afe035f904e2f2e6932f349f39f341f1331234663_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cd3ba0df0ba4cb37b32e55aaf9af79c01708446485_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -367,17 +537,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
+<td align="center">2/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-11-a-single-photo-922173">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-9-stranger-of-the-storm-922204">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsume gets a call from a relative: his parents home is being sold.  He<br>tells himself that it doesn't matter, and that he's forgotten his past.  But he's<br>not nearly as over it as he thinks...</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -387,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 10 - The God, Enshrined</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 8 - The Deepest Maze</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/40ff9b17d084190cd78352a155c9a16f1330714586_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d2be5fbcfedcf8bc3a3e330ee501d7c61708446140_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -401,17 +571,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
+<td align="center">2/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-10-the-god-enshrined-922171">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-8-the-deepest-maze-922202">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While being swept down the river, Natsume managed to feel the presences of Hudzuki-gami. <br>Natori must make the choice to follow Natsume instincts or seal Fudzuki-gami.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -421,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 9 - The Moon-Splitting Festival</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 7 - Sea Wind Trifle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6193d0ba64033515bc0e0d6218fbffa91329949016_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/da64429fef25d1e58c1adf5e757e9e3f1708445883_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -435,17 +605,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
+<td align="center">2/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-9-the-moon-splitting-festival-922169">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-7-sea-wind-trifle-922199">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Every 10 years the followers of Houdzuigami and Fudzukigami have a battle to determine the<br>fate of the land.   Natsume is approached by the followers of Houdzukigami to<br>act as their missing god.  Natori has been given the job of finding the<br>missing god or seal Fuduzkigami before he wins.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -455,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 8 - When I Was Deceived</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 6 - Gleaming Anniversaire</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/53a86f7404893db26df2150a0219d1e81329539043_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4352b521b80273dba36beeba720a840d1708445646_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -469,17 +639,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
+<td align="center">2/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-8-when-i-was-deceived-922168">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-6-gleaming-anniversaire-922197">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsume is walking home one day when he's accosted by a flying Tengu, who lifts<br>him up into the sky!  Meanwhile, Nyanko-sensei is stuck in a well, where Nanase<br>tells him a story about how she learned to never get close to a youkai.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -489,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 7 - The Gap Between Humans and Youkai</h3></th>
+<th><h3 align="center">Marginal Prince - Episode 5 - Pure White Memoria</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/bb4430769149ed9a97b33618ac7e42a91328649448_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/6bf84044abca17cfed084f56deb58b7f1708445226_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -503,187 +673,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
+<td align="center">2/20/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-7-the-gap-between-humans-and-youkai-922166">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/marginal-prince/episode-5-pure-white-memoria-922195">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Natsume’s greatest fear has come true.  Someone not involved in the world of youkai<br>is hurt because of him. Natori needs Natsume to regain his composure or they will<br>be eaten by Omibashira!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 6 - The Other Side Of The Glass</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ddc6edf56c767ea31145033b50e730eb1328300832_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-6-the-other-side-of-the-glass-922164">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Natsume overhears whispers that a powerful youkai is reviving, later that evening he is trapped<br>in a bottle as an offering.  Humans can’t see or hear him, so Nyanko-sensei<br>decides to help the “best” way he can…</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 5 - To You, From Bygone Days</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/37596417e51ae0d436a82196559b41741327351556_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-5-to-you-from-bygone-days-922162">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">An old classmate Yuriko, remembers her time watching Natsume and how he was a little<br>weird.  A clingbug from Natsume’s past reminds him of the time he spent running<br>from a youkai with a grudge.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 4 - Stand-In</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/fa2118261ee891c05c96d983bd22e66b1326839695_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-4-stand-in-922160">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Natsume is at home early one evening when he hears a knock on the door.<br> He sees Tohko outside, asking to be let in.  But when he opens<br>the door, there's nobody there, and a gust of wind rushes past.  Another Youkai<br>is after the book of friends!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 3 - The Little Ones</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6f9c613b2ae19c22d991352b1260a91a1326236207_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-3-the-little-ones-922158">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">After Natsume returned Amana’s name, she accused him of stealing her ring.  He has<br>three days to find and return it before she burns down his house.  To<br>make matters worse, the ring is trapped in the hair of a migratory youkai, and<br>Nyanko-sensei is unable to use his powers.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Natsume Yujin-cho 4 (English Dub) - Episode 2 - The Eastern Forest</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a098db445ff69cc40f27ee0f0a8bdf0a1325880586_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">2/19/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/natsume-yujin-cho-4/episode-2-the-eastern-forest-922157">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Natsume, now trapped in the mansion, is trying to keep the Monkey Mask youkai from<br>revealing the Book of Friends to Matoba. While Hinoe and Misuzu attempt to find the<br>strange youkai’s master.</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
