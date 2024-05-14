@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: May 14, 2024, 7:26:52 AM</em></p>
+<p align="center"><em>Updated on: May 14, 2024, 7:10:01 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 5 - Wolf Incarnate and Obedient Lamb</h3></th>
+<th><h3 align="center">Ranking of Kings: The Treasure Chest of Courage (Telugu Dub) - Episode 4 - Immortality and the Three Brothers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/56e2894cdf5edb8b1b4094591ca0e1501714403478_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b040893b39ce23175049f437d9b377e51683216148_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -27,17 +27,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ70E7/wolf-incarnate-and-obedient-lamb">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE04GN/immortality-and-the-three-brothers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence reveals Holo's secret to the manager of Milone Trading Company to gain their help<br>in securing Holo's escape.  For merchants, money comes first, so why has Medio Trading<br>captured Holo at all? Lawrence must outthink politics to save Holo</p>
+<p align="center">Ouken's past is revealed as his desire to become stronger and put an end to<br>his father's cruel reign is recounted. Over the course of the hard-fought war against the<br>Gigantes, the prince distinguishes himself by his conduct, until one fateful day.</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 4 - Romantic Merchant and Moonlit Farewell</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 50 - Beyond the Bounds of Time! A New Legend Begins</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2bf1936737b1e58045c0599e2d5d60711713801713_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/cd4dfb1173605c909b4e6bc52f12852f1715565305_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -61,17 +61,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0G55/romantic-merchant-and-moonlit-farewell">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU079KJ/beyond-the-bounds-of-time-a-new-legend-begins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence has figured out the truth behind the silver scheme, and how to profit from<br>it, but in doing so he has made some dangerous enemies.  Meanwhile, Holo and<br>Lawrence discuss his grand plans for the future.</p>
+<p align="center">Lucemon has reached the Human World.  All hope seems lost... but the power of<br>the 10 Legendary Warriors remains! The final battle to protect both the Human World and<br>Digital World begins now!</p>
 </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 4 - Romantic Merchant and Moonlit Farewell</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 49 - Fight, Susanoomon. Lucemon Arrives in the Human World!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2bf1936737b1e58045c0599e2d5d60711713801713_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/15ab5b86310f0ef3fb497d9767970e771715565186_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -95,17 +95,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU820DQ/romantic-merchant-and-moonlit-farewell">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN817/fight-susanoomon-lucemon-arrives-in-the-human-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Lawrence has figured out the truth behind the silver scheme, and how to profit from<br>it, but in doing so he has made some dangerous enemies.  Meanwhile, Holo and<br>Lawrence discuss his grand plans for the future.</p>
+<p align="center">After a great sacrifice, all the Legendary Spirits combine to form the ultimate warrior: Susanoomon!<br> It's one-on-one as Lucemon tries to go the Human World and conquer it!</p>
 </td>
 </tr>
 </table>
@@ -115,12 +115,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (English Dub) - Episode 5 - The Demon Is Angry</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 48 - Light and Darkness United! Kouichi's Last Wish</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/30f614a5a1b382c69ab26a5e45740f541714403363_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f4077c9f5def33c0d7be69ef846e429b1715565125_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -129,17 +129,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM7XK/the-demon-is-angry">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX102J/light-and-darkness-united-kouichis-last-wish">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Just when it seemed Sylpha was able to overpower the pack of bearwolves, the demon<br>Pazuzu emits a miasma that has the knights collapsing to the ground. Once even Sylpha<br>and Tao are rendered unable to retaliate, Lloyd finally makes his move.</p>
+<p align="center">The Royal Knights are gone, used to help Lucemon evolve and the third moon has<br>been destroyed. Told that "Light and Darkness have to become one", the children head for<br>the Dark Area, where Lucemon resides. But as they head that way, they spot... the<br>Human World?!</p>
 </td>
 </tr>
 </table>
@@ -149,12 +149,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (German Dub) - Episode 3 - Like Qi Techniques and Enchantment Magic</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 47 - The Royal Knights' End. And Then...!!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21e4be88b26bb11c4f9fa797647955231713195790_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/6db5f07ca6dec6da43b1910f990b15781715565068_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -163,17 +163,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M19V/like-qi-techniques-and-enchantment-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EWJ9/the-royal-knights-end-and-then">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Deep within the dungeon lies a demonic lich that has laid many adventurers to rest.<br>After forcing Robert to escape, Tao faces the threat alone, but is overwhelmed by the<br>difference in power. However, just as the lich is about to finish her off...</p>
+<p align="center">The great tyrant, Lucemon, has been revived and the Digital World is gone: only its<br>three moons remain. On the third moon, the children meet the reincarnations of Ofanimon and<br>Cherubimon and reaffirm their mission to save the Digital World. But, when the Royal Knights<br>attack once more...</p>
 </td>
 </tr>
 </table>
@@ -183,12 +183,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (French Dub) - Episode 3 - Like Qi Techniques and Enchantment Magic</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 46 - The End of the Digital World?! Lucemon's Dark Rule</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21e4be88b26bb11c4f9fa797647955231713195790_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c02ee1640e62abe534af36751f136f291715565017_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -197,17 +197,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN897/like-qi-techniques-and-enchantment-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WK3K/the-end-of-the-digital-world-lucemons-dark-rule">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Deep within the dungeon lies a demonic lich that has laid many adventurers to rest.<br>After forcing Robert to escape, Tao faces the threat alone, but is overwhelmed by the<br>difference in power. However, just as the lich is about to finish her off...</p>
+<p align="center">Ofanimon's castle is the last area remaining on the Digital World and the castle's caretaker,<br>Nefertimon, guards all of the knowledge of the Digital World here. As the kids search<br>the castle, they reminsce of their times in the Digital World and the future.</p>
 </td>
 </tr>
 </table>
@@ -217,12 +217,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (Hindi Dub) - Episode 3 - Like Qi Techniques and Enchantment Magic</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 45 - The Data Scrambling Operation! Protect Akiba Market</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21e4be88b26bb11c4f9fa797647955231713195790_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f543194a24a485981e40cdbf71b5f0081715564919_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -231,17 +231,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU079QJ/like-qi-techniques-and-enchantment-magic">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5D9Q/the-data-scrambling-operation-protect-akiba-market">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Deep within the dungeon lies a demonic lich that has laid many adventurers to rest.<br>After forcing Robert to escape, Tao faces the threat alone, but is overwhelmed by the<br>difference in power. However, just as the lich is about to finish her off...</p>
+<p align="center">Akiba Market, within the Ice Area, tries to protect itself from the Royal Knights. <br>The children work with the Digimon to try to scramble the area's data and protect<br>their home from the two villains.</p>
 </td>
 </tr>
 </table>
@@ -251,12 +251,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 17 - Mutation Hazard</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 44 - Fight Together! Gottsumon and Kouji's Oath</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c60eaa59a9464cf03aab5bd4391db2ed1714394494_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8b97c937b5b8a630c90673fa590170661715564901_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -265,17 +265,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EWX9/mutation-hazard">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE04JN/fight-together-gottsumon-and-koujis-oath">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ilumgand was transformed into a monster. Jin and Abelia launch an attack to stop him.<br>However, their attacks have no effect, and they lose their fighting spirit and energy in<br>the face of an enemy stronger than ever.</p>
+<p align="center">Only 3 Areas of the Digital World remain unscanned.  As the Royal Knights go<br>to Seraphimon's castle, Gottsumon and Kouji reunite.  Gottsumon begs to be allowed to help<br>them fight back as everyone works to protect the Forest Area's data!</p>
 </td>
 </tr>
 </table>
@@ -285,12 +285,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 16 - A Certain Student's Secret</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 43 - The Erasure of a Hometown! SkullSatamon, Emissary of Hell</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fe98193952eb7b77822e06b12416f2701713787899_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/387c6a5924252b3b1681a9d305c064291715564766_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -299,17 +299,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE204/a-certain-students-secret">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2Z1K/the-erasure-of-a-hometown-skullsatamon-emissary-of-hell">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the incident with Zara, Makoto decides to join the demons, and after witnessing<br>the fighting tournament, he decides to leave Rotsgard. The next day, Jin and his friends<br>advance to the finals of the team competition and face a team led by Ilumgand.</p>
+<p align="center">The Town of Flame, Bokomon and Neamon's hometown is under attack! SkullSatamon torments the residents<br>to learn where the area's data is hidden as KaiserGreymon and MagnaGarurumon fight back. But<br>their problems are about to multiply...</p>
 </td>
 </tr>
 </table>
@@ -319,12 +319,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 16 - A Certain Student's Secret</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 42 - Protect the DigiEggs! The Vanishing Miracle of Life</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fe98193952eb7b77822e06b12416f2701713787899_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/109e44358b59ce27b606c4ec3413f3341715564706_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -333,17 +333,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5D2Q/a-certain-students-secret">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU820WQ/protect-the-digieggs-the-vanishing-miracle-of-life">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Due to the incident with Zara, Makoto decides to join the demons, and after witnessing<br>the fighting tournament, he decides to leave Rotsgard. The next day, Jin and his friends<br>advance to the finals of the team competition and face a team led by Ilumgand.</p>
+<p align="center">The Town of Beginnings is where all Digimon are born and where DigiEggs are sent<br>to. Swanmon bravely protects the DigiEggs within the town but the Royal Knights now have<br>their sights set on it.</p>
 </td>
 </tr>
 </table>
@@ -353,12 +353,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (English Dub) - Episode 4 - An Unexpected Visitor</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 41 - Don't Let Them Scan It! The Beanstalk of Friendship</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/71425d89dc0b867030c3594e9e19197a1714398242_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/6ed9f72cb5d20303a663d0d661a39d9d1715564648_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -367,17 +367,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE043N/an-unexpected-visitor">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5W1K/dont-let-them-scan-it-the-beanstalk-of-friendship">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Balirossa is disappointed that she was of no help in the Dark Army's attack on<br>Flio and Fenrys. As she's training on her own in the forest to get stronger,<br>a mysterious man approaches and says he's looking for an old friend...</p>
+<p align="center">In Beanstalk Village, the 4 kids recognize the Mamemon as a group they helped when<br>they first got to the Digital World.  Tomoki tries to protect them from the<br>Royal Knights while the others make their way to the village. However, Beanstalk Village has<br>a legend about the beanstalk the children helped plant...</p>
 </td>
 </tr>
 </table>
@@ -387,12 +387,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Portuguese Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 40 - The Destined?! The Boy Who Controls Angemon!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/a00d04c0028c81a07d1e06e39869924a1715564590_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -401,17 +401,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ5Z4/ive-begun-my-life-in-another-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM7JK/the-destined-the-boy-who-controls-angemon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+<p align="center">After being saved by a Trailmon, the kids arrive at the Steel Area to find<br>an Angemon... and four other children!  Tomoki recognizes them as a group that bullied<br>him on the train to the Digital World.  Angemon guards the 4 children on<br>orders from the late Ofanimon, but can he protect them from the Royal Knights?</p>
 </td>
 </tr>
 </table>
@@ -421,12 +421,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (German Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 39 - This is the Digital World?! Escape from the Moon!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e7ac17b39377938941221c4276063db91715564528_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -435,17 +435,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG9Z8/ive-begun-my-life-in-another-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9M45/this-is-the-digital-world-escape-from-the-moon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+<p align="center">An attack from the Royal Knights gravely injured the childen and sent them flying to<br>one of the Digital World's moons!  As they recover, they try multiple plans to<br>try to return to the Digital World as the Royal Knights continue to retrieve more<br>data to hasten Lucemon's revival!</p>
 </td>
 </tr>
 </table>
@@ -455,12 +455,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Tamil Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 38 - The Never-Ending Fight! The Prelude to Lucemon's Revival</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/29ab75f3f98ea9d1a6de61f20bfe1dc21715564470_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -469,17 +469,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0GQ5/ive-begun-my-life-in-another-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN8D7/the-never-ending-fight-the-prelude-to-lucemons-revival">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+<p align="center">Baromon tells the children the true story of the Digital World  which reveals new<br>truths to them.  With Lucemon's revival at hand, the children now face new enforcers:<br>Dynasmon and LordKnightmon of the Royal Knights!</p>
 </td>
 </tr>
 </table>
@@ -489,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Telugu Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 37 - Fight with All Your Lives! Retake the Digital World</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a7dc751d8bc853512cf98a60f3cf1f351715564407_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -503,17 +503,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU8201Q/ive-begun-my-life-in-another-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EW09/fight-with-all-your-lives-retake-the-digital-world">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+<p align="center">A massive fortress appears in the sky - Cherubimon wasn't defeated after all!  An<br>all-out battle begins: Cherubimon vs KaiserGreymon and MagnaGarurumon!</p>
 </td>
 </tr>
 </table>
@@ -523,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (French Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 36 - The Flight to Victory! Battle at Cherubimon's Castle</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/84154bae8dacc20d3587d8a52179188b1715564309_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -537,17 +537,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2Z7K/ive-begun-my-life-in-another-world">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWU2WKGK/the-flight-to-victory-battle-at-cherubimons-castle">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+<p align="center">Combining the Spirits, two new Warriors are born: KaiserGreymon and MagnaGarurumon!  Taking on Cherubimon,<br>they finally seem to have the evil Digimon down for the count. But when another<br>evil Digimon appears, could they be more dangerous than Cherubimon?!</p>
 </td>
 </tr>
 </table>
@@ -557,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The Banished Former Hero Lives as He Pleases - Episode 8 - The Fairy Sovereign</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 35 - Combine the Spirits! Takuya and Kouji's Ultimate Evolution</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fd81842f2969f0141e9a155100c297ba1715625856_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/74b1e4ebe3d3282498cd063dae01f2df1715564286_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -571,17 +571,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82VZP/the-fairy-sovereign">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14U4750V/combine-the-spirits-takuya-and-koujis-ultimate-evolution">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Noelle is bored. She gets permission to go into town, and runs into some other<br>elves. Later, Henriette says she has somewhere she'd like to take them. Meanwhile, the captain<br>of the Black Wolf Knights plots her next move.</p>
+<p align="center">Kouichi, Izumi, Junpei and Tomoki try to free Ofanimon while Takuya and Kouji fight Cherubimon.<br>When Cherubimon claims almost all of the Spirits for himself, Ofanimon will have to put<br>everything on the line to give the children a fighting chance.  Will the Spirits<br>be able to bring forth a miracle?</p>
 </td>
 </tr>
 </table>
@@ -591,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 7 - Scale of God and Sorcerer of the Grasslands</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 34 - Battle at the Rose Star! The Operation to Save Ofanimon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bda25d6732a0d4eab9e7185e2449f2de1715625892_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4e471fa759dce74f6c68e2090cac46b41715564297_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -605,17 +605,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUXPPVQ/scale-of-god-and-sorcerer-of-the-grasslands">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE2G4/battle-at-the-rose-star-the-operation-to-save-ofanimon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">As Cherubimon starts to absorb mass amounts of the Digital World's DigiCode at the Rose<br>Star, Ofanimon tells the children why she called them to the Digital World. But Cherubimon<br>reveals that calling them all to the Rose Star will allow him to claim all<br>the Spirits for himself!</p>
 </td>
 </tr>
 </table>
@@ -625,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability - Episode 7 - I'm Going to Battle Some Assassins</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 33 - A New Warrior of Darkness! Löwemon and KaiserLeomon</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a3c49b57dc69e1070abc771e15a15f6e1715615588_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/a0b32e1fa51019c6ab0b07170b5c6e961715564166_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -639,17 +639,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQVV8J/im-going-to-battle-some-assassins">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU478ZP/a-new-warrior-of-darkness-lwemon-and-kaiserleomon">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The kingdom has been infiltrated by a girl named Ren from the Assassin's Guild.. Upon<br>learning of her special ability as the Poison Blighted, Lloyd tracks her back to her<br>hideout, sneaks in, and is attacked by a group of assassins with unique abilities.</p>
+<p align="center">Kouji and Kouichi try to reconnect with each other as they head towards the Rose<br>Star. But when Cherubimon shows up to battle, the 5 Legendary Warriors are no match<br>for his power.  Will Kouichi have no choice but to accept the powers of<br>Darkness again to fight back against the might of Cherubimon?!</p>
 </td>
 </tr>
 </table>
@@ -659,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Tadaima, Okaeri - Episode 6 - Home Visit</h3></th>
+<th><h3 align="center">Digimon Frontier - Episode 32 - A Past Revealed! Duskmon's Secret</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/90e38d99b90382b9dcaa11bcba100d4e1715606038_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/39ad28dc730ec794b056d0c0f4c120861715564059_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -673,17 +673,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
+<td align="center">5/14/2024</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82VKM/home-visit">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2J134/a-past-revealed-duskmons-secret">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Masaki gathers his courage and brings his family and friends with him to his hometown,<br>but things get awkward when he's confronted by his cousin Kazuhiko.</p>
+<p align="center">Duskmon, now knowing the truth, cannot fight Kouji but Cherubimon preys upon his memories and<br>infuses more darkness into him.  Beowolfmon and Duskmon fight once more, but when the<br>Warrior of Light wins and he scans Duskmon...</p>
 </td>
 </tr>
 </table>
