@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: May 13, 2024, 7:09:57 PM</em></p>
+<p align="center"><em>Updated on: May 14, 2024, 7:26:52 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II (Spanish Dub) - Episode 8</h3></th>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (English Dub) - Episode 5 - Wolf Incarnate and Obedient Lamb</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d731c5f744b19674e38ea86aa66f82fa1715566042_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/56e2894cdf5edb8b1b4094591ca0e1501714403478_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -31,7 +31,585 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX19J9">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ70E7/wolf-incarnate-and-obedient-lamb">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Lawrence reveals Holo's secret to the manager of Milone Trading Company to gain their help<br>in securing Holo's escape.  For merchants, money comes first, so why has Medio Trading<br>captured Holo at all? Lawrence must outthink politics to save Holo</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (German Dub) - Episode 4 - Romantic Merchant and Moonlit Farewell</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2bf1936737b1e58045c0599e2d5d60711713801713_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0G55/romantic-merchant-and-moonlit-farewell">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Lawrence has figured out the truth behind the silver scheme, and how to profit from<br>it, but in doing so he has made some dangerous enemies.  Meanwhile, Holo and<br>Lawrence discuss his grand plans for the future.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF (French Dub) - Episode 4 - Romantic Merchant and Moonlit Farewell</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/2bf1936737b1e58045c0599e2d5d60711713801713_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU820DQ/romantic-merchant-and-moonlit-farewell">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Lawrence has figured out the truth behind the silver scheme, and how to profit from<br>it, but in doing so he has made some dangerous enemies.  Meanwhile, Holo and<br>Lawrence discuss his grand plans for the future.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (English Dub) - Episode 5 - The Demon Is Angry</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/30f614a5a1b382c69ab26a5e45740f541714403363_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UVM7XK/the-demon-is-angry">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Just when it seemed Sylpha was able to overpower the pack of bearwolves, the demon<br>Pazuzu emits a miasma that has the knights collapsing to the ground. Once even Sylpha<br>and Tao are rendered unable to retaliate, Lloyd finally makes his move.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (German Dub) - Episode 3 - Like Qi Techniques and Enchantment Magic</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21e4be88b26bb11c4f9fa797647955231713195790_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M19V/like-qi-techniques-and-enchantment-magic">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Deep within the dungeon lies a demonic lich that has laid many adventurers to rest.<br>After forcing Robert to escape, Tao faces the threat alone, but is overwhelmed by the<br>difference in power. However, just as the lich is about to finish her off...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (French Dub) - Episode 3 - Like Qi Techniques and Enchantment Magic</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21e4be88b26bb11c4f9fa797647955231713195790_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN897/like-qi-techniques-and-enchantment-magic">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Deep within the dungeon lies a demonic lich that has laid many adventurers to rest.<br>After forcing Robert to escape, Tao faces the threat alone, but is overwhelmed by the<br>difference in power. However, just as the lich is about to finish her off...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability (Hindi Dub) - Episode 3 - Like Qi Techniques and Enchantment Magic</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/21e4be88b26bb11c4f9fa797647955231713195790_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XU079QJ/like-qi-techniques-and-enchantment-magic">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Deep within the dungeon lies a demonic lich that has laid many adventurers to rest.<br>After forcing Robert to escape, Tao faces the threat alone, but is overwhelmed by the<br>difference in power. However, just as the lich is about to finish her off...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (English Dub) - Episode 17 - Mutation Hazard</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/c60eaa59a9464cf03aab5bd4391db2ed1714394494_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EWX9/mutation-hazard">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Ilumgand was transformed into a monster. Jin and Abelia launch an attack to stop him.<br>However, their attacks have no effect, and they lose their fighting spirit and energy in<br>the face of an enemy stronger than ever.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Portuguese Dub) - Episode 16 - A Certain Student's Secret</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fe98193952eb7b77822e06b12416f2701713787899_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE204/a-certain-students-secret">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Due to the incident with Zara, Makoto decides to join the demons, and after witnessing<br>the fighting tournament, he decides to leave Rotsgard. The next day, Jin and his friends<br>advance to the finals of the team competition and face a team led by Ilumgand.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">TSUKIMICHI -Moonlit Fantasy- Season 2 (Spanish Dub) - Episode 16 - A Certain Student's Secret</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/fe98193952eb7b77822e06b12416f2701713787899_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQ5D2Q/a-certain-students-secret">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Due to the incident with Zara, Makoto decides to join the demons, and after witnessing<br>the fighting tournament, he decides to leave Rotsgard. The next day, Jin and his friends<br>advance to the finals of the team competition and face a team led by Ilumgand.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (English Dub) - Episode 4 - An Unexpected Visitor</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/71425d89dc0b867030c3594e9e19197a1714398242_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE043N/an-unexpected-visitor">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Balirossa is disappointed that she was of no help in the Dark Army's attack on<br>Flio and Fenrys. As she's training on her own in the forest to get stronger,<br>a mysterious man approaches and says he's looking for an old friend...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Portuguese Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WUNJ5Z4/ive-begun-my-life-in-another-world">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (German Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UVG9Z8/ive-begun-my-life-in-another-world">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Tamil Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UZ0GQ5/ive-begun-my-life-in-another-world">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (Telugu Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU8201Q/ive-begun-my-life-in-another-world">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Chillin’ in Another World with Level 2 Super Cheat Powers (French Dub) - Episode 3 - I've Begun My Life in Another World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8e5edc8932e980f0e1dbd303a207d3be1713792058_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2Z7K/ive-begun-my-life-in-another-world">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">With Fenrys as his wife, Flio begins his new life in this new world. Balirossa<br>and three of her fellow knights end up living with them, as well. Life is<br>peaceful for Flio and his new companions, but a dark figure is watching them from<br>the shadows...</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">The Banished Former Hero Lives as He Pleases - Episode 8 - The Fairy Sovereign</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fd81842f2969f0141e9a155100c297ba1715625856_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82VZP/the-fairy-sovereign">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Noelle is bored. She gets permission to go into town, and runs into some other<br>elves. Later, Henriette says she has somewhere she'd like to take them. Meanwhile, the captain<br>of the Black Wolf Knights plots her next move.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Episode 7 - Scale of God and Sorcerer of the Grasslands</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bda25d6732a0d4eab9e7185e2449f2de1715625892_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">5/13/2024</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUXPPVQ/scale-of-god-and-sorcerer-of-the-grasslands">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
@@ -47,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II (Portuguese Dub) - Episode 8</h3></th>
+<th><h3 align="center">I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability - Episode 7 - I'm Going to Battle Some Assassins</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d98860cfee8afe5a8cccad33188914531715565647_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a3c49b57dc69e1070abc771e15a15f6e1715615588_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -65,13 +643,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82VNP">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUQVV8J/im-going-to-battle-some-assassins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">The kingdom has been infiltrated by a girl named Ren from the Assassin's Guild.. Upon<br>learning of her special ability as the Poison Blighted, Lloyd tracks her back to her<br>hideout, sneaks in, and is attacked by a group of assassins with unique abilities.</p>
 </td>
 </tr>
 </table>
@@ -81,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II - Episode 8 - Andromeda’s Sacrifice</h3></th>
+<th><h3 align="center">Tadaima, Okaeri - Episode 6 - Home Visit</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/894b489e4af31bfe5ef5dcbd43c74a4c1715548932_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/90e38d99b90382b9dcaa11bcba100d4e1715606038_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -99,591 +677,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0MN3X/andromedas-sacrifice">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82VKM/home-visit">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the House of Pisces, Andromeda Shaun continues her life-and-death battle against her master’s killer,<br>Gold Knight Aphrodite. In the midst of the struggle, Shaun flashes back to the events<br>in her past that molded her and made her who she is.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">SAINT SEIYA: Knights of the Zodiac Battle for Sanctuary Part II (Japanese Audio) - Episode 8 - Andromeda’s Sacrifice</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/36ff9670dda2e0e3606a9207b2b703931715548990_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/13/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2GV4/andromedas-sacrifice">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">In the House of Pisces, Andromeda Shaun continues her life-and-death battle against her master’s killer,<br>Gold Knight Aphrodite. In the midst of the struggle, Shaun flashes back to the events<br>in her past that molded her and made her who she is.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Vampire Dormitory (English Dub) - Episode 4 - Love 4. The pretty boy becomes friends.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/510adef5448af57e411875a58af7875d1714311045_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX104V/love-4-the-pretty-boy-becomes-friends">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ruka must find his "destined partner," but he finds himself still attracted to Mito. To<br>suppress his feelings, Ruka suggests that Mito get a girlfriend. At a mixer, Mito gets<br>approached by a beautiful lady and gets an unexpected confession, but...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Vampire Dormitory (Hindi Dub) - Episode 3 - Love 3. The pretty boy stays over.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/29692ec53eefaf94578cc4823fe03e341713705111_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EW41/love-3-the-pretty-boy-stays-over">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Takara and Juri invite Mito to go on a glamping trip. Not having been on<br>one, Mito is thrilled to go. Ruka, on the other hand, continues to struggle with<br>strange feelings for Mito. With Ren showing up at the campgrounds, it becomes one unsettling<br>night!</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (English Dub) - Episode 28 - The Duke, Alice, and Sade's Love</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4d157f7257b1ff1bcea11591d424669b1714311013_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14U475EW/the-duke-alice-and-sades-love">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Duke and Alice get a very unexpected pair of visitors at the mansion.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (Portuguese Dub) - Episode 27 - The Duke, Alice, and Mother and Mother</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1914be7212110db90ab8e3e6757f963a1713705080_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUZ70G5/the-duke-alice-and-mother-and-mother">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Duke catches a cold, and Alice's mother reunites with the Duke's mother after years<br>of separation.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The Duke of Death and His Maid Season 3 (Spanish Dub) - Episode 27 - The Duke, Alice, and Mother and Mother</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/1914be7212110db90ab8e3e6757f963a1713705080_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9UQE277/the-duke-alice-and-mother-and-mother">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The Duke catches a cold, and Alice's mother reunites with the Duke's mother after years<br>of separation.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World (German Dub) - Episode 3 - Answer</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ad85e5c26e218c976a5589ee51d65d5e1713711496_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUN2Z0V/answer">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Ars has discovered someone with an extraordinary talent for magic, just as he'd hoped. The<br>hitch is that she has no interest whatsoever in serving him. Can Ars win her<br>over, much less help her out of the terrible predicament she's in?</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (English Dub) - Episode 16 - Norn and Aisha</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/798a5c55bd86d3d3f1fb5bcbc0b65c2a1714311193_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5W9G/norn-and-aisha">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rudeus's sisters arrive with an unexpected chaperone. After catching up with an old friend, Rudeus<br>decides it's time to send the girls to school. But convincing Norn and Aisha turns<br>out to be more trouble than he bargained for.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Portuguese Dub) - Episode 15 - Afar</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3996fe9e0dc0454c552d7a5ec46385921713712680_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UDM0WE/afar">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rudeus receives a letter from Paul. The letter explains that Norn and Aisha, Rudeus's younger<br>sisters, have been sent to join Rudeus. Meanwhile Nanahoshi continues her research into summoning magic<br>for a way to return to her original world.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (German Dub) - Episode 15 - Afar</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3996fe9e0dc0454c552d7a5ec46385921713712680_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9U3EW81/afar">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rudeus receives a letter from Paul. The letter explains that Norn and Aisha, Rudeus's younger<br>sisters, have been sent to join Rudeus. Meanwhile Nanahoshi continues her research into summoning magic<br>for a way to return to her original world.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Spanish Dub) - Episode 15 - Afar</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3996fe9e0dc0454c552d7a5ec46385921713712680_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUX105V/afar">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rudeus receives a letter from Paul. The letter explains that Norn and Aisha, Rudeus's younger<br>sisters, have been sent to join Rudeus. Meanwhile Nanahoshi continues her research into summoning magic<br>for a way to return to her original world.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Italian Dub) - Episode 15 - Afar</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3996fe9e0dc0454c552d7a5ec46385921713712680_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU0M1P4/afar">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rudeus receives a letter from Paul. The letter explains that Norn and Aisha, Rudeus's younger<br>sisters, have been sent to join Rudeus. Meanwhile Nanahoshi continues her research into summoning magic<br>for a way to return to her original world.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (Castilian Dub) - Episode 15 - Afar</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3996fe9e0dc0454c552d7a5ec46385921713712680_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UXN87W/afar">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rudeus receives a letter from Paul. The letter explains that Norn and Aisha, Rudeus's younger<br>sisters, have been sent to join Rudeus. Meanwhile Nanahoshi continues her research into summoning magic<br>for a way to return to her original world.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 (French Dub) - Episode 15 - Afar</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3996fe9e0dc0454c552d7a5ec46385921713712680_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWUK9M0V/afar">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Rudeus receives a letter from Paul. The letter explains that Norn and Aisha, Rudeus's younger<br>sisters, have been sent to join Rudeus. Meanwhile Nanahoshi continues her research into summoning magic<br>for a way to return to her original world.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Demon Slayer: Kimetsu no Yaiba Hashira Training Arc - Episode 1 - To Defeat Muzan Kibutsuji</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/e1d8ccfc15ca27c76720a1a9a7c5688d1715535130_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUG5WZ5/to-defeat-muzan-kibutsuji">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center"></p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Mushoku Tensei: Jobless Reincarnation Season 2 - Episode 18 - Turning Point 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/7c1f508d81ceff0428474dd6b1b2391a1715526458_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU82V9M/turning-point-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Life is looking up for Rudeus. His sisters are settling in, and he has plenty<br>of time for friends and family... until an announcement from Sylphie and an unexpected letter<br>upend his idyllic school life.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World - Episode 6 - The Face of a Warrior</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e4c12c1cae1b58dc7e366b4bb592160c1715523434_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/12/2024</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DUE0Z9J/the-face-of-a-warrior">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Raven's condition takes a turn for the worse as the worst comes to pass politically.<br>The governor has been assassinated, meaning the local lords must now brace for war. Can<br>Ars lead House Louvent in his ailing father's stead?</p>
+<p align="center">Masaki gathers his courage and brings his family and friends with him to his hometown,<br>but things get awkward when he's confronted by his cousin Kazuhiko.</p>
 </td>
 </tr>
 </table>
