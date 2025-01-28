@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 27, 2025, 7:13:17 PM</em></p>
+<p align="center"><em>Updated on: Jan 28, 2025, 7:34:32 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -12,6 +12,414 @@
     <img align="center" src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/svg/738176371/badge.svg"> 
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
+<tr>
+<th><h3 align="center">Natsume's Book of Friends Season 7 (English Dub) - Episode 12 - From the Path of Dreams</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fbb405085d2f2e4d56e3491c2f8088a31734964676_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ3JK/from-the-path-of-dreams">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Natsume takes in a strange origami doll that shows wonderful dreams.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Portuguese Dub) - Episode 11 - Charging Emotions</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1eabf6f1fd83e1f3b8d65d019e8f79571735567613_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NXN9/charging-emotions">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the party pushes deeper into the labyrnth and reach an area where all of<br>the icy walls are reflective, like a mirror. The mind games begin, and Kouki is<br>the first to fall prey to the labyrinth's tricks.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (Spanish Dub) - Episode 11 - Charging Emotions</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1eabf6f1fd83e1f3b8d65d019e8f79571735567613_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MDM2/charging-emotions">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the party pushes deeper into the labyrnth and reach an area where all of<br>the icy walls are reflective, like a mirror. The mind games begin, and Kouki is<br>the first to fall prey to the labyrinth's tricks.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 (English Dub) - Episode 11 - Charging Emotions</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/1eabf6f1fd83e1f3b8d65d019e8f79571735567613_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0304/charging-emotions">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">As the party pushes deeper into the labyrnth and reach an area where all of<br>the icy walls are reflective, like a mirror. The mind games begin, and Kouki is<br>the first to fall prey to the labyrinth's tricks.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Medaka Kuroiwa is Impervious to My Charms (English Dub) - Episode 2 - In Love with Him</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f66c909e088e921a28f3b45507deb53a1736784659_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3P3Q/in-love-with-him">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mona continues her attempts to charm Medaka, but she suddenly realizes that she might have<br>competition?</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Headhunted to Another World: From Salaryman to Big Four! (English Dub) - Episode 3 - Now I Understand! Elite General Communication</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/d61a3f934280eadfadd9a21ba3af42801736780494_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7M9V2/now-i-understand-elite-general-communication">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Dennosuke now has the help of Olulu, the daughter of the leader of the ogre<br>clan. This fact greatly annoys Ulmandra, who tries to get close to our protagonist with<br>little success.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Headhunted to Another World: From Salaryman to Big Four! (English Dub) - Episode 2 - The Art of Negotiation in Captivating a Stubborn Tribal Chief</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/c070bb938a5d393551deb0d4dbeee0b41736174839_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMN2KV/the-art-of-negotiation-in-captivating-a-stubborn-tribal-chief">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hired as an Elite General, Dennosuke’s first task is to negotiate a merger with the<br>leader of the resource starved Ogre Tribe. Despite their suffering and the Ogre leader's stubbornness,<br>Dennosuke works to find a way forward for the Demon lord's army.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic - Episode 5 - Liam Tries Getting Engaged to the Princess</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/42e1d393401cca0dadf4c306e17359fd1737997941_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNK0KN/liam-tries-getting-engaged-to-the-princess">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Laim and the elves continue building their village in the Promised Land, which attracts the<br>attention of monsters and humans alike.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Medaka Kuroiwa is Impervious to My Charms - Episode 4 - Legend with Him</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/7190d43685c5a4f29a93e97d38b74ff81737996059_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3M21D/legend-with-him">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Mona and Medaka find themselves at the Bridge of Love, the location of the school<br>festival legend.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Arifureta: From Commonplace to World's Strongest Season 3 - Episode 13 - Thank God She's Still a Pervert!</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/a3f81104edff4127f15c13eb70d6db061737993396_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQN5JZ/thank-god-shes-still-a-pervert">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Hajime rescues Shizuku in the nick of time, just as she was about to succumb<br>to the labyrinth's trial. Suzu, Ryutarou and Tio also face their own tests.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Headhunted to Another World: From Salaryman to Big Four! - Episode 5 - The Best Way to Enjoy a Stroll Through the Marketplace in Another World</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/1309d550efe9a6bec10121d3ba7895f41737984638_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0MNJ/the-best-way-to-enjoy-a-stroll-through-the-marketplace-in-another-world">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Having done so much under the Overlord's direct orders, Dennosuke now feels he must step<br>up his game by becoming proactive. He decides to make a bold move by researching<br>the marketplace with Ulmandra, hoping to find a hint to make the army even greater.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<th><h3 align="center">Promise of Wizard - Episode 4 - The Unknown, Fear, and Mutual Prosperity</h3></th>
+</tr>
+<tr>
+<td>
+<p align="center">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0ba9202b01d073f8fda90228810898b01737984499_thumb.jpg" height="256">
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<table align="center">
+<tr>
+<td>📔 Publish Date :</td>
+<td align="center">1/27/2025</td>
+</tr>
+<tr>
+<td>📕 Link :</td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8J89D/the-unknown-fear-and-mutual-prosperity">Anime Information</a></td>
+</tr>
+<tr>
+<td colspan="2">📙 Description :</td></tr>
+<tr>
+<td colspan="2">
+<p align="center">Akira and the wizards meet the new wizards that Akira successfully summoned.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table align="center">
 <tr>
 <th><h3 align="center">Toilet-bound Hanako-kun 2 (English Dub) - Episode 1 - Hanako-kun of the Bathroom</h3></th>
 </tr>
@@ -276,414 +684,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Viole (Bam), Khun, and Rak, who once thought each other dead, are reunited. Khun’s team<br>makes an enemy of FUG and the Workshop, but at the suggestion of former 2nd<br>Floor Test Admin Lero Ro, who has been secretly working to help Viole escape, they<br>decide to leave the arena with the losers before the final begins. Reflejo uses the<br>dying Hwaryun as a hostage to force Viole into a final confrontation.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Tower of God Season 2 (French Dub) - Episode 24 - The Cost of Battle</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9ce0ebb3f03a977a75ab50339a1b40331734265619_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ87N/the-cost-of-battle">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Viole (Bam), Khun, and Rak, who once thought each other dead, are reunited. Khun’s team<br>makes an enemy of FUG and the Workshop, but at the suggestion of former 2nd<br>Floor Test Admin Lero Ro, who has been secretly working to help Viole escape, they<br>decide to leave the arena with the losers before the final begins. Reflejo uses the<br>dying Hwaryun as a hostage to force Viole into a final confrontation.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 14 - Episode 4 - The Nightjar's Nest</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4bb23167e6fdde3176cac05667136d831737924317_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEMEW4/the-nightjars-nest">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">This is the story of a man who is searching for his missing sister.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2 (English Dub) - Episode 13 - Her Name.</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/65fe1848d11c9642e659a261007253571736681514_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWQ29/her-name">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Season 2 begins, and the gap between the seasons means the girlfriends are immediately faced<br>with a crisis. Rentaro, meanwhile, happens to run into a very hungry girl...</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (French Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32K10/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Italian Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NWM1/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Hindi Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MNWG/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Tamil Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW0PV9/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Telugu Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJ81N/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (German Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XD7M/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Portuguese Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8JW9J/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (Spanish Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN1Z7V/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Shangri-La Frontier Season 2 (English Dub) - Episode 38 - Embrace the Lamplight of Ambition, Part 3</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/85861f999216f9f6b2e41b08213695d41736056036_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">1/26/2025</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNJ08/embrace-the-lamplight-of-ambition-part-3">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">The battle between Sunraku, Psyger-0, and Lycagon continues! But just as the Colossus seems poised<br>to dominate, a new ally joins the fray.</p>
 </td>
 </tr>
 </table>
