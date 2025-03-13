@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Mar 12, 2025, 7:13:35 PM</em></p>
+<p align="center"><em>Updated on: Mar 13, 2025, 7:37:10 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Hindi Dub) - Episode 13 - GOD/GOD</h3></th>
+<th><h3 align="center">Honey Lemon Soda (English Dub) - Episode 8 - Summon the Courage</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6933fed9a1aed4787ad8f3f08853c271601284886_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/212e1c09dc672d6b984d4a4435bd86071740592509_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32E8N/godgod">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX59DK/summon-the-courage">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The god that appeared over the arena has been shot down by Jaesan's technique. Mori<br>and the rest have fallen into a huge cave, where they battle against Jegal, who<br>has transformed into a god after absorbing the Key. Mori, Daewi, and Mira face him<br>together, but their attacks don't even reach him, and Daewi is severely wounded protecting Mori<br>from Jegal's vicious onslaught. As the situation grows desperate, a memory that had remained dormant<br>in Mori's mind all this time reawakens...</p>
+<p align="center">It's summer break! Uka, Serina, and Kai all summon their courage and communicate.</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Tamil Dub) - Episode 13 - GOD/GOD</h3></th>
+<th><h3 align="center">Honey Lemon Soda (German Dub) - Episode 7 - I’m Sorry I Love Him</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6933fed9a1aed4787ad8f3f08853c271601284886_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/894f013c07c78b0598102691a5877f411739985224_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -65,13 +65,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJDZJ/godgod">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ73J1/im-sorry-i-love-him">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The god that appeared over the arena has been shot down by Jaesan's technique. Mori<br>and the rest have fallen into a huge cave, where they battle against Jegal, who<br>has transformed into a god after absorbing the Key. Mori, Daewi, and Mira face him<br>together, but their attacks don't even reach him, and Daewi is severely wounded protecting Mori<br>from Jegal's vicious onslaught. As the situation grows desperate, a memory that had remained dormant<br>in Mori's mind all this time reawakens...</p>
+<p align="center">Uka and Serina struggle to open up about their feelings. Can they figure it out<br>over summer break?</p>
 </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Telugu Dub) - Episode 13 - GOD/GOD</h3></th>
+<th><h3 align="center">Honey Lemon Soda (French Dub) - Episode 7 - I’m Sorry I Love Him</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/b6933fed9a1aed4787ad8f3f08853c271601284886_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/894f013c07c78b0598102691a5877f411739985224_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -99,13 +99,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWPV8/godgod">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKEWD/im-sorry-i-love-him">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The god that appeared over the arena has been shot down by Jaesan's technique. Mori<br>and the rest have fallen into a huge cave, where they battle against Jegal, who<br>has transformed into a god after absorbing the Key. Mori, Daewi, and Mira face him<br>together, but their attacks don't even reach him, and Daewi is severely wounded protecting Mori<br>from Jegal's vicious onslaught. As the situation grows desperate, a memory that had remained dormant<br>in Mori's mind all this time reawakens...</p>
+<p align="center">Uka and Serina struggle to open up about their feelings. Can they figure it out<br>over summer break?</p>
 </td>
 </tr>
 </table>
@@ -115,12 +115,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Hindi Dub) - Episode 12 - FOX/GOD</h3></th>
+<th><h3 align="center">Ameku M.D.: Doctor Detective (English Dub) - Episode 8 - The Night When the Angels Danced [Part 1]</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/71b76c4cc7d5e206653a9fa9b489661a1600686696_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/f0861734703e72da718ff7b34d0f81df1740588671_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -133,13 +133,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3M00/foxgod">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UVJDXJ/the-night-when-the-angels-danced-part-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ilpyo mercilessly beats down Jegal. Just as he's about to deal the finishing blow, Ilpyo<br>sprouts tentacles and ensnares him. With the charyeok Greed, Jegal unleashes the charyeok powers of<br>the others he's absorbed and turns their incredible powers upon Ilpyo. As their battle rages,<br>something changes in the sky over the arena, and it is soon filled with a<br>sword-wielding God and his many followers...</p>
+<p align="center">Several hospital staff report an angel in one room, and a pediatrician asks Takao for<br>help with three children.</p>
 </td>
 </tr>
 </table>
@@ -149,12 +149,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Tamil Dub) - Episode 12 - FOX/GOD</h3></th>
+<th><h3 align="center">Ameku M.D.: Doctor Detective (Hindi Dub) - Episode 7 - Prescribed Poison</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/71b76c4cc7d5e206653a9fa9b489661a1600686696_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/cd3ee2da9b767c9a6c1aba503ff23b621739985174_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -167,13 +167,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MX2E/foxgod">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MXDE/prescribed-poison">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ilpyo mercilessly beats down Jegal. Just as he's about to deal the finishing blow, Ilpyo<br>sprouts tentacles and ensnares him. With the charyeok Greed, Jegal unleashes the charyeok powers of<br>the others he's absorbed and turns their incredible powers upon Ilpyo. As their battle rages,<br>something changes in the sky over the arena, and it is soon filled with a<br>sword-wielding God and his many followers...</p>
+<p align="center">Takao gets sued for malpractice! The hospital director uses the lawsuit to push for the<br>disbandment of the Department of Investigative Pathology.</p>
 </td>
 </tr>
 </table>
@@ -183,12 +183,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Telugu Dub) - Episode 12 - FOX/GOD</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (English Dub) - Episode 62 - Regulus Corneas</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/71b76c4cc7d5e206653a9fa9b489661a1600686696_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/634f2ad40c42003fce6508fb53a78bfb1740581769_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -201,13 +201,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8XE3G/foxgod">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32E5M/regulus-corneas">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Ilpyo mercilessly beats down Jegal. Just as he's about to deal the finishing blow, Ilpyo<br>sprouts tentacles and ensnares him. With the charyeok Greed, Jegal unleashes the charyeok powers of<br>the others he's absorbed and turns their incredible powers upon Ilpyo. As their battle rages,<br>something changes in the sky over the arena, and it is soon filled with a<br>sword-wielding God and his many followers...</p>
+<p align="center">Emilia seeks the aid of Regulus's wives in dethroning the little king once and for<br>all.</p>
 </td>
 </tr>
 </table>
@@ -217,12 +217,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Hindi Dub) - Episode 11 - lay/key</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Portuguese Dub) - Episode 61 - Liliana Masquerade</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1ecff5b4f181e5e7e9cdec2874902baa1600079975_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/91ef6ee682753de8b267c1cd538a6e6d1739974148_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -235,13 +235,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWPZM/laykey">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3K7X/liliana-masquerade">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In his battle with Mori, Ilpyo unleashes the charyeok Nine-Tails and awakens as the Key.<br>Mori uses his Blue Dragon Tempest, but Ilpyo stops it easily. The difference in strength<br>between them seems clear, but then, energy suddenly surges forth from Mori's body...</p>
+<p align="center">Liliana gives the performance of her lifetime to help Priscilla defeat the Sin Archbishop of<br>Wrath.</p>
 </td>
 </tr>
 </table>
@@ -251,12 +251,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Tamil Dub) - Episode 11 - lay/key</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (German Dub) - Episode 61 - Liliana Masquerade</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1ecff5b4f181e5e7e9cdec2874902baa1600079975_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/91ef6ee682753de8b267c1cd538a6e6d1739974148_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -269,13 +269,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32E8M/laykey">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZKND/liliana-masquerade">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In his battle with Mori, Ilpyo unleashes the charyeok Nine-Tails and awakens as the Key.<br>Mori uses his Blue Dragon Tempest, but Ilpyo stops it easily. The difference in strength<br>between them seems clear, but then, energy suddenly surges forth from Mori's body...</p>
+<p align="center">Liliana gives the performance of her lifetime to help Priscilla defeat the Sin Archbishop of<br>Wrath.</p>
 </td>
 </tr>
 </table>
@@ -285,12 +285,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Telugu Dub) - Episode 11 - lay/key</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (French Dub) - Episode 61 - Liliana Masquerade</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1ecff5b4f181e5e7e9cdec2874902baa1600079975_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/91ef6ee682753de8b267c1cd538a6e6d1739974148_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -303,13 +303,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEM2N0/laykey">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUM0JDP/liliana-masquerade">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In his battle with Mori, Ilpyo unleashes the charyeok Nine-Tails and awakens as the Key.<br>Mori uses his Blue Dragon Tempest, but Ilpyo stops it easily. The difference in strength<br>between them seems clear, but then, energy suddenly surges forth from Mori's body...</p>
+<p align="center">Liliana gives the performance of her lifetime to help Priscilla defeat the Sin Archbishop of<br>Wrath.</p>
 </td>
 </tr>
 </table>
@@ -319,12 +319,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Hindi Dub) - Episode 10 - oath/meaning</h3></th>
+<th><h3 align="center">Re:ZERO -Starting Life in Another World- Season 3 (Spanish Dub) - Episode 61 - Liliana Masquerade</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ab70a4f7465df13aa314a965424035681599468091_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/91ef6ee682753de8b267c1cd538a6e6d1739974148_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -337,13 +337,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX5912/oathmeaning">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU7MX9X/liliana-masquerade">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When he learns of Nox's existence and their role in Jin Taiejin's confinement, Mori swears<br>to win the tournament and save him. But his opponent, Ilpyo, also has a good<br>reason why he can't afford to lose. Four years ago, Seungah's sister and Ilpyo's cousin,<br>Seungyeon, had her leg broken by Jegal and had to give up martial arts for<br>good, and Ilpyo has made up his mind to become cold-hearted for her sake. Meanwhile,<br>Paylong, whose attack on Mori failed, is eliminated... as Jegal wears a cruel smile.</p>
+<p align="center">Liliana gives the performance of her lifetime to help Priscilla defeat the Sin Archbishop of<br>Wrath.</p>
 </td>
 </tr>
 </table>
@@ -353,12 +353,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Tamil Dub) - Episode 10 - oath/meaning</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Portuguese Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ab70a4f7465df13aa314a965424035681599468091_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -371,13 +371,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMWPZ8/oathmeaning">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUW3M5N/lets-choose-a-party-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When he learns of Nox's existence and their role in Jin Taiejin's confinement, Mori swears<br>to win the tournament and save him. But his opponent, Ilpyo, also has a good<br>reason why he can't afford to lose. Four years ago, Seungah's sister and Ilpyo's cousin,<br>Seungyeon, had her leg broken by Jegal and had to give up martial arts for<br>good, and Ilpyo has made up his mind to become cold-hearted for her sake. Meanwhile,<br>Paylong, whose attack on Mori failed, is eliminated... as Jegal wears a cruel smile.</p>
+<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
 </td>
 </tr>
 </table>
@@ -387,12 +387,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Telugu Dub) - Episode 10 - oath/meaning</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (German Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/ab70a4f7465df13aa314a965424035681599468091_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -405,13 +405,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2J9G/oathmeaning">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU32EKM/lets-choose-a-party-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When he learns of Nox's existence and their role in Jin Taiejin's confinement, Mori swears<br>to win the tournament and save him. But his opponent, Ilpyo, also has a good<br>reason why he can't afford to lose. Four years ago, Seungah's sister and Ilpyo's cousin,<br>Seungyeon, had her leg broken by Jegal and had to give up martial arts for<br>good, and Ilpyo has made up his mind to become cold-hearted for her sake. Meanwhile,<br>Paylong, whose attack on Mori failed, is eliminated... as Jegal wears a cruel smile.</p>
+<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
 </td>
 </tr>
 </table>
@@ -421,12 +421,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Hindi Dub) - Episode 9 - curse/cornered</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Spanish Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/eea08b4928ad4ee34c64be921a5215931598871758_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -439,13 +439,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEZKEM/cursecornered">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9NJWM/lets-choose-a-party-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After learning that his grandfather, Jin Taejin, has been confined, Mori rushes to set him<br>free. Daewi and Mira await his arrival at the tournament with no idea what's going<br>on. With Mori missing and Daewi suspended, Mira is forced to kick of the team<br>match alone. She struggles against her opponent, Marin, who evades her attacks and counters with<br>her own sword. When he calls it a National Treasure, it begins to glow white,<br>and its true form is revealed...</p>
+<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
 </td>
 </tr>
 </table>
@@ -455,12 +455,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Tamil Dub) - Episode 9 - curse/cornered</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Hindi Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/eea08b4928ad4ee34c64be921a5215931598871758_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -473,13 +473,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMNPG9/cursecornered">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MXNE/lets-choose-a-party-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After learning that his grandfather, Jin Taejin, has been confined, Mori rushes to set him<br>free. Daewi and Mira await his arrival at the tournament with no idea what's going<br>on. With Mori missing and Daewi suspended, Mira is forced to kick of the team<br>match alone. She struggles against her opponent, Marin, who evades her attacks and counters with<br>her own sword. When he calls it a National Treasure, it begins to glow white,<br>and its true form is revealed...</p>
+<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
 </td>
 </tr>
 </table>
@@ -489,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Telugu Dub) - Episode 9 - curse/cornered</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Tamil Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/eea08b4928ad4ee34c64be921a5215931598871758_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -507,13 +507,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW09GK/cursecornered">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUW093K/lets-choose-a-party-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After learning that his grandfather, Jin Taejin, has been confined, Mori rushes to set him<br>free. Daewi and Mira await his arrival at the tournament with no idea what's going<br>on. With Mori missing and Daewi suspended, Mira is forced to kick of the team<br>match alone. She struggles against her opponent, Marin, who evades her attacks and counters with<br>her own sword. When he calls it a National Treasure, it begins to glow white,<br>and its true form is revealed...</p>
+<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
 </td>
 </tr>
 </table>
@@ -523,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Hindi Dub) - Episode 8 - close/friend</h3></th>
+<th><h3 align="center">Possibly the Greatest Alchemist of All Time (Telugu Dub) - Episode 8 - Let's Choose a Party Name!</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f46f1d1a3fbc1e3466d84e50918ece0a1598249376_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3bfb09b545c36f2ae12fa5f2e6b8bfdc1739977583_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -541,13 +541,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD3KDE/closefriend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ73M1/lets-choose-a-party-name">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The team led by Park Ilpyo, one of the participants considered a top Key candidate,<br>faces the team led by Gwim Gi. Gwim Gi calls upon his charyeok, Jack the<br>Ripper, but Ilpyo uses his antiquated taekkyon fighting style rather than relying on charyeok. Meanwhile,<br>Daewi is suspended from the competition after interfering  in a match and hitting Jugok.<br>Mira scolds him, but Mori seems distracted. Something he sees on Ilpyo's back looks familiar...</p>
+<p align="center">After welcoming Reyva to their group, they complete the carriage to be offered to the<br>king of Barcula.</p>
 </td>
 </tr>
 </table>
@@ -557,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Tamil Dub) - Episode 8 - close/friend</h3></th>
+<th><h3 align="center">Honey Lemon Soda - Episode 10 - The Side of You No One Knows</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f46f1d1a3fbc1e3466d84e50918ece0a1598249376_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/95cb36f655edd88dbf628023fd8c5d331741794501_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -575,13 +575,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG2JW5/closefriend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU8X1G7/the-side-of-you-no-one-knows">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The team led by Park Ilpyo, one of the participants considered a top Key candidate,<br>faces the team led by Gwim Gi. Gwim Gi calls upon his charyeok, Jack the<br>Ripper, but Ilpyo uses his antiquated taekkyon fighting style rather than relying on charyeok. Meanwhile,<br>Daewi is suspended from the competition after interfering  in a match and hitting Jugok.<br>Mira scolds him, but Mori seems distracted. Something he sees on Ilpyo's back looks familiar...</p>
+<p align="center">Uka ponders the nature of her relationship with Kai. What are they to each other?</p>
 </td>
 </tr>
 </table>
@@ -591,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Telugu Dub) - Episode 8 - close/friend</h3></th>
+<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Telugu Dub) - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f46f1d1a3fbc1e3466d84e50918ece0a1598249376_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ae2dbee32a2a19dc42a049b37f010c621741792543_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -609,13 +609,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3MX8E/closefriend">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ7K8P">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The team led by Park Ilpyo, one of the participants considered a top Key candidate,<br>faces the team led by Gwim Gi. Gwim Gi calls upon his charyeok, Jack the<br>Ripper, but Ilpyo uses his antiquated taekkyon fighting style rather than relying on charyeok. Meanwhile,<br>Daewi is suspended from the competition after interfering  in a match and hitting Jugok.<br>Mira scolds him, but Mori seems distracted. Something he sees on Ilpyo's back looks familiar...</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -625,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Hindi Dub) - Episode 7 - anima/force</h3></th>
+<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Hindi Dub) - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25b54f3d420d976b0b98a923317cb6a71597667552_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ae2dbee32a2a19dc42a049b37f010c621741792511_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -643,13 +643,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7VX7G/animaforce">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9N4PE">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the first match of the national tournament, Mori loses his team's opening bout by<br>applying a pressure point he learned from Bongchim of The Six, which renders him immobile.<br>The second bout pits Daewi the tournament's oldest competitor, 38-year-old Jin Pum Kwang, who overwhelms<br>Daewi with powerful attacks acquired through years of hard physical labor. Meanwhile, Commissioner Q is<br>attacked by Drake, a member of Nox, and seriously injured. Q ends up removing his<br>limiter so he can call upon the power of the gods, and the charyeok Joker<br>materializes!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
@@ -659,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">The God of High School (Tamil Dub) - Episode 7 - anima/force</h3></th>
+<th><h3 align="center">Magic Maker: How to Make Magic in Another World (Tamil Dub) - Episode 10</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/25b54f3d420d976b0b98a923317cb6a71597667552_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ae2dbee32a2a19dc42a049b37f010c621741792526_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -677,13 +677,13 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNKE0G/animaforce">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UD39XZ">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the first match of the national tournament, Mori loses his team's opening bout by<br>applying a pressure point he learned from Bongchim of The Six, which renders him immobile.<br>The second bout pits Daewi the tournament's oldest competitor, 38-year-old Jin Pum Kwang, who overwhelms<br>Daewi with powerful attacks acquired through years of hard physical labor. Meanwhile, Commissioner Q is<br>attacked by Drake, a member of Nox, and seriously injured. Q ends up removing his<br>limiter so he can call upon the power of the gods, and the charyeok Joker<br>materializes!</p>
+<p align="center"></p>
 </td>
 </tr>
 </table>
