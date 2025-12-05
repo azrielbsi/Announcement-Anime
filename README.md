@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Dec 4, 2025, 7:17:25 PM</em></p>
+<p align="center"><em>Updated on: Dec 5, 2025, 7:42:25 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -93,12 +93,12 @@ Drawn in by these mysterious doors, Suzume’s journey is about to begin.</p>
 
 <table align="center">
 <tr>
-<th><h3 align="center">Voices of a Distant Star - Episode 1 - Voices of a Distant Star</h3></th>
+<th><h3 align="center">Voices of a Distant Star - Voices of a Distant Star</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/020d7f5e77ef4011afdee91a37f136931764264527_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/8bb38d9ce46c20d51649456fb23cf89e1764202867_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
