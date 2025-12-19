@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Dec 19, 2025, 7:43:36 AM</em></p>
+<p align="center"><em>Updated on: Dec 19, 2025, 7:16:16 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Beauty Water - Beauty Water</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 4 - I Promise to Make You Number 1</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/ab104bae0403b053a72d18c055008e681660833366_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f755d17f3e4dd2e28572c83832f7b1641664077626_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -27,17 +27,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/18/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1U2QQZG/beauty-water">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGJ48/i-promise-to-make-you-number-1">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center"></p>
+<p align="center">ChamJam competes at the Autumn Sports Festival and also has voting for their popularity ranking<br>coming up. Meanwhile, Reo's birthday is coming up and Kumasa tries to get things ready<br>for the celebration.</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">5 Centimeters per Second - Episode 1 - 5 Centimeters per Second</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 5 - I Can Only Wait</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/10f9779644982efe3144cabf756c323b1765651240_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5fa81ab21054b6339e92cea0111849671664077636_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -61,17 +61,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/18/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNPV9/5-centimeters-per-second">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZPJ8/i-can-only-wait">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A tale of two people, Tono Takaki and Shinohara Akari, who were close friends but<br>gradually grow farther and farther apart as time moves on.</p>
+<p align="center">Maina notices that Eripiyo hasn't been able to buy as many CDs and starts to<br>worry, especially since she hears rumors of her switching favorites. Meanwhile, Yumeri's rank goes up,<br>and she wonders if that'll cause a rift between her and Maki.</p>
 </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">your name. - Episode 1 - your name.</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 6 - You Were My Everything</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce4001b091149df6a34f565657c61f561765651420_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fad3dec36a2b777bf312e3703296ff4f1664077714_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -95,17 +95,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/18/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZM1G/your-name">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78XNN/you-were-my-everything">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Strangers Mitsuha and Taki swap lives in dreams, forming a mysterious bond. Can they unravel<br>the truth?</p>
+<p align="center">Sorane thinks back on how she became an idol and how much she looks up<br>to Reo. Meanwhile, Motoi is crushed to hear rumors that Sorane was seen walking with<br>a guy.</p>
 </td>
 </tr>
 </table>
@@ -115,12 +115,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">your name. (Hindi Dub) - Episode 1 - your name.</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 7 - Run for Maina's Sake</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/ce4001b091149df6a34f565657c61f561765651420_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f8a3404fffd2dc990592939a8e85bfe71664077813_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -129,17 +129,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/18/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34EG0/your-name">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX297M/run-for-mainas-sake">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Strangers Mitsuha and Taki swap lives in dreams, forming a mysterious bond. Can they unravel<br>the truth?</p>
+<p align="center">Eripiyo finally recovers from her broken leg and goes right back to work so she<br>can support Maina on the last day of voting for the popularity ranking. However, she<br>overworks herself again and...</p>
 </td>
 </tr>
 </table>
@@ -149,12 +149,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Honkai: Star Rail Featured Videos - Episode 4 - Honkai: Star Rail Version 3.8 Trailer: "Memories are the Prelude to Dreams"</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 8 - I Want You in My Future</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/d89b56e035c1216325a4bc898d56deaf1765417003_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9cdb5ec194e528a23791ac0da8e455f1664078348_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -163,17 +163,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/17/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3JPM/honkai-star-rail-version-38-trailer-memories-are-the-prelude-to-dreams">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNPQ9/i-want-you-in-my-future">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Time lies dormant in the ashes, waiting to awaken. Turn the hand of destiny, and<br>write anew for the lost memories.</p>
+<p align="center">There are rumors that Sorane and Aya aren't getting along. Meanwhile, the ChamJam girls prepare<br>for their Christmas concert and Eripiyo hopes she gets to see Maina in a Santa<br>outfit this year.</p>
 </td>
 </tr>
 </table>
@@ -183,12 +183,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Chainsaw Man The Stage - Episode 1 - Chainsaw Man The Stage</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 9 - Not as a Wota, but as a Person</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f689b78f0a748dd704529ddc9ab3c2711765568608_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9672b054ebf101ed82d6fc8d985494211664078472_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -197,17 +197,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/17/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDV8N9/chainsaw-man-the-stage">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZM5G/not-as-a-wota-but-as-a-person">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Enjoy the events of the first season of Chainsaw Man re-imagined and on display as<br>a stage play.</p>
+<p align="center">Eripiyo and the other fans spend the last day of the year with ChamJam at<br>their show. Reo appears on a New Year's countdown show and the others head to<br>the shrine for their first visit of the new year.</p>
 </td>
 </tr>
 </table>
@@ -217,12 +217,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">One Piece: Egghead Island (1123-Current) - Episode 1153 - The Upheaval of an Era! The Color of the Supreme King That Leads Luffy</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 10 - Your Fave Isn't Your Friend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/18ad879070155b366021f7e2977443cb1765725148_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/092918994f2426917725c0f53ec8675d1664078590_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -231,17 +231,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/14/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0ZDQ/the-upheaval-of-an-era-the-color-of-the-supreme-king-that-leads-luffy">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34EK0/your-fave-isnt-your-friend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Vegapunk's speech raises the spirits of the pirates across the world, infuriating the Navy and<br>the civilians. However, the broadcast is suddenly cut off while Vegapunk is still speaking. Meanwhile,<br>off the coast of Egghead, the Five Elders are about to deliver the Straw Hats<br>and the Giants a deadly strike</p>
+<p align="center">ChamJam has their first concert of the new year, but Eripiyo is sick and misses<br>Maina being in the front row. Eripiyo later damages her throat even more, making her<br>unable to talk, even though the ChamJam Valentine's Day event is coming up...</p>
 </td>
 </tr>
 </table>
@@ -251,12 +251,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (English Dub) - Episode 168 - Epilogue, The Hellish Todoroki Family: Final</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 11 - The Closest Miracle to Me</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fcaa7b6afb86275018a7779eb1c617a11764174253_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b1de62ff9df6cad906124de0590006e21664078613_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -265,17 +265,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34KEZ/epilogue-the-hellish-todoroki-family-final">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EJW1/the-closest-miracle-to-me">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the long conflict over at last, the time has come to rebuild. Both on<br>a societal and personal level.</p>
+<p align="center">ChamJam gets ready for the 16th Setouchi Idol Festival, and Reo gets a message from<br>a girl who was in her previous group. Meanwhile, Eripiyo invites a friend over from<br>work so they can witness the moment ChamJam and Maina appear briefly on TV.</p>
 </td>
 </tr>
 </table>
@@ -285,12 +285,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Spanish Dub) - Episode 165 - Wrench It Open, Izuku Midoriya!!</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 12 - If My Favorite Pop Idol Made It to the Budokan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0c0bfcf6b29012dbeb8b55d0dd58b7fa1762535242_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f40a7ba118013ddec7fa79559a5531d91664078667_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -299,17 +299,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVJGM/wrench-it-open-izuku-midoriya">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QXNG/if-my-favorite-pop-idol-made-it-to-the-budokan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Izuku attempts to forcefully transfer One For All to Shigaraki, as this might prove to<br>be the key to victory.</p>
+<p align="center">ChamJam is set to perform at the Setouchi Idol Festival, but Reo seems nervous for<br>some reason. After their performance, Eripiyo reaffirms her love for Maina once again.</p>
 </td>
 </tr>
 </table>
@@ -319,12 +319,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Portuguese Dub) - Episode 167 - Izuku Midoriya Rising</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Tamil Dub) - Episode 7 - Run for Maina's Sake</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9d44701ac15f89b7c8b5cdf704c614781763661899_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f8a3404fffd2dc990592939a8e85bfe71664077813_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -333,17 +333,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDZ0E/izuku-midoriya-rising">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3J9M/run-for-mainas-sake">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After All For One takes over Shigaraki's body, the heroes must fight as one big<br>team to defeat him.</p>
+<p align="center">Eripiyo finally recovers from her broken leg and goes right back to work so she<br>can support Maina on the last day of voting for the popularity ranking. However, she<br>overworks herself again and...</p>
 </td>
 </tr>
 </table>
@@ -353,12 +353,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (French Dub) - Episode 167 - Izuku Midoriya Rising</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Tamil Dub) - Episode 8 - I Want You in My Future</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9d44701ac15f89b7c8b5cdf704c614781763661899_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d9cdb5ec194e528a23791ac0da8e455f1664078348_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -367,17 +367,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU789Z0/izuku-midoriya-rising">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX2NP/i-want-you-in-my-future">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After All For One takes over Shigaraki's body, the heroes must fight as one big<br>team to defeat him.</p>
+<p align="center">There are rumors that Sorane and Aya aren't getting along. Meanwhile, the ChamJam girls prepare<br>for their Christmas concert and Eripiyo hopes she gets to see Maina in a Santa<br>outfit this year.</p>
 </td>
 </tr>
 </table>
@@ -387,12 +387,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (German Dub) - Episode 167 - Izuku Midoriya Rising</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Tamil Dub) - Episode 9 - Not as a Wota, but as a Person</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9d44701ac15f89b7c8b5cdf704c614781763661899_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9672b054ebf101ed82d6fc8d985494211664078472_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -401,17 +401,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34WP3/izuku-midoriya-rising">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80E3M/not-as-a-wota-but-as-a-person">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After All For One takes over Shigaraki's body, the heroes must fight as one big<br>team to defeat him.</p>
+<p align="center">Eripiyo and the other fans spend the last day of the year with ChamJam at<br>their show. Reo appears on a New Year's countdown show and the others head to<br>the shrine for their first visit of the new year.</p>
 </td>
 </tr>
 </table>
@@ -421,12 +421,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Italian Dub) - Episode 167 - Izuku Midoriya Rising</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Tamil Dub) - Episode 10 - Your Fave Isn't Your Friend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/9d44701ac15f89b7c8b5cdf704c614781763661899_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/092918994f2426917725c0f53ec8675d1664078590_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -435,17 +435,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K0N7/izuku-midoriya-rising">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX1MK/your-fave-isnt-your-friend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After All For One takes over Shigaraki's body, the heroes must fight as one big<br>team to defeat him.</p>
+<p align="center">ChamJam has their first concert of the new year, but Eripiyo is sick and misses<br>Maina being in the front row. Eripiyo later damages her throat even more, making her<br>unable to talk, even though the ChamJam Valentine's Day event is coming up...</p>
 </td>
 </tr>
 </table>
@@ -455,12 +455,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Kingdom Season 6 - Episode 11 - The One-Hit-Kill Detached Force</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Tamil Dub) - Episode 11 - The Closest Miracle to Me</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/607efa657a1162653fbd9b103e5157c11765579409_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b1de62ff9df6cad906124de0590006e21664078613_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -469,17 +469,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ24MD/the-one-hit-kill-detached-force">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8K7WJ/the-closest-miracle-to-me">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The tides of battle turn as the Fei Xin Force makes their move. Meng Tian<br>joins Xin on a crucial side mission.</p>
+<p align="center">ChamJam gets ready for the 16th Setouchi Idol Festival, and Reo gets a message from<br>a girl who was in her previous group. Meanwhile, Eripiyo invites a friend over from<br>work so they can witness the moment ChamJam and Maina appear briefly on TV.</p>
 </td>
 </tr>
 </table>
@@ -489,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1185 - The Red-Brick Warehouse and the Vanishing Kidnapper (Part Two)</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Tamil Dub) - Episode 12 - If My Favorite Pop Idol Made It to the Budokan</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/2028cdbb50401b7e4101d7d6c39e07131764443039_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f40a7ba118013ddec7fa79559a5531d91664078667_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -503,17 +503,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX23PE/the-red-brick-warehouse-and-the-vanishing-kidnapper-part-two">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0KZV/if-my-favorite-pop-idol-made-it-to-the-budokan">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The kids decipher the Dice Man's code while the police pursue the culprit at the<br>red-brick warehouse.</p>
+<p align="center">ChamJam is set to perform at the Setouchi Idol Festival, but Reo seems nervous for<br>some reason. After their performance, Eripiyo reaffirms her love for Maina once again.</p>
 </td>
 </tr>
 </table>
@@ -523,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON - Episode 170 - My Hero Academia</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 1 - But I Love That Maina</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4bfd0486ace5859c8340b6939083b5921765397744_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5a3f2eef721a43428c30325da52fc02d1664077608_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -537,17 +537,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0ZWN/my-hero-academia">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NX9N/but-i-love-that-maina">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">How has the world changed in the eight years since Izuku and the heroes defeated<br>All For One and Shigaraki?</p>
+<p align="center">Eripiyo is a super fan of Maina, who is a member of the underground idol<br>group ChamJam. Eripiyo uses all of her money to support Maina to the point that<br>she only wears a red tracksuit. However, Maina always seems to act cold and distant<br>towards Eripiyo.</p>
 </td>
 </tr>
 </table>
@@ -557,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 40 - Mori Calliope RETURNS to Talk Gachiakuta Before the Season Finale</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 2 - I Always Want to Love You the Most</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3439c6d7e48b27a729651934042b16891765556132_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3b219497d5282aba6b3dbced79ce68491664077587_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -571,17 +571,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/13/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMG44M/mori-calliope-returns-to-talk-gachiakuta-before-the-season-finale">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVKND/i-always-want-to-love-you-the-most">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Mori Calliope, your favorite deadbeat dad and the vocalist behind the Gachiakuta Cour 2 opening<br>theme “LET’S JUST CRASH” is BACK on The Anime Effect to reveal why she loves<br>Rudo, Amo and the world of Gachiakuta and how she would react to a few<br>wild in-world scenarios.</p>
+<p align="center">Eripiyo and Kumasa go to Okayama Girls' Festa after learning some of the ChamJam girls<br>are set to appear. Meanwhile, Maina reveals that she's never gotten a fan letter, so<br>Sorane and Reo try to figure out a way to convince Eripiyo to write one.</p>
 </td>
 </tr>
 </table>
@@ -591,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Clueless First Friend (Telugu Dub) - Episode 11 - The Swift Reaper Alliance, the Cursed Song, and Christmas</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Telugu Dub) - Episode 3 - Do You Like Me?</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/034692afdbe2f2a8040778b87be791e81686487653_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/dfbea159b1f6834b4968b49c01771e1f1664077578_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -605,17 +605,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/12/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EJV1/the-swift-reaper-alliance-the-cursed-song-and-christmas">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVK47/do-you-like-me">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Akane and Sumire seem to have gotten closer, and Taiyou can't help but feel a<br>little jealous. Akane, Taiyou, and Hino go on a trip to the zoo. And Christmas<br>is just around the corner, which means festivities and romantic dates!</p>
+<p align="center">Motoi introduces Eripiyo and Kumasa to his little sister, Rena, who went to the Okayama<br>Girls' Festa with him. She tags along with him to see ChamJam perform after seeing<br>them at Girls' Festa and her favorite just happens to be Maina.</p>
 </td>
 </tr>
 </table>
@@ -625,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Clueless First Friend (Telugu Dub) - Episode 12 - The Christmas Party Confession</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Hindi Dub) - Episode 10 - Your Fave Isn't Your Friend</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9969f987ff98ef5dd2e97fe727f9604c1687093079_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/092918994f2426917725c0f53ec8675d1664078590_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -639,17 +639,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/12/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QX8G/the-christmas-party-confession">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZP88/your-fave-isnt-your-friend">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It's Christmas Eve, and the party at Taiyou's house is about to begin. But even<br>with tasty food and presents waiting, Akane and Taiyou can't even look each other in<br>the eye! Is there anyone or anything that can clear up this awkward mood?!</p>
+<p align="center">ChamJam has their first concert of the new year, but Eripiyo is sick and misses<br>Maina being in the front row. Eripiyo later damages her throat even more, making her<br>unable to talk, even though the ChamJam Valentine's Day event is coming up...</p>
 </td>
 </tr>
 </table>
@@ -659,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Clueless First Friend (Telugu Dub) - Episode 13 - 10 Years Later, the Same as Today</h3></th>
+<th><h3 align="center">If My Favorite Pop Idol Made It to the Budokan, I Would Die (Hindi Dub) - Episode 11 - The Closest Miracle to Me</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/18d6db8fdd3026b1a516e73d615c2d8f1687695065_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/b1de62ff9df6cad906124de0590006e21664078613_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -673,17 +673,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">12/12/2025</td>
+<td align="center">12/19/2025</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ949/10-years-later-the-same-as-today">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78X4N/the-closest-miracle-to-me">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Retrieve the ticking time bomb planted in classroom 5-1 at once! Taiyou finds himself suddenly<br>entrusted with this top secret mission. The fate of his classmates is in Taiyou's hands!<br>The bomb's location is... inside Akane's locker?!</p>
+<p align="center">ChamJam gets ready for the 16th Setouchi Idol Festival, and Reo gets a message from<br>a girl who was in her previous group. Meanwhile, Eripiyo invites a friend over from<br>work so they can witness the moment ChamJam and Maina appear briefly on TV.</p>
 </td>
 </tr>
 </table>
