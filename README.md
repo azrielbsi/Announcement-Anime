@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 4, 2026, 7:51:16 AM</em></p>
+<p align="center"><em>Updated on: Jan 4, 2026, 7:15:13 PM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -183,7 +183,7 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1187 - Episode </h3></th>
+<th><h3 align="center">Detective Conan - Episode 1187 - Episode "ZERO" Kudo Shinichi and the Aquarium Case</h3></th>
 </tr>
 <tr>
 <td>
@@ -201,7 +201,7 @@
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N4Q5/episode-">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7N4Q5/episode-zero-kudo-shinichi-and-the-aquarium-case">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
