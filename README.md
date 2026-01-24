@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 23, 2026, 7:19:06 PM</em></p>
+<p align="center"><em>Updated on: Jan 24, 2026, 7:44:17 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 3 (English Dub) - Episode 25 - Miraculous Comeback</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 50 - All Out War of Tenacity</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5f238ea705a2b0dc0c2b4b74da5d308b1766776366_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/130d4116a1bae81044224865d20039891626752843_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -27,17 +27,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/22/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDE1P/miraculous-comeback">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2ZD2/all-out-war-of-tenacity">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kanata drops through the positions due to an injured elbow and an inability to use<br>second gear, until...</p>
+<p align="center">It’s three to three. Takasugi’s foul gifts a free kick to Hyuga, who prepares to<br>unleash his Tiger Shot.</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 3 - Episode 28 - Their First Kiss</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 51 - Miracle Drive Shot</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0f65fdd7482643de305beb86cdc4ed4d1769022409_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bde290e2c0b08d53ad3a43b8ccac83801626753012_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -61,17 +61,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/22/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZPE8/their-first-kiss">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDQ3N/miracle-drive-shot">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kanata has fought his way back up to the top positions, as the Manazuru Peninsula<br>race comes to a close.</p>
+<p align="center">The final drags on into overtime, and neither Tsubasa nor Hyuga plan on sharing the<br>title. With the national tournament on the line, physical pain and injury become secondary.</p>
 </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">MF GHOST Season 3 (Portuguese Dub) - Episode 25 - Miraculous Comeback</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 52 - Endless Dream</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/5f238ea705a2b0dc0c2b4b74da5d308b1766776366_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ef9f503694e724a1c226eeca8e90f2e1626753376_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -95,17 +95,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/22/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV5Z9/miraculous-comeback">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG31PW/endless-dream">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kanata drops through the positions due to an injured elbow and an inability to use<br>second gear, until...</p>
+<p align="center">With the final ending, Tsubasa and Hyuga show what they’re made of. It’s about more<br>than scores. It’s personal. Who will become champion?</p>
 </td>
 </tr>
 </table>
@@ -115,12 +115,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season - Episode 52 - Tokushirou-san's Number One</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 41 - The Fearful Dark Horse</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/73101074d742051f53f2e9b126a138581768673845_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9b85ac2c62e735a0de4d75e2317b99cf1626750607_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -129,17 +129,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ981/tokushirou-sans-number-one">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78101/the-fearful-dark-horse">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The battle at the Sapporo brewery comes to an explosive conclusion.</p>
+<p align="center">Nankatsu SC and Hirado Middle School battle for the semifinals of the national tournament. Soon,<br>Tsubasa faces the impressive Hiroshi Jito.</p>
 </td>
 </tr>
 </table>
@@ -149,12 +149,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season (English Dub) - Episode 50 - Town of Reunions</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 42 - Phoenix Tsubasa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0a7d2b7764d3ac8a655f9a846721a0b21767408072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76530209f8bed19eea4ed2563e39f5d81626750848_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -163,17 +163,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/19/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ239W/town-of-reunions">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX281G/phoenix-tsubasa">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The different groups collide in Sapporo as a Jack the Ripper copycat is on the<br>loose.</p>
+<p align="center">After a crushing setback, Tsubasa decides to risk it all: he will attempt Roberto’s legendary<br>Spin Shot for a chance at winning.</p>
 </td>
 </tr>
 </table>
@@ -183,12 +183,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 16 - Episode 2 - Research Results</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 43 - The Savage Tiger</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f25a240c54e01dfa1c8b1481ee5ce8131768609740_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/603886475b941a17dba5569ee31e19571626751147_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -197,17 +197,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/18/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVKQN/research-results">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN7ZJ/the-savage-tiger">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">This is the story of a kid who's back in school after summer vacation.</p>
+<p align="center">In the semifinals, Meiwa and Toho Academy kick off the action. With Hyuga on the<br>bench, it’s advantage Meiwa and Takeshi Sawada suffers.</p>
 </td>
 </tr>
 </table>
@@ -217,12 +217,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (French Dub) - Episode 170 - My Hero Academia</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 44 - The Duel of the 10s</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4bfd0486ace5859c8340b6939083b5921765397744_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/84253c3c4107d0cfa9e5778dad2490671626751389_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -231,17 +231,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/17/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXP8W/my-hero-academia">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ90X/the-duel-of-the-10s">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">How has the world changed in the eight years since Izuku and the heroes defeated<br>All For One and Shigaraki?</p>
+<p align="center">In the last match of the semifinals, Nankatsu SC takes on Furano FC, known for<br>its solid teamwork and steady captain Hikaru Matsuyama.</p>
 </td>
 </tr>
 </table>
@@ -251,12 +251,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">My Hero Academia FINAL SEASON (Spanish Dub) - Episode 170 - My Hero Academia</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 45 - Tears at the Airport</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/4bfd0486ace5859c8340b6939083b5921765397744_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/73408377f21a7368a35ff63de7a814a11626751687_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -265,17 +265,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/17/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX20JK/my-hero-academia">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34Q81/tears-at-the-airport">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">How has the world changed in the eight years since Izuku and the heroes defeated<br>All For One and Shigaraki?</p>
+<p align="center">In the second half, Furano ties the match. Injured, Tsubasa attempts his signature shot, and<br>Matsuyama will do anything to prevent it.</p>
 </td>
 </tr>
 </table>
@@ -285,12 +285,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fate/strange Fake - Episode 3 - A Battle without Heroes</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 46 - Kick Off of the Century</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8a222968d60c58398c3965d598b6dd9e1768583123_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8ef745f41e7f301dd3c87842d897ec321626751934_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -299,17 +299,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/17/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0KQP/a-battle-without-heroes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E840/kick-off-of-the-century">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Clan Calatin finds itself in dire straits after interference from Assassin’s Master, Jester Karture. Hansa<br>intervenes, taking up arms not as the Overseer of the Holy Grail War, but as<br>an Executor hunting Dead Apostles. With the Servants dismissed from the stage, the two men<br>clash in a battle fought without Heroic Spirits.</p>
+<p align="center">While Tsubasa hopes the pain from his injury will subside so he can take on<br>Toho, Hyuga swallows his pride, imploring Coach Kitazume to play.</p>
 </td>
 </tr>
 </table>
@@ -319,12 +319,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fate/strange Fake (English Dub) - Episode 3 - A Battle without Heroes</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 47 - Another Confrontation with Destiny</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/8a222968d60c58398c3965d598b6dd9e1768583123_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e06258164be2dee90c7e5cc1c830a4e41626752170_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -333,17 +333,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/17/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3QX0Z/a-battle-without-heroes">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q581/another-confrontation-with-destiny">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Clan Calatin finds itself in dire straits after interference from Assassin’s Master, Jester Karture. Hansa<br>intervenes, taking up arms not as the Overseer of the Holy Grail War, but as<br>an Executor hunting Dead Apostles. With the Servants dismissed from the stage, the two men<br>clash in a battle fought without Heroic Spirits.</p>
+<p align="center">The Nankatsu and Toho Academy captains are determined to win. Hyuga bears his fangs with<br>his Tiger Shot; Tsubasa resorts to his Spin Shot.</p>
 </td>
 </tr>
 </table>
@@ -353,12 +353,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE - Episode 14 - Unforgiven</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 48 - King Toho</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/e440c1a0976db81db8df6c1f33acd2ef1768583018_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/424f8653d0b6590d8999a043229cd3b21626752350_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -367,17 +367,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/17/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34EQQ/unforgiven">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQN40/king-toho">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">When their home is attacked, Vash is the last hope for Brad, Jessica, and the<br>others.</p>
+<p align="center">Toho manages to take the lead with two goals as Tsubasa, injured, despairs. But he<br>has an idea: he’ll risk it all to put a stop to Hyuga.</p>
 </td>
 </tr>
 </table>
@@ -387,12 +387,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1189 - Double Alibi</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 49 - The Tiger and Tsubasa</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/0abe1e038630b7e9e10740921fed72b01768580916_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/af891f0ca91e96050c7593506debae7f1626752593_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -401,17 +401,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/17/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEVP01/double-alibi">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4NZP/the-tiger-and-tsubasa">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Kogoro is hired by an up-and-coming clockmaker to investigate a threatening note.</p>
+<p align="center">Nankatsu SC fortifies their defense while they wait for Tsubasa to return to the field<br>and make his move. Hyuga of course seizes the opportunity.</p>
 </td>
 </tr>
 </table>
@@ -421,12 +421,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Miburo Season 2 - Episode 4 - Infamy</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 32 - Hyuga vs. Misugi</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2e57892f7f29fb9e8fc3c92b9c0886b21767716912_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/275e96ddd222f167bbbcdd203bbb8b9a1626748448_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -435,17 +435,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/17/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG3J7M/infamy">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GVWU80K13/hyuga-vs-misugi">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The Miburo break into factions backing Serizawa and Kondo. Hijikata tries to defuse the crisis.</p>
+<p align="center">Hyuga scores three goals in the Tokyo elimination finals. Misugi must step onto the field<br>earlier than expected to even out the score.</p>
 </td>
 </tr>
 </table>
@@ -455,12 +455,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 43 - Can Music Inspire Like Anime? hemlocke springs Thinks So</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 33 - Tokyo Tournament Conclusion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/c6af2f2c837577b4a1e4c93b808dcf501768526029_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/6a8029f05f930b5ceeb27c730ed5ec6b1626748747_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -469,17 +469,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/17/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX277K/can-music-inspire-like-anime-hemlocke-springs-thinks-so">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXG8M/tokyo-tournament-conclusion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">hemlocke springs takes a break from touring and working on her new album “the apple<br>tree under the sea” to share the anime she would recommend to Chappell Roan and<br>Conan Gray, how anime like Solo Leveling inspires her music, and more!</p>
+<p align="center">In the Tokyo qualifying final, Hyuga’s show of mercy on Toho brings a bevy of<br>new complications as the final minutes tick away.</p>
 </td>
 </tr>
 </table>
@@ -489,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 3 - Episode 14 - With the Sun at His Back</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 34 - A Fierce Battle Begins</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52714091190160c77cad1640d7c3dada1767283424_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/3fecc62d93e30515b3669bc1d7164db71626748868_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -503,17 +503,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/16/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDEWV/with-the-sun-at-his-back">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KPMQ/a-fierce-battle-begins">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fire soldiers race out to fight two pillars at once. Benimaru spots a certain Infernal<br>near one of the two.</p>
+<p align="center">Tsubasa receives a message from friend Genzo, deciding at all costs to get to Brazil.<br>Hyuga also travels, but to Okinawa to see his former coach.</p>
 </td>
 </tr>
 </table>
@@ -523,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 3 (English Dub) - Episode 14 - With the Sun at His Back</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 35 - Razor Power Explosion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52714091190160c77cad1640d7c3dada1767283424_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/3bee213d4a2afa2a5dca7e0a27acb5bb1626749189_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -537,17 +537,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/16/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDE7Z/with-the-sun-at-his-back">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0E95/razor-power-explosion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fire soldiers race out to fight two pillars at once. Benimaru spots a certain Infernal<br>near one of the two.</p>
+<p align="center">Hyuga regains momentum, but a new obstacle could thwart him still. Nankatsu SC takes on<br>Azumaichi Middle School and their intimidating center.</p>
 </td>
 </tr>
 </table>
@@ -557,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 3 (French Dub) - Episode 14 - With the Sun at His Back</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 36 - Determination</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52714091190160c77cad1640d7c3dada1767283424_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/2f7fe04d81ba82d8b04cc197649f80581626749408_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -571,17 +571,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/16/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX290W/with-the-sun-at-his-back">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NZ5W/determination">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fire soldiers race out to fight two pillars at once. Benimaru spots a certain Infernal<br>near one of the two.</p>
+<p align="center">Nankatsu ties up the scoreboard thanks to Takasugi. Will Tsubasa score another goal or will<br>Azumaichi be able to tame the relentless Nankatsu SC?</p>
 </td>
 </tr>
 </table>
@@ -591,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 3 (German Dub) - Episode 14 - With the Sun at His Back</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 37 - Skylab Hurricane</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52714091190160c77cad1640d7c3dada1767283424_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/256b91037a854d8ae81b7da1444fa6d41626749592_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -605,17 +605,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/16/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVX1Q0/with-the-sun-at-his-back">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVZ9J/skylab-hurricane">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fire soldiers race out to fight two pillars at once. Benimaru spots a certain Infernal<br>near one of the two.</p>
+<p align="center">Nankatsu SC and Hanawa SS’s match takes shape with Tsubasa facing off against the Tachibana<br>Twins, who’re ready to take him down.</p>
 </td>
 </tr>
 </table>
@@ -625,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 3 (Italian Dub) - Episode 14 - With the Sun at His Back</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 38 - Assault of the Tachibana Brothers</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52714091190160c77cad1640d7c3dada1767283424_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/876a6509a923ada7d13e84112496daa01626749841_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -639,17 +639,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/16/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EJ19/with-the-sun-at-his-back">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV57P/assault-of-the-tachibana-brothers">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fire soldiers race out to fight two pillars at once. Benimaru spots a certain Infernal<br>near one of the two.</p>
+<p align="center">Injury forces Tsubasa temporarily out of the game, leaving the Tachibana Twins open to tie<br>the game. Can Tsubasa return before time runs out?</p>
 </td>
 </tr>
 </table>
@@ -659,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fire Force Season 3 (Spanish Dub) - Episode 14 - With the Sun at His Back</h3></th>
+<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 39 - Nankatsu vs. Hanawa: The Conclusion</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/52714091190160c77cad1640d7c3dada1767283424_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/480a5ce934ead2ab401a7ea6d182ec1b1626750139_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -673,17 +673,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/16/2026</td>
+<td align="center">1/23/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVK04/with-the-sun-at-his-back">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGKW1/nankatsu-vs-hanawa-the-conclusion">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Fire soldiers race out to fight two pillars at once. Benimaru spots a certain Infernal<br>near one of the two.</p>
+<p align="center">With only a few minutes left, Nankatsu SC fails to score, inviting the Tachibana twins<br>to devise a new strategy to win.</p>
 </td>
 </tr>
 </table>
