@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jan 27, 2026, 7:19:12 PM</em></p>
+<p align="center"><em>Updated on: Jan 28, 2026, 7:45:28 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -13,12 +13,12 @@
     <img align="center" height='20' src="https://github.com/Julius-Ulee/github-profile-views-counter/blob/master/graph/738176371/small/week.png"><br>
     <img align="center" src="https://img.shields.io/maintenance/yes/2024"></p><p align="center"><b>Display GitHub Action Badge</b> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/black.yml/badge.svg"></a> <a href="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml"><img align="center" src="https://github.com/Julius-Ulee/Announcements-Anime/actions/workflows/jekyll.yml/badge.svg"></a></p><p align="center"><a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/README.md">Readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.github/workflows/black.yml">Actions-YML</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/.gitignore">Gitignore</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/LICENSE">License</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/update-readme.js">Update-readme</a> • <a href="https://github.com/Julius-Ulee/Announcements-Anime/blob/master/package.json">Package</a></p><table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season - Episode 53 - Making a Homeland</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO OVA - Episode 1 - The Penultimate Truth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/a315bbc611ca29ddca6161d564b88f351769104203_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/56fa8b37b46fc893c70ccc2cc5b1c5111769282275_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -27,17 +27,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/26/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4DG1/making-a-homeland">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN7NJ/the-penultimate-truth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Botaro has his own ideas about what to do with the gold.</p>
+<p align="center">Unresolved situations, overflowing emotions, and a conclusion to many issues.</p>
 </td>
 </tr>
 </table>
@@ -47,12 +47,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season (English Dub) - Episode 51 - Send Up The Fireworks!</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO OVA (English DUB) - Episode 1 - The Penultimate Truth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/1c58cb2ba4e8d4308347610a9ed1745d1767824971_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/56fa8b37b46fc893c70ccc2cc5b1c5111769282323_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -61,17 +61,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/26/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDE1X/send-up-the-fireworks">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ9ZX/the-penultimate-truth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The chaotic battle at the Sapporo Beer factory begins.</p>
+<p align="center">Unresolved situations, overflowing emotions, and a conclusion to many issues.</p>
 </td>
 </tr>
 </table>
@@ -81,12 +81,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Golden Kamuy Final Season (Russian Dub) - Episode 50 - Town of Reunions</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 15 - Toll for the Brave</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/0a7d2b7764d3ac8a655f9a846721a0b21767408072_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/312e0bcb06c22675967e1b6bb103ff7f1422086864_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -95,17 +95,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/26/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78138/town-of-reunions">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G31UVXGXM/toll-for-the-brave">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The different groups collide in Sapporo as a Jack the Ripper copycat is on the<br>loose.</p>
+<p align="center">After Slaine faces discrimination for being a Terran, Count Saazbaum makes a surprise announcement. Meanwhile,<br>Inaho and Slaine meet again on the battlefield as the war rages on.</p>
 </td>
 </tr>
 </table>
@@ -115,12 +115,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Theatre of Darkness: Yamishibai 16 - Episode 3 - A Peaceful Village</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 16 - Soldiers' Pay</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/f8c2851c519004ed3ff140e7b6ea8b191768847887_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/ebf136269050d7889700dc4999a402781422651781_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -129,17 +129,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/25/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGJVE/a-peaceful-village">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GPWU8KPKQ/soldiers-pay">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">This is the story of a man who's gone into hiding at a rural village.</p>
+<p align="center">As Slaine ascends the ranks, he puts a plan into motion to deflect scrutiny. Meanwhile,<br>Yuki prepares for a possible reunion with Inaho as the Terrans face another Kataphrakt threat.</p>
 </td>
 </tr>
 </table>
@@ -149,12 +149,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fate/strange Fake - Episode 4 - The Canon of Demigods</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 17 - The Turning Wheel</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/12e0b0977e626016543153e0fca391cc1766532065_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/533c864b6062a1d34d591b92469fdaa61423226083_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -163,17 +163,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NXMK/the-canon-of-demigods">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G2XUN0E05/the-turning-wheel">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The sun has risen, closing the curtains on the night of the battle at the<br>police station. Orlando, busy with caring for the aftermath of the battle, is visited by<br>Francesca. He fails to conceal his frustration towards Francesca’s flippant attitude. Suddenly, a single arrow<br>soars past them, aimed at Gilgamesh and Tiné who are positioned at the Crystal Hill.<br>After intercepting the second arrow fired shortly thereafter, Gilgamesh and Tiné proceed toward the canyon<br>where they discover another Archer waiting for them.</p>
+<p align="center">The Earth forces now have Count Mazuurek as a captive. With such a high value<br>prisoner, what will this mean for the relations between the Earth and Mars? And with<br>the Deucalion back on Earth, what is the next move?</p>
 </td>
 </tr>
 </table>
@@ -183,12 +183,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Fate/strange Fake (English Dub) - Episode 4 - The Canon of Demigods</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 18 - The Rose and the Ring</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/12e0b0977e626016543153e0fca391cc1768757282_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/4f9edfb962902a83baaee3b68eba1c071423857932_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -197,17 +197,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ921/the-canon-of-demigods">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G8WU7NZNW/the-rose-and-the-ring">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The sun has risen, closing the curtains on the night of the battle at the<br>police station. Orlando, busy with caring for the aftermath of the battle, is visited by<br>Francesca. He fails to conceal his frustration towards Francesca’s flippant attitude. Suddenly, a single arrow<br>soars past them, aimed at Gilgamesh and Tiné who are positioned at the Crystal Hill.<br>After intercepting the second arrow fired shortly thereafter, Gilgamesh and Tiné proceed toward the canyon<br>where they discover another Archer waiting for them.</p>
+<p align="center">The Earth forces are slowly making gains, with the aid of Inaho's abilities they're managing<br>to challenge the Knights. Slaine, having now become a Count, must work his way into<br>the favor of the 37 Clans.</p>
 </td>
 </tr>
 </table>
@@ -217,12 +217,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE (English DUB) - Episode 13 - Wandering Days</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 19 - Here to There</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/f04d669af80760fe17f3296d754f7d881767477718_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/f043978987a8c1f296117437be5eaa081424537892_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -231,17 +231,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDQKP/wandering-days">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GZ7UDVZVJ/here-to-there">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Two years have passed since the events at JuLai. Vash is still missing. Someone is<br>stealing Plants again.</p>
+<p align="center">Princess Asseylum's marriage to Slaine is officially announced. Meanwhile, Slaine organizes an unprecedented attack on<br>Earth after rallying as many Counts to his cause as possible.</p>
 </td>
 </tr>
 </table>
@@ -251,12 +251,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">TRIGUN STARGAZE - Episode 15 - Memento Mori</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 20 - The Light of Day</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/bac3e28e13c42684b46f2b576ac4f8a11769101737_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/fecbd0a9d9d3b732ca0ff85f66e3335d1425084028_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -265,17 +265,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9EJ83/memento-mori">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GD9UEV5VP/the-light-of-day">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The immediate threat is suppressed, but now there is no doubt that the threat from<br>Knives is still real.</p>
+<p align="center">The Earth Forces are on the retreat after the Vers three-pronged attack. Meanwhile the relationship<br>between Slaine and Lemrina grows in tense.</p>
 </td>
 </tr>
 </table>
@@ -285,12 +285,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Detective Conan - Episode 1190 - The Lover Who Vanished on Pont Koitani (Tottori Tour)</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 21 - The Fortune's Fool</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/9418eb29f99ea22102cb4c7ffc70beeb1769100345_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5d7e8de83c62e05ed48ffa9f36e44c271425670070_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -299,17 +299,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGP84/the-lover-who-vanished-on-pont-koitani-tottori-tour">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GQJUMGKG1/the-fortunes-fool">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">A waitress disappears from the ryokan where Conan, Ran, and Kogoro are staying at the<br>Misasa Hot Springs.</p>
+<p align="center">At a loss on how to deal with a multiple Kataphraktoi attack, the Terran forces<br>rest their hopes on Inaho's abilities. However, they may be relying on him too much.<br>Lemrina, meanwhile, makes a move after figuring out her sister has awoken.</p>
 </td>
 </tr>
 </table>
@@ -319,12 +319,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Blue Miburo Season 2 - Episode 5 - Firefly Glow</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 22 - Out of the Past</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/e1781ac6a340cca4f22af63ed5694f2f1769098394_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/494aa79faf5fe66eed423d87c8db30641426284580_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -333,17 +333,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GMKUEX2JP/firefly-glow">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G50UMZQZP/out-of-the-past">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Taro struggles to make himself useful to Serizawa even as Serizawa's conduct grows increasingly suspect.</p>
+<p align="center">The Terran forces prepare a two-pronged attack on the Martians. Inaho continues to feel the<br>negative effects of relying on his cybernetic eye. Klancain meets with Slaine.</p>
 </td>
 </tr>
 </table>
@@ -353,12 +353,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 44 - Yasuhiro Nightow Has Us HYPED for TRIGUN STARGAZE</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 23 - The Unvanquished</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/158d1f2632ee8805c73d5d79acce0c5b1769195093_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/5503c43067adf8e03ce787541194c6c51426874026_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -367,17 +367,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/24/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMNQQQ/yasuhiro-nightow-has-us-hyped-for-trigun-stargaze">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78181/the-unvanquished">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Trigun and TRIGUN STARGAZE creator Yasuhiro Nightow reveals his favorite and least favorite Trigun characters,<br>what he loves about the new adaptation, and so much more, only on The Anime<br>Effect.</p>
+<p align="center">Both the Terrans and the Martians prepare for a massive final battle. Meanwhile, with her<br>allies dwindling, Princess Asseylum makes a valiant last-ditch effort to end the war once and<br>for all.</p>
 </td>
 </tr>
 </table>
@@ -387,12 +387,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 50 - All Out War of Tenacity</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 24 - Inherit the Stars</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/130d4116a1bae81044224865d20039891626752843_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/422f7c7bcdeb040c312c6f5af19a106f1427489349_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -401,17 +401,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/23/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2ZD2/all-out-war-of-tenacity">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX282G/inherit-the-stars">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">It’s three to three. Takasugi’s foul gifts a free kick to Hyuga, who prepares to<br>unleash his Tiger Shot.</p>
+<p align="center">Empress Asseylum declares a cease-fire and, with Slaine's resolve seemingly shaken, a rift surfaces between<br>the Orbital Knights. Inaho and Slaine finally settle their differences on the battlefield.</p>
 </td>
 </tr>
 </table>
@@ -421,12 +421,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 51 - Miracle Drive Shot</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 5 - Phantom of The Emperor</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/bde290e2c0b08d53ad3a43b8ccac83801626753012_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/63c2104ac0abf947e3f0a9709990df2d1406925771_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -435,17 +435,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/23/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDQ3N/miracle-drive-shot">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34QD1/phantom-of-the-emperor">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">The final drags on into overtime, and neither Tsubasa nor Hyuga plan on sharing the<br>title. With the national tournament on the line, physical pain and injury become secondary.</p>
+<p align="center">The Emperor of Mars calls for a cease fire. Inaho and friends take the moment<br>to rest aboard an Earth Navy Ship. Slaine tries to find a way to reveal<br>the conspiracy of the Martian Forces true intentions.</p>
 </td>
 </tr>
 </table>
@@ -455,12 +455,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 52 - Endless Dream</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 6 - Steel Step Suite</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/5ef9f503694e724a1c226eeca8e90f2e1626753376_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/461319f5874f323bde480f27cc7a56261407517856_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -469,17 +469,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/23/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG31PW/endless-dream">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E820/steel-step-suite">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">With the final ending, Tsubasa and Hyuga show what they’re made of. It’s about more<br>than scores. It’s personal. Who will become champion?</p>
+<p align="center">The Emperor of Mars broadcasts an official declaration of war against Earth. Inaho and his<br>friends are drafted into the military and Slaine is on the run.</p>
 </td>
 </tr>
 </table>
@@ -489,12 +489,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 41 - The Fearful Dark Horse</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 7 - The Boys of Earth</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/9b85ac2c62e735a0de4d75e2317b99cf1626750607_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/d462a738195397f5d79222874dc7284c1408142158_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -503,17 +503,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/23/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GWDU78101/the-fearful-dark-horse">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GX9U3Q5Q1/the-boys-of-earth">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">Nankatsu SC and Hirado Middle School battle for the semifinals of the national tournament. Soon,<br>Tsubasa faces the impressive Hiroshi Jito.</p>
+<p align="center">Lord Saazbaum decides to hold back on chasing Slaine, and instead tracks as he flees<br>to Earth.  Meanwhile Inaho and friends have arrived at Tanegashima, a mysterious location.</p>
 </td>
 </tr>
 </table>
@@ -523,12 +523,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 42 - Phoenix Tsubasa</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 8 - Then and Now</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/76530209f8bed19eea4ed2563e39f5d81626750848_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/15fe2dafb99e0d1593d87de09db97c621408745451_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -537,17 +537,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/23/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GG1UX281G/phoenix-tsubasa">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQNQ0/then-and-now">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">After a crushing setback, Tsubasa decides to risk it all: he will attempt Roberto’s legendary<br>Spin Shot for a chance at winning.</p>
+<p align="center">Princess Asseylum reveals herself to the Earth forces and Slaine remembers the time he spent<br>with the Princess whilst being tortured by Count Cruhteo.</p>
 </td>
 </tr>
 </table>
@@ -557,12 +557,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 43 - The Savage Tiger</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 9 - Darkness Visible</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire2-tmb/603886475b941a17dba5569ee31e19571626751147_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/76e4b213e0a4a0bc9dfde0d1e13356cf1409339060_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -571,17 +571,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/23/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G0DUMN7ZJ/the-savage-tiger">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/G14UV4N4P/darkness-visible">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the semifinals, Meiwa and Toho Academy kick off the action. With Hyuga on the<br>bench, it’s advantage Meiwa and Takeshi Sawada suffers.</p>
+<p align="center">Slaine wakes up in the Landing Castle of Count Saazbaum and learns the true intentions<br>of the Count. Rayet and Lt. Marito must deal with with their individual memories of<br>those they have lost to the Martians.</p>
 </td>
 </tr>
 </table>
@@ -591,12 +591,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 44 - The Duel of the 10s</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 10 - Before the War</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/84253c3c4107d0cfa9e5778dad2490671626751389_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire4-tmb/c49ee94e8d561ecdbfb6d7c6222b37891409878033_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -605,17 +605,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/23/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/GEVUWZ90X/the-duel-of-the-10s">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GJWUQ2Z22/before-the-war">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the last match of the semifinals, Nankatsu SC takes on Furano FC, known for<br>its solid teamwork and steady captain Hikaru Matsuyama.</p>
+<p align="center">The Deucalion has crashed after the Aldnoah drive stops working and the crew scramble to<br>find Princess Asseylum. Slaine learns the history of Mars and is given an ultimatum by<br>Count Saazbaum.</p>
 </td>
 </tr>
 </table>
@@ -625,12 +625,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 45 - Tears at the Airport</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 11 - Wind, Snow and Stars</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/73408377f21a7368a35ff63de7a814a11626751687_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/e3c91bb9fc12adacdc079adfbcc85e1c1410580465_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -639,17 +639,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/23/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G7PU34Q81/tears-at-the-airport">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GN7UNDQDN/wind-snow-and-stars">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">In the second half, Furano ties the match. Injured, Tsubasa attempts his signature shot, and<br>Matsuyama will do anything to prevent it.</p>
+<p align="center">Count Saazbaum's Landing Castle descends down to Earth and begins an assault on the United<br>Earth HQ. The Deucalion is under direct attack from Martian forces and Princess Asseylum must<br>make her way to the ship.</p>
 </td>
 </tr>
 </table>
@@ -659,12 +659,12 @@
 
 <table align="center">
 <tr>
-<th><h3 align="center">Captain Tsubasa (English Dub) - Episode 46 - Kick Off of the Century</h3></th>
+<th><h3 align="center">ALDNOAH.ZERO (English Dub) - Episode 12 - Childhood's End</h3></th>
 </tr>
 <tr>
 <td>
 <p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/8ef745f41e7f301dd3c87842d897ec321626751934_thumb.jpg" height="256">
+<img src="https://img1.ak.crunchyroll.com/i/spire1-tmb/fc5f8eb886f31998d59192701c6de5451411168640_thumb.jpg" height="256">
 </p>
 </td>
 </tr>
@@ -673,17 +673,17 @@
 <table align="center">
 <tr>
 <td>📔 Publish Date :</td>
-<td align="center">1/23/2026</td>
+<td align="center">1/27/2026</td>
 </tr>
 <tr>
 <td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G9DU9E840/kick-off-of-the-century">Anime Information</a></td>
+<td align="center"><a href="http://www.crunchyroll.com/watch/GK9UG313W/childhoods-end">Anime Information</a></td>
 </tr>
 <tr>
 <td colspan="2">📙 Description :</td></tr>
 <tr>
 <td colspan="2">
-<p align="center">While Tsubasa hopes the pain from his injury will subside so he can take on<br>Toho, Hyuga swallows his pride, imploring Coach Kitazume to play.</p>
+<p align="center">The Deucalion has collided with Count Saazbaum's Landing Castle. Inaho, Yuki and Inko must now<br>escort Princess Asseylum to the Aldnoah Drive. Meanwhile Slaine is rushing back to the Landing<br>Castle and Count Saazbaum is still out there in the Dioscuria.</p>
 </td>
 </tr>
 </table>
