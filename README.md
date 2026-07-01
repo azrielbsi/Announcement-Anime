@@ -1,6 +1,6 @@
 <p align="center"><a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Latest+Anime+List" alt="Typing SVG" /></a></p>
 
-<p align="center"><em>Updated on: Jun 30, 2026, 8:46:38 PM</em></p>
+<p align="center"><em>Updated on: Jul 1, 2026, 9:00:27 AM</em></p>
 
 <p align="center"><img src="img/news.png" height="100"></p><p align="center">This script aims to automate the process of updating the latest anime information, so that users do not need to do it manually. This makes it easier for users to know what anime are newly released and makes it easier for them to access more information.</p><p align="center">
     <img align="center" src="https://img.shields.io/github/contributors/Julius-Ulee/Announcements-Anime"> 
@@ -616,40 +616,6 @@
 <tr>
 <td colspan="2">
 <p align="center">Kogoro is hired to catch a porch pirate.</p>
-</td>
-</tr>
-</table>
-</td>
-</tr>
-</table>
-
-<table align="center">
-<tr>
-<th><h3 align="center">Crunchyroll Presents: The Anime Effect Season 2 - Episode 58 - Kagurabachi Anime is REAL + ANI-MAY Begins!</h3></th>
-</tr>
-<tr>
-<td>
-<p align="center">
-<img src="https://img1.ak.crunchyroll.com/i/spire3-tmb/80633125d1a75c5aa41d4a924aed77a61777592744_thumb.jpg" height="256">
-</p>
-</td>
-</tr>
-<tr>
-<td>
-<table align="center">
-<tr>
-<td>📔 Publish Date :</td>
-<td align="center">5/1/2026</td>
-</tr>
-<tr>
-<td>📕 Link :</td>
-<td align="center"><a href="http://www.crunchyroll.com/watch/G4VUWQ8MZ/kagurabachi-anime-is-real-ani-may-begins">Anime Information</a></td>
-</tr>
-<tr>
-<td colspan="2">📙 Description :</td></tr>
-<tr>
-<td colspan="2">
-<p align="center">Y'all the anime news this week is CRAZY! We're breaking down what you can see<br>this ANI-MAY, the awesome titles announced at CCXP Mexico and Kagurabachi is getting an anime!<br>PLUS, Nick and Alex face off in the ANIME COURTROOM!</p>
 </td>
 </tr>
 </table>
